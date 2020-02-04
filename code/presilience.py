@@ -25,7 +25,7 @@ import warnings
 
 
 def modified_shannon_entropy(G, f, removal='random',
-                             ntimes=100, return_stdv=False):
+                             niter=50, return_stdv=False):
     """
     After a fraction, f, nodes have been 'removed' from the network (i.e., they
     have become disconnected isolates, such that the number of nodes does not
@@ -61,7 +61,7 @@ def modified_shannon_entropy(G, f, removal='random',
 
     """
     H_msh_mean = []
-    for _ in range(ntimes):
+    for _ in range(niter):
         out_H = []
         N = G.number_of_nodes()
         leading_term = -1 / np.log2(N)
@@ -93,18 +93,16 @@ def modified_shannon_entropy(G, f, removal='random',
         H_msh = np.abs(leading_term * np.sum(out_H))
         H_msh_mean.append(H_msh)
 
-    H_msh_mean = np.array(H_msh_mean).mean()
+    if return_stdv and niter > 4:
 
-    if return_stdv and ntimes > 4:
-        H_msh_stdv = np.array(H_msh_mean).mean()
-        return H_msh_mean, H_msh_stdv
+        return np.array(H_msh_mean).mean(), np.array(H_msh_mean).std()
 
     else:
-        return H_msh_mean
+        return np.array(H_msh_mean).mean()
 
 
-def resilience(G, ntimes=10, rate=50, output_list=True, removal='random',
-               H_std=True, niter=20):
+def resilience(G, ntimes=2, rate=51, output_list=True, removal='random',
+               H_std=True, niter=50):
     """
     The resilience of a network, G, is defined as the Shannon
     entropy of the cluster size distribution of a graph at a given
@@ -142,19 +140,23 @@ def resilience(G, ntimes=10, rate=50, output_list=True, removal='random',
 
     """
 
-    out = []
+    out_mean = []
+    out_stdv = []
     for _ in range(ntimes):
-        H_out = []
+        H_out_mean = []
+        H_out_stdv = []
         for f in np.linspace(0, 1, rate):
             H_msh_mean, H_msh_stdv = modified_shannon_entropy(G, f, removal,
                                                               niter, H_std)
-            H_out.append(H_msh_mean)
+            H_out_mean.append(H_msh_mean)
+            H_out_stdv.append(H_msh_stdv)
             # H_out.append(modified_shannon_entropy(G, f, removal))
 
-        out.append(np.array(H_out))
+        out_mean.append(np.array(H_out_mean))
+        out_stdv.append(np.array(H_out_stdv))
 
-    out = np.array(out)
-    out_mean = out.mean(axis=0)
+    out_mean = np.array(out_mean).mean(axis=0)
+    out_stdv = np.array(out_stdv).mean(axis=0)
 
     if output_list:
         return out_mean
