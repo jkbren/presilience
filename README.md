@@ -66,7 +66,7 @@ Bibtex:
 @article{klein2020presilience,
   title = {Resilience and evolvability of protein-protein interaction networks},
   author = {Klein, Brennan and Holmér, Ludvig and Smith, Keith M. and Johnson, Mackenzie M.
-    and Swain, Anshuman and Stolp, Laura and Teufel, Ashley I. and Kleppe, April S.},
+            and Swain, Anshuman and Stolp, Laura and Teufel, Ashley I. and Kleppe, April S.},
   journal = {arXiv preprint XXX},
   year = {2020}
 }
@@ -77,7 +77,7 @@ Bibtex:
 * Zitnik, M., Sosič, R., Feldman, M.W., and Leskovec, J. (2019). **Evolution of
 resilience in protein interactomes across the tree of life**. *Proceedings of
 the National Academy of Sciences*. 116, 10, 4426–4433. 
-doi:[10.1073/pnas.1818013116](https://www.pnas.org/content/116/10/4426).
+doi: [10.1073/pnas.1818013116](https://www.pnas.org/content/116/10/4426).
     + recent work introducing the *network resilience* measure used here,
     showing that the resilience of protein-protein interactomes increases
     across the tree of life.
