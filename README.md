@@ -65,7 +65,7 @@ Bibtex:
 ```text
 @article{klein2020presilience,
   title = {Resilience and evolvability of protein-protein interaction networks},
-  author = {Klein, Brennan and Holmér, Ludvig and Smith, Keith M. and Johnson, Mackenzie M.\
+  author = {Klein, Brennan and Holmér, Ludvig and Smith, Keith M. and Johnson, Mackenzie M.
     and Swain, Anshuman and Stolp, Laura and Teufel, Ashley I. and Kleppe, April S.},
   journal = {arXiv preprint XXX},
   year = {2020}
