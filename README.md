@@ -3,9 +3,9 @@
 Python code for calculating the resilience and the *prospective resilience*
 in networks. This code accompanies the recent paper: 
 
-**Resilience and evolvability of protein-protein interaction networks**\
-Brennan Klein, Ludvig Holmér, Keith M. Smith, Mackenzie M. Johnson, Anshuman Swain, Laura Stolp, Ashley I. Teufel, and April S. Kleppe, 2020.
-
+**Resilience and evolvability of protein-protein interaction networks**. by
+Brennan Klein, Ludvig Holmér, Keith M. Smith, Mackenzie M. Johnson, Anshuman
+Swain, Laura Stolp, Ashley I. Teufel, and April S. Kleppe. (2020).
 
 - - - -
 
@@ -24,9 +24,9 @@ Brennan Klein, Ludvig Holmér, Keith M. Smith, Mackenzie M. Johnson, Anshuman Sw
 - - - -
 
 ## Analysis Notebooks
-1. [01_Intro_Network_Resilience](https://nbviewer.jupyter.org/github/jkbren/einet/blob/master/code/Chapter%2001%20-%20Network%20Effective%20Information.ipynb)
-2. [02_Protein_Network_Resilience](https://nbviewer.jupyter.org/github/jkbren/einet/blob/master/code/Chapter%2002%20-%20Network%20Size%20and%20Effective%20Information.ipynb)
-3. [03_Prospective_Resilience](https://nbviewer.jupyter.org/github/jkbren/einet/blob/master/code/Chapter%2002%20-%20Network%20Size%20and%20Effective%20Information.ipynb)
+1. [01_Intro_Network_Resilience](https://nbviewer.jupyter.org/github/jkbren/presilience/blob/master/code/01_Intro_Network_Resilience.ipynb)
+2. [02_Protein_Network_Resilience](https://nbviewer.jupyter.org/github/jkbren/presilience/blob/master/code/01_Intro_Network_Resilience.ipynb)
+3. [03_Prospective_Resilience](https://nbviewer.jupyter.org/github/jkbren/presilience/blob/master/code/01_Intro_Network_Resilience.ipynb)
 
 
 ## Installation and Usage
@@ -64,10 +64,11 @@ in protein-protein interaction networks.**
 Bibtex: 
 ```text
 @article{klein2020presilience,
-  title={Resilience and evolvability of protein-protein interaction networks},
-  author={Klein, Brennan and Holmér, Ludvig and Smith, Keith M. and Johnson, Mackenzie M. and Swain, Anshuman and Stolp, Laura and Teufel, Ashley I. and Kleppe, April S.},
-  journal={arXiv preprint XXX},
-  year={2020}
+  title = {Resilience and evolvability of protein-protein interaction networks},
+  author = {Klein, Brennan and Holmér, Ludvig and Smith, Keith M. and Johnson, Mackenzie M.\
+    and Swain, Anshuman and Stolp, Laura and Teufel, Ashley I. and Kleppe, April S.},
+  journal = {arXiv preprint XXX},
+  year = {2020}
 }
 ```
 
@@ -75,7 +76,7 @@ Bibtex:
 
 * Zitnik, M., Sosič, R., Feldman, M.W., and Leskovec, J. (2019). **Evolution of
 resilience in protein interactomes across the tree of life**. *Proceedings of
-the National Academy of Sciences*. 116, 10, 4426–4433.
+the National Academy of Sciences*. 116, 10, 4426–4433. 
 doi:[10.1073/pnas.1818013116](https://www.pnas.org/content/116/10/4426).
     + recent work introducing the *network resilience* measure used here,
     showing that the resilience of protein-protein interactomes increases
