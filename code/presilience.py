@@ -21,100 +21,11 @@ email: brennanjamesklein@gmail.com
 
 import networkx as nx
 import numpy as np
-from scipy import stats
-import scipy as sp
 import warnings
 
 
-def softmax(A, k=1.0):
-    """
-    Calculates the softmax of a distribution, A,
-    modulated by a precision term, k.
-
-    Parameters
-    ----------
-    A (np.ndarray or list):
-        the vector that you would like to softmax.
-
-    k (float):
-        when k is very negative, this function returns a
-        uniform distribution. when high and positive, it
-        resembles a delta funciton around A.max.
-
-    Returns
-    -------
-    A (np.ndarray)
-        the softmaxed version of the input vector.
-
-    """
-    A = np.array(A) if not isinstance(A, np.ndarray) else A
-    A = A * k
-    maxA = A.max()
-    A = A - maxA
-    A = np.exp(A)
-    A = A / np.sum(A)
-
-    return A
-
-
-def resilience(G, ntimes=10, rate=50, output_list=True, removal='random'):
-    """
-    The resilience of a network, G, is defined as the Shannon
-    entropy of the cluster size distribution of a graph at a given
-    time, t. By repeatedly removing a fraction of random nodes at each
-    timestep, we observe the change of this distribution and, as such
-    the entropy, H_sh. The resilience is calculated as the 1-sum(H_sh).
-
-    Parameters
-    ----------
-    G (nx.Graph):
-        the graph in question.
-
-    n_times (int):
-        the number of runs that the algorithm goes through in order to arrive
-        at the final (averaged) entropy value.
-
-    rate (int):
-        the number of intervals between 0 and 1, which correspond to fractions
-        of the network that are removed at each step.
-
-    output_list (bool):
-        if True, returns a list of resilience values. else, returns one value.
-.
-    removal (str):
-        method of node-removal. for now this only includes 'random', but one
-        can imagine a number of ways to systematically bias the node-removal
-        process (e.g. based preferentially on degree, etc.)
-
-    Returns
-    -------
-    out_mean (list or float):
-        if output_list==True, this function returns a list of length = rate
-        entropy values, which forms the curve that is used to calculate the
-        network resilience. else, it returns 1 - sum(out_mean)/rate.
-
-    """
-
-    out = []
-    for _ in range(ntimes):
-        H_out = []
-        for f in np.linspace(0, 1, rate):
-            H_out.append(modified_shannon_entropy(G, f, removal))
-
-        out.append(np.array(H_out))
-
-    out = np.array(out)
-    out_mean = out.mean(axis=0)
-
-    if output_list:
-        return out_mean
-
-    else:
-        return 1 - sum(out_mean)/rate
-
-
 def modified_shannon_entropy(G, f, removal='random',
-                             ntimes=10, return_stdv=False):
+                             ntimes=100, return_stdv=False):
     """
     After a fraction, f, nodes have been 'removed' from the network (i.e., they
     have become disconnected isolates, such that the number of nodes does not
@@ -190,3 +101,138 @@ def modified_shannon_entropy(G, f, removal='random',
 
     else:
         return H_msh_mean
+
+
+def resilience(G, ntimes=10, rate=50, output_list=True, removal='random',
+               H_std=True, niter=20):
+    """
+    The resilience of a network, G, is defined as the Shannon
+    entropy of the cluster size distribution of a graph at a given
+    time, t. By repeatedly removing a fraction of random nodes at each
+    timestep, we observe the change of this distribution and, as such
+    the entropy, H_sh. The resilience is calculated as the 1-sum(H_sh).
+
+    Parameters
+    ----------
+    G (nx.Graph):
+        the graph in question.
+
+    n_times (int):
+        the number of runs that the algorithm goes through in order to arrive
+        at the final (averaged) entropy value.
+
+    rate (int):
+        the number of intervals between 0 and 1, which correspond to fractions
+        of the network that are removed at each step.
+
+    output_list (bool):
+        if True, returns a list of resilience values. else, returns one value.
+.
+    removal (str):
+        method of node-removal. for now this only includes 'random', but one
+        can imagine a number of ways to systematically bias the node-removal
+        process (e.g. based preferentially on degree, etc.)
+
+    Returns
+    -------
+    out_mean (list or float):
+        if output_list==True, this function returns a list of length = rate
+        entropy values, which forms the curve that is used to calculate the
+        network resilience. else, it returns 1 - sum(out_mean)/rate.
+
+    """
+
+    out = []
+    for _ in range(ntimes):
+        H_out = []
+        for f in np.linspace(0, 1, rate):
+            H_msh_mean, H_msh_stdv = modified_shannon_entropy(G, f, removal,
+                                                              niter, H_std)
+            H_out.append(H_msh_mean)
+            # H_out.append(modified_shannon_entropy(G, f, removal))
+
+        out.append(np.array(H_out))
+
+    out = np.array(out)
+    out_mean = out.mean(axis=0)
+
+    if output_list:
+        return out_mean
+
+    else:
+        return 1 - sum(out_mean) / rate
+
+
+def add_node(G, m, n, method='random', alpha=1.0):
+    """
+    Add node to the network according to the method supplied. This new node may
+    be added randomly, preferentially based on degree, or using insights about
+    empirical distributions of protein-specific interaction patterns (here
+    named 'bio_smart', 'random', and 'degree').
+
+    Params
+    ------
+    G (nx.Graph):
+        the (protein-protein interaction) network in question.
+
+    m (int):
+        the number of edges that each new node brings to the network.
+
+    method (str):
+        the method of node-addition in question. can be any of the following:
+            - 'random': adds node's edges randomly.
+            - 'degree': adds edges preferentially based on degree.
+            - 'bio_smart': adds edges based on gene_expression data.
+
+    alpha (float):
+        in case the method=='degree', alpha tunes the preferential attachment
+        exponent, which makes node_i more / less likely to attaching its m
+        edges to high-degree nodes.
+
+    Returns
+    -------
+    G (nx.Graph):
+        the graph with nodes added.
+
+    """
+    nodes = list(G.nodes())
+    N = len(nodes)
+
+    if method == 'random':
+        # add random node
+        probs = [1 / N for i in range(N)]
+        eijs = np.random.choice(nodes, size=(m,), replace=False, p=probs)
+
+        for node_j in eijs:
+            G.add_edge(n, node_j)
+
+        return G
+
+    if method == 'degree':
+        # add preferential attachment based on degree
+        degrees = np.array(list(dict(G.degree()).values()))
+        probs = (degrees**alpha) / sum(degrees**alpha)
+        eijs = np.random.choice(nodes, size=(m,), replace=False, p=probs)
+
+        for node_j in eijs:
+            G.add_edge(n, node_j)
+
+        return G
+
+    if method == 'bio_smart':
+        # add node preferentially by the node's gene expression attribute
+        gex_dict = nx.get_node_attributes(G, 'gene_expression')
+        gene_expression = np.array(list(gex_dict.values()))
+        gene_exp_decile = np.percentile(gene_expression, 10)
+
+        probs = (gene_expression) / sum(gene_expression)
+        eijs = np.random.choice(nodes, size=(m,), replace=False, p=probs)
+
+        for node_j in eijs:
+            G.add_edge('added_protein_'+str(n), node_j)
+
+        gene_exp_dict = nx.get_node_attributes(G, 'gene_expression')
+        gene_exp_dict['added_protein_'+str(n)] = gene_exp_decile
+        nx.set_node_attributes(G, gene_exp_dict, 'gene_expression')
+
+        return G

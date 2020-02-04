@@ -4,7 +4,7 @@ Python code for calculating the resilience and the *prospective resilience*
 in networks. This code accompanies the recent paper: 
 
 **Resilience and evolvability of protein-protein interaction networks**\
-Brennan Klein, Ludvig Holmér, Keith M. Smith, Mackenzie M. Johnson, Anshuman Swain, Laura Stolp, Ashley I. Teufel, and April S. Kleppe, 2020.\
+Brennan Klein, Ludvig Holmér, Keith M. Smith, Mackenzie M. Johnson, Anshuman Swain, Laura Stolp, Ashley I. Teufel, and April S. Kleppe, 2020.
 
 
 - - - -
