@@ -1,0 +1,2890 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="gene_expression" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="ENSP00000053468">
+      <data key="d0">37.0</data>
+    </node>
+    <node id="ENSP00000225969">
+      <data key="d0">24.0</data>
+    </node>
+    <node id="ENSP00000356001">
+      <data key="d0">54.0</data>
+    </node>
+    <node id="ENSP00000260102">
+      <data key="d0">54.0</data>
+    </node>
+    <node id="ENSP00000377486">
+      <data key="d0">10.0</data>
+    </node>
+    <node id="ENSP00000363676">
+      <data key="d0">1122.0</data>
+    </node>
+    <node id="ENSP00000362036">
+      <data key="d0">44.0</data>
+    </node>
+    <node id="ENSP00000308897">
+      <data key="d0">30.0</data>
+    </node>
+    <node id="ENSP00000253099">
+      <data key="d0">26.0</data>
+    </node>
+    <node id="ENSP00000300151">
+      <data key="d0">51.0</data>
+    </node>
+    <node id="ENSP00000341885">
+      <data key="d0">1143.0</data>
+    </node>
+    <node id="ENSP00000317376">
+      <data key="d0">10.0</data>
+    </node>
+    <node id="ENSP00000296102">
+      <data key="d0">56.0</data>
+    </node>
+    <node id="ENSP00000393241">
+      <data key="d0">1609.0</data>
+    </node>
+    <node id="ENSP00000223324">
+      <data key="d0">29.0</data>
+    </node>
+    <node id="ENSP00000264995">
+      <data key="d0">38.0</data>
+    </node>
+    <node id="ENSP00000362208">
+      <data key="d0">38.0</data>
+    </node>
+    <node id="ENSP00000338389">
+      <data key="d0">23.0</data>
+    </node>
+    <node id="ENSP00000288937">
+      <data key="d0">42.0</data>
+    </node>
+    <node id="ENSP00000357823">
+      <data key="d0">48.0</data>
+    </node>
+    <node id="ENSP00000252602">
+      <data key="d0">49.0</data>
+    </node>
+    <node id="ENSP00000341082">
+      <data key="d0">59.0</data>
+    </node>
+    <node id="ENSP00000420714">
+      <data key="d0">29.0</data>
+    </node>
+    <node id="ENSP00000431040">
+      <data key="d0">10.0</data>
+    </node>
+    <node id="ENSP00000361206">
+      <data key="d0">25.0</data>
+    </node>
+    <node id="ENSP00000382250">
+      <data key="d0">16.0</data>
+    </node>
+    <node id="ENSP00000245539">
+      <data key="d0">40.0</data>
+    </node>
+    <node id="ENSP00000333837">
+      <data key="d0">35.0</data>
+    </node>
+    <node id="ENSP00000315017">
+      <data key="d0">20.0</data>
+    </node>
+    <node id="ENSP00000290208">
+      <data key="d0">43.0</data>
+    </node>
+    <node id="ENSP00000389103">
+      <data key="d0">455.0</data>
+    </node>
+    <node id="ENSP00000306548">
+      <data key="d0">11.0</data>
+    </node>
+    <node id="ENSP00000354580">
+      <data key="d0">21.0</data>
+    </node>
+    <node id="ENSP00000361084">
+      <data key="d0">50.0</data>
+    </node>
+    <node id="ENSP00000199706">
+      <data key="d0">62.0</data>
+    </node>
+    <node id="ENSP00000272418">
+      <data key="d0">27.0</data>
+    </node>
+    <node id="ENSP00000354525">
+      <data key="d0">51.0</data>
+    </node>
+    <node id="ENSP00000373404">
+      <data key="d0">28.0</data>
+    </node>
+    <node id="ENSP00000258455">
+      <data key="d0">33.0</data>
+    </node>
+    <node id="ENSP00000295491">
+      <data key="d0">7.0</data>
+    </node>
+    <node id="ENSP00000307889">
+      <data key="d0">617.0</data>
+    </node>
+    <node id="ENSP00000379888">
+      <data key="d0">966.0</data>
+    </node>
+    <node id="ENSP00000338057">
+      <data key="d0">14.0</data>
+    </node>
+    <node id="ENSP00000222247">
+      <data key="d0">476.0</data>
+    </node>
+    <node id="ENSP00000447001">
+      <data key="d0">429.0</data>
+    </node>
+    <node id="ENSP00000362744">
+      <data key="d0">830.0</data>
+    </node>
+    <node id="ENSP00000359345">
+      <data key="d0">656.0</data>
+    </node>
+    <node id="ENSP00000339795">
+      <data key="d0">471.0</data>
+    </node>
+    <node id="ENSP00000345957">
+      <data key="d0">782.0</data>
+    </node>
+    <node id="ENSP00000346015">
+      <data key="d0">249.0</data>
+    </node>
+    <node id="ENSP00000272317">
+      <data key="d0">698.0</data>
+    </node>
+    <node id="ENSP00000322419">
+      <data key="d0">1059.0</data>
+    </node>
+    <node id="ENSP00000395772">
+      <data key="d0">67.0</data>
+    </node>
+    <node id="ENSP00000302896">
+      <data key="d0">483.0</data>
+    </node>
+    <node id="ENSP00000379339">
+      <data key="d0">96.0</data>
+    </node>
+    <node id="ENSP00000361076">
+      <data key="d0">1169.0</data>
+    </node>
+    <node id="ENSP00000346001">
+      <data key="d0">1013.0</data>
+    </node>
+    <node id="ENSP00000388107">
+      <data key="d0">295.0</data>
+    </node>
+    <node id="ENSP00000311430">
+      <data key="d0">507.0</data>
+    </node>
+    <node id="ENSP00000346012">
+      <data key="d0">502.0</data>
+    </node>
+    <node id="ENSP00000348849">
+      <data key="d0">334.0</data>
+    </node>
+    <node id="ENSP00000298283">
+      <data key="d0">0.0</data>
+    </node>
+    <node id="ENSP00000309334">
+      <data key="d0">246.0</data>
+    </node>
+    <node id="ENSP00000375730">
+      <data key="d0">2473.0</data>
+    </node>
+    <node id="ENSP00000346067">
+      <data key="d0">578.0</data>
+    </node>
+    <node id="ENSP00000386717">
+      <data key="d0">237.0</data>
+    </node>
+    <node id="ENSP00000369757">
+      <data key="d0">1427.0</data>
+    </node>
+    <node id="ENSP00000346037">
+      <data key="d0">1063.0</data>
+    </node>
+    <node id="ENSP00000268661">
+      <data key="d0">0.2</data>
+    </node>
+    <node id="ENSP00000274242">
+      <data key="d0">160.0</data>
+    </node>
+    <node id="ENSP00000418082">
+      <data key="d0">243.0</data>
+    </node>
+    <node id="ENSP00000346088">
+      <data key="d0">162.0</data>
+    </node>
+    <node id="ENSP00000270625">
+      <data key="d0">2233.0</data>
+    </node>
+    <node id="ENSP00000429374">
+      <data key="d0">611.0</data>
+    </node>
+    <node id="ENSP00000339095">
+      <data key="d0">224.0</data>
+    </node>
+    <node id="ENSP00000414321">
+      <data key="d0">306.0</data>
+    </node>
+    <node id="ENSP00000472469">
+      <data key="d0">546.0</data>
+    </node>
+    <node id="ENSP00000355315">
+      <data key="d0">606.0</data>
+    </node>
+    <node id="ENSP00000346080">
+      <data key="d0">45.0</data>
+    </node>
+    <node id="ENSP00000354739">
+      <data key="d0">619.0</data>
+    </node>
+    <node id="ENSP00000296674">
+      <data key="d0">300.0</data>
+    </node>
+    <node id="ENSP00000230050">
+      <data key="d0">2981.0</data>
+    </node>
+    <node id="ENSP00000259469">
+      <data key="d0">610.0</data>
+    </node>
+    <node id="ENSP00000309830">
+      <data key="d0">184.0</data>
+    </node>
+    <node id="ENSP00000346027">
+      <data key="d0">838.0</data>
+    </node>
+    <node id="ENSP00000435096">
+      <data key="d0">969.0</data>
+    </node>
+    <node id="ENSP00000363018">
+      <data key="d0">991.0</data>
+    </node>
+    <node id="ENSP00000357555">
+      <data key="d0">2233.0</data>
+    </node>
+    <node id="ENSP00000251453">
+      <data key="d0">711.0</data>
+    </node>
+    <node id="ENSP00000331019">
+      <data key="d0">18.0</data>
+    </node>
+    <node id="ENSP00000377640">
+      <data key="d0">357.0</data>
+    </node>
+    <node id="ENSP00000435777">
+      <data key="d0">462.0</data>
+    </node>
+    <node id="ENSP00000225430">
+      <data key="d0">1193.0</data>
+    </node>
+    <node id="ENSP00000318646">
+      <data key="d0">134.0</data>
+    </node>
+    <node id="ENSP00000262584">
+      <data key="d0">1122.0</data>
+    </node>
+    <node id="ENSP00000404375">
+      <data key="d0">40.0</data>
+    </node>
+    <node id="ENSP00000346050">
+      <data key="d0">949.0</data>
+    </node>
+    <node id="ENSP00000223073">
+      <data key="d0">8.0</data>
+    </node>
+    <node id="ENSP00000346046">
+      <data key="d0">392.0</data>
+    </node>
+    <node id="ENSP00000268802">
+      <data key="d0">35.0</data>
+    </node>
+    <node id="ENSP00000297990">
+      <data key="d0">31.0</data>
+    </node>
+    <node id="ENSP00000344393">
+      <data key="d0">16.0</data>
+    </node>
+    <node id="ENSP00000362153">
+      <data key="d0">21.0</data>
+    </node>
+    <node id="ENSP00000354040">
+      <data key="d0">20.0</data>
+    </node>
+    <node id="ENSP00000338573">
+      <data key="d0">8.0</data>
+    </node>
+    <edge source="ENSP00000053468" target="ENSP00000225969" />
+    <edge source="ENSP00000053468" target="ENSP00000356001" />
+    <edge source="ENSP00000053468" target="ENSP00000260102" />
+    <edge source="ENSP00000053468" target="ENSP00000377486" />
+    <edge source="ENSP00000053468" target="ENSP00000363676" />
+    <edge source="ENSP00000053468" target="ENSP00000362036" />
+    <edge source="ENSP00000053468" target="ENSP00000308897" />
+    <edge source="ENSP00000053468" target="ENSP00000253099" />
+    <edge source="ENSP00000053468" target="ENSP00000300151" />
+    <edge source="ENSP00000053468" target="ENSP00000341885" />
+    <edge source="ENSP00000053468" target="ENSP00000317376" />
+    <edge source="ENSP00000053468" target="ENSP00000296102" />
+    <edge source="ENSP00000053468" target="ENSP00000393241" />
+    <edge source="ENSP00000053468" target="ENSP00000223324" />
+    <edge source="ENSP00000053468" target="ENSP00000264995" />
+    <edge source="ENSP00000053468" target="ENSP00000362208" />
+    <edge source="ENSP00000053468" target="ENSP00000338389" />
+    <edge source="ENSP00000053468" target="ENSP00000288937" />
+    <edge source="ENSP00000053468" target="ENSP00000357823" />
+    <edge source="ENSP00000053468" target="ENSP00000252602" />
+    <edge source="ENSP00000053468" target="ENSP00000341082" />
+    <edge source="ENSP00000053468" target="ENSP00000420714" />
+    <edge source="ENSP00000053468" target="ENSP00000431040" />
+    <edge source="ENSP00000053468" target="ENSP00000361206" />
+    <edge source="ENSP00000053468" target="ENSP00000382250" />
+    <edge source="ENSP00000053468" target="ENSP00000245539" />
+    <edge source="ENSP00000053468" target="ENSP00000333837" />
+    <edge source="ENSP00000053468" target="ENSP00000315017" />
+    <edge source="ENSP00000053468" target="ENSP00000290208" />
+    <edge source="ENSP00000053468" target="ENSP00000389103" />
+    <edge source="ENSP00000053468" target="ENSP00000306548" />
+    <edge source="ENSP00000053468" target="ENSP00000354580" />
+    <edge source="ENSP00000053468" target="ENSP00000361084" />
+    <edge source="ENSP00000053468" target="ENSP00000199706" />
+    <edge source="ENSP00000053468" target="ENSP00000272418" />
+    <edge source="ENSP00000053468" target="ENSP00000354525" />
+    <edge source="ENSP00000053468" target="ENSP00000373404" />
+    <edge source="ENSP00000053468" target="ENSP00000258455" />
+    <edge source="ENSP00000053468" target="ENSP00000295491" />
+    <edge source="ENSP00000225969" target="ENSP00000199706" />
+    <edge source="ENSP00000225969" target="ENSP00000223324" />
+    <edge source="ENSP00000225969" target="ENSP00000356001" />
+    <edge source="ENSP00000225969" target="ENSP00000260102" />
+    <edge source="ENSP00000225969" target="ENSP00000377486" />
+    <edge source="ENSP00000225969" target="ENSP00000362036" />
+    <edge source="ENSP00000225969" target="ENSP00000308897" />
+    <edge source="ENSP00000225969" target="ENSP00000253099" />
+    <edge source="ENSP00000225969" target="ENSP00000300151" />
+    <edge source="ENSP00000225969" target="ENSP00000317376" />
+    <edge source="ENSP00000225969" target="ENSP00000296102" />
+    <edge source="ENSP00000225969" target="ENSP00000307889" />
+    <edge source="ENSP00000225969" target="ENSP00000361206" />
+    <edge source="ENSP00000225969" target="ENSP00000264995" />
+    <edge source="ENSP00000225969" target="ENSP00000338057" />
+    <edge source="ENSP00000225969" target="ENSP00000252602" />
+    <edge source="ENSP00000225969" target="ENSP00000338389" />
+    <edge source="ENSP00000225969" target="ENSP00000357823" />
+    <edge source="ENSP00000225969" target="ENSP00000288937" />
+    <edge source="ENSP00000225969" target="ENSP00000431040" />
+    <edge source="ENSP00000225969" target="ENSP00000420714" />
+    <edge source="ENSP00000225969" target="ENSP00000362208" />
+    <edge source="ENSP00000225969" target="ENSP00000341082" />
+    <edge source="ENSP00000225969" target="ENSP00000245539" />
+    <edge source="ENSP00000225969" target="ENSP00000382250" />
+    <edge source="ENSP00000225969" target="ENSP00000361084" />
+    <edge source="ENSP00000225969" target="ENSP00000354525" />
+    <edge source="ENSP00000225969" target="ENSP00000272418" />
+    <edge source="ENSP00000225969" target="ENSP00000258455" />
+    <edge source="ENSP00000225969" target="ENSP00000373404" />
+    <edge source="ENSP00000225969" target="ENSP00000295491" />
+    <edge source="ENSP00000225969" target="ENSP00000333837" />
+    <edge source="ENSP00000225969" target="ENSP00000290208" />
+    <edge source="ENSP00000225969" target="ENSP00000315017" />
+    <edge source="ENSP00000225969" target="ENSP00000379888" />
+    <edge source="ENSP00000225969" target="ENSP00000306548" />
+    <edge source="ENSP00000225969" target="ENSP00000354580" />
+    <edge source="ENSP00000356001" target="ENSP00000199706" />
+    <edge source="ENSP00000356001" target="ENSP00000223324" />
+    <edge source="ENSP00000356001" target="ENSP00000245539" />
+    <edge source="ENSP00000356001" target="ENSP00000252602" />
+    <edge source="ENSP00000356001" target="ENSP00000253099" />
+    <edge source="ENSP00000356001" target="ENSP00000258455" />
+    <edge source="ENSP00000356001" target="ENSP00000260102" />
+    <edge source="ENSP00000356001" target="ENSP00000264995" />
+    <edge source="ENSP00000356001" target="ENSP00000270625" />
+    <edge source="ENSP00000356001" target="ENSP00000272418" />
+    <edge source="ENSP00000356001" target="ENSP00000288937" />
+    <edge source="ENSP00000356001" target="ENSP00000290208" />
+    <edge source="ENSP00000356001" target="ENSP00000295491" />
+    <edge source="ENSP00000356001" target="ENSP00000296102" />
+    <edge source="ENSP00000356001" target="ENSP00000300151" />
+    <edge source="ENSP00000356001" target="ENSP00000306548" />
+    <edge source="ENSP00000356001" target="ENSP00000307889" />
+    <edge source="ENSP00000356001" target="ENSP00000308897" />
+    <edge source="ENSP00000356001" target="ENSP00000311430" />
+    <edge source="ENSP00000356001" target="ENSP00000315017" />
+    <edge source="ENSP00000356001" target="ENSP00000317376" />
+    <edge source="ENSP00000356001" target="ENSP00000333837" />
+    <edge source="ENSP00000356001" target="ENSP00000338057" />
+    <edge source="ENSP00000356001" target="ENSP00000338389" />
+    <edge source="ENSP00000356001" target="ENSP00000341082" />
+    <edge source="ENSP00000356001" target="ENSP00000354525" />
+    <edge source="ENSP00000356001" target="ENSP00000354580" />
+    <edge source="ENSP00000356001" target="ENSP00000429374" />
+    <edge source="ENSP00000356001" target="ENSP00000382250" />
+    <edge source="ENSP00000356001" target="ENSP00000359345" />
+    <edge source="ENSP00000356001" target="ENSP00000377486" />
+    <edge source="ENSP00000356001" target="ENSP00000362036" />
+    <edge source="ENSP00000356001" target="ENSP00000379888" />
+    <edge source="ENSP00000356001" target="ENSP00000361084" />
+    <edge source="ENSP00000356001" target="ENSP00000373404" />
+    <edge source="ENSP00000356001" target="ENSP00000357823" />
+    <edge source="ENSP00000356001" target="ENSP00000420714" />
+    <edge source="ENSP00000356001" target="ENSP00000369757" />
+    <edge source="ENSP00000356001" target="ENSP00000362208" />
+    <edge source="ENSP00000356001" target="ENSP00000431040" />
+    <edge source="ENSP00000356001" target="ENSP00000361206" />
+    <edge source="ENSP00000260102" target="ENSP00000199706" />
+    <edge source="ENSP00000260102" target="ENSP00000223324" />
+    <edge source="ENSP00000260102" target="ENSP00000245539" />
+    <edge source="ENSP00000260102" target="ENSP00000252602" />
+    <edge source="ENSP00000260102" target="ENSP00000253099" />
+    <edge source="ENSP00000260102" target="ENSP00000258455" />
+    <edge source="ENSP00000260102" target="ENSP00000315017" />
+    <edge source="ENSP00000260102" target="ENSP00000290208" />
+    <edge source="ENSP00000260102" target="ENSP00000379888" />
+    <edge source="ENSP00000260102" target="ENSP00000389103" />
+    <edge source="ENSP00000260102" target="ENSP00000306548" />
+    <edge source="ENSP00000260102" target="ENSP00000354580" />
+    <edge source="ENSP00000260102" target="ENSP00000361084" />
+    <edge source="ENSP00000260102" target="ENSP00000354525" />
+    <edge source="ENSP00000260102" target="ENSP00000272418" />
+    <edge source="ENSP00000260102" target="ENSP00000373404" />
+    <edge source="ENSP00000260102" target="ENSP00000377486" />
+    <edge source="ENSP00000260102" target="ENSP00000362036" />
+    <edge source="ENSP00000260102" target="ENSP00000308897" />
+    <edge source="ENSP00000260102" target="ENSP00000300151" />
+    <edge source="ENSP00000260102" target="ENSP00000341885" />
+    <edge source="ENSP00000260102" target="ENSP00000296102" />
+    <edge source="ENSP00000260102" target="ENSP00000317376" />
+    <edge source="ENSP00000260102" target="ENSP00000264995" />
+    <edge source="ENSP00000260102" target="ENSP00000338389" />
+    <edge source="ENSP00000260102" target="ENSP00000338057" />
+    <edge source="ENSP00000260102" target="ENSP00000288937" />
+    <edge source="ENSP00000260102" target="ENSP00000357823" />
+    <edge source="ENSP00000260102" target="ENSP00000420714" />
+    <edge source="ENSP00000260102" target="ENSP00000341082" />
+    <edge source="ENSP00000260102" target="ENSP00000362208" />
+    <edge source="ENSP00000260102" target="ENSP00000431040" />
+    <edge source="ENSP00000260102" target="ENSP00000361206" />
+    <edge source="ENSP00000260102" target="ENSP00000382250" />
+    <edge source="ENSP00000260102" target="ENSP00000333837" />
+    <edge source="ENSP00000260102" target="ENSP00000295491" />
+    <edge source="ENSP00000377486" target="ENSP00000199706" />
+    <edge source="ENSP00000377486" target="ENSP00000223324" />
+    <edge source="ENSP00000377486" target="ENSP00000245539" />
+    <edge source="ENSP00000377486" target="ENSP00000252602" />
+    <edge source="ENSP00000377486" target="ENSP00000253099" />
+    <edge source="ENSP00000377486" target="ENSP00000258455" />
+    <edge source="ENSP00000377486" target="ENSP00000264995" />
+    <edge source="ENSP00000377486" target="ENSP00000272418" />
+    <edge source="ENSP00000377486" target="ENSP00000288937" />
+    <edge source="ENSP00000377486" target="ENSP00000290208" />
+    <edge source="ENSP00000377486" target="ENSP00000295491" />
+    <edge source="ENSP00000377486" target="ENSP00000296102" />
+    <edge source="ENSP00000377486" target="ENSP00000300151" />
+    <edge source="ENSP00000377486" target="ENSP00000306548" />
+    <edge source="ENSP00000377486" target="ENSP00000308897" />
+    <edge source="ENSP00000377486" target="ENSP00000315017" />
+    <edge source="ENSP00000377486" target="ENSP00000317376" />
+    <edge source="ENSP00000377486" target="ENSP00000333837" />
+    <edge source="ENSP00000377486" target="ENSP00000338057" />
+    <edge source="ENSP00000377486" target="ENSP00000338389" />
+    <edge source="ENSP00000377486" target="ENSP00000341082" />
+    <edge source="ENSP00000377486" target="ENSP00000354525" />
+    <edge source="ENSP00000377486" target="ENSP00000354580" />
+    <edge source="ENSP00000377486" target="ENSP00000357823" />
+    <edge source="ENSP00000377486" target="ENSP00000361084" />
+    <edge source="ENSP00000377486" target="ENSP00000361206" />
+    <edge source="ENSP00000377486" target="ENSP00000362036" />
+    <edge source="ENSP00000377486" target="ENSP00000362208" />
+    <edge source="ENSP00000377486" target="ENSP00000373404" />
+    <edge source="ENSP00000377486" target="ENSP00000379888" />
+    <edge source="ENSP00000377486" target="ENSP00000420714" />
+    <edge source="ENSP00000377486" target="ENSP00000431040" />
+    <edge source="ENSP00000377486" target="ENSP00000382250" />
+    <edge source="ENSP00000363676" target="ENSP00000222247" />
+    <edge source="ENSP00000363676" target="ENSP00000225430" />
+    <edge source="ENSP00000363676" target="ENSP00000230050" />
+    <edge source="ENSP00000363676" target="ENSP00000245539" />
+    <edge source="ENSP00000363676" target="ENSP00000251453" />
+    <edge source="ENSP00000363676" target="ENSP00000259469" />
+    <edge source="ENSP00000363676" target="ENSP00000262584" />
+    <edge source="ENSP00000363676" target="ENSP00000268661" />
+    <edge source="ENSP00000363676" target="ENSP00000270625" />
+    <edge source="ENSP00000363676" target="ENSP00000272317" />
+    <edge source="ENSP00000363676" target="ENSP00000274242" />
+    <edge source="ENSP00000363676" target="ENSP00000296674" />
+    <edge source="ENSP00000363676" target="ENSP00000298283" />
+    <edge source="ENSP00000363676" target="ENSP00000302896" />
+    <edge source="ENSP00000363676" target="ENSP00000307889" />
+    <edge source="ENSP00000363676" target="ENSP00000309334" />
+    <edge source="ENSP00000363676" target="ENSP00000309830" />
+    <edge source="ENSP00000363676" target="ENSP00000311430" />
+    <edge source="ENSP00000363676" target="ENSP00000318646" />
+    <edge source="ENSP00000363676" target="ENSP00000322419" />
+    <edge source="ENSP00000363676" target="ENSP00000331019" />
+    <edge source="ENSP00000363676" target="ENSP00000333837" />
+    <edge source="ENSP00000363676" target="ENSP00000339095" />
+    <edge source="ENSP00000363676" target="ENSP00000339795" />
+    <edge source="ENSP00000363676" target="ENSP00000341885" />
+    <edge source="ENSP00000363676" target="ENSP00000345957" />
+    <edge source="ENSP00000363676" target="ENSP00000346001" />
+    <edge source="ENSP00000363676" target="ENSP00000346012" />
+    <edge source="ENSP00000363676" target="ENSP00000346015" />
+    <edge source="ENSP00000363676" target="ENSP00000346027" />
+    <edge source="ENSP00000363676" target="ENSP00000346037" />
+    <edge source="ENSP00000363676" target="ENSP00000346050" />
+    <edge source="ENSP00000363676" target="ENSP00000346067" />
+    <edge source="ENSP00000363676" target="ENSP00000346080" />
+    <edge source="ENSP00000363676" target="ENSP00000346088" />
+    <edge source="ENSP00000363676" target="ENSP00000348849" />
+    <edge source="ENSP00000363676" target="ENSP00000354525" />
+    <edge source="ENSP00000363676" target="ENSP00000354739" />
+    <edge source="ENSP00000363676" target="ENSP00000355315" />
+    <edge source="ENSP00000363676" target="ENSP00000357555" />
+    <edge source="ENSP00000363676" target="ENSP00000359345" />
+    <edge source="ENSP00000363676" target="ENSP00000361076" />
+    <edge source="ENSP00000363676" target="ENSP00000362744" />
+    <edge source="ENSP00000363676" target="ENSP00000363018" />
+    <edge source="ENSP00000363676" target="ENSP00000414321" />
+    <edge source="ENSP00000363676" target="ENSP00000395772" />
+    <edge source="ENSP00000363676" target="ENSP00000379339" />
+    <edge source="ENSP00000363676" target="ENSP00000447001" />
+    <edge source="ENSP00000363676" target="ENSP00000388107" />
+    <edge source="ENSP00000363676" target="ENSP00000393241" />
+    <edge source="ENSP00000363676" target="ENSP00000375730" />
+    <edge source="ENSP00000363676" target="ENSP00000386717" />
+    <edge source="ENSP00000363676" target="ENSP00000369757" />
+    <edge source="ENSP00000363676" target="ENSP00000418082" />
+    <edge source="ENSP00000363676" target="ENSP00000429374" />
+    <edge source="ENSP00000363676" target="ENSP00000472469" />
+    <edge source="ENSP00000363676" target="ENSP00000379888" />
+    <edge source="ENSP00000363676" target="ENSP00000435096" />
+    <edge source="ENSP00000363676" target="ENSP00000389103" />
+    <edge source="ENSP00000363676" target="ENSP00000377640" />
+    <edge source="ENSP00000363676" target="ENSP00000435777" />
+    <edge source="ENSP00000363676" target="ENSP00000404375" />
+    <edge source="ENSP00000362036" target="ENSP00000199706" />
+    <edge source="ENSP00000362036" target="ENSP00000223324" />
+    <edge source="ENSP00000362036" target="ENSP00000245539" />
+    <edge source="ENSP00000362036" target="ENSP00000252602" />
+    <edge source="ENSP00000362036" target="ENSP00000253099" />
+    <edge source="ENSP00000362036" target="ENSP00000258455" />
+    <edge source="ENSP00000362036" target="ENSP00000264995" />
+    <edge source="ENSP00000362036" target="ENSP00000272418" />
+    <edge source="ENSP00000362036" target="ENSP00000288937" />
+    <edge source="ENSP00000362036" target="ENSP00000290208" />
+    <edge source="ENSP00000362036" target="ENSP00000295491" />
+    <edge source="ENSP00000362036" target="ENSP00000296102" />
+    <edge source="ENSP00000362036" target="ENSP00000300151" />
+    <edge source="ENSP00000362036" target="ENSP00000306548" />
+    <edge source="ENSP00000362036" target="ENSP00000308897" />
+    <edge source="ENSP00000362036" target="ENSP00000315017" />
+    <edge source="ENSP00000362036" target="ENSP00000317376" />
+    <edge source="ENSP00000362036" target="ENSP00000333837" />
+    <edge source="ENSP00000362036" target="ENSP00000338389" />
+    <edge source="ENSP00000362036" target="ENSP00000341082" />
+    <edge source="ENSP00000362036" target="ENSP00000354525" />
+    <edge source="ENSP00000362036" target="ENSP00000354580" />
+    <edge source="ENSP00000362036" target="ENSP00000357823" />
+    <edge source="ENSP00000362036" target="ENSP00000361084" />
+    <edge source="ENSP00000362036" target="ENSP00000361206" />
+    <edge source="ENSP00000362036" target="ENSP00000373404" />
+    <edge source="ENSP00000362036" target="ENSP00000420714" />
+    <edge source="ENSP00000362036" target="ENSP00000362208" />
+    <edge source="ENSP00000362036" target="ENSP00000431040" />
+    <edge source="ENSP00000362036" target="ENSP00000382250" />
+    <edge source="ENSP00000308897" target="ENSP00000199706" />
+    <edge source="ENSP00000308897" target="ENSP00000223324" />
+    <edge source="ENSP00000308897" target="ENSP00000245539" />
+    <edge source="ENSP00000308897" target="ENSP00000252602" />
+    <edge source="ENSP00000308897" target="ENSP00000253099" />
+    <edge source="ENSP00000308897" target="ENSP00000258455" />
+    <edge source="ENSP00000308897" target="ENSP00000264995" />
+    <edge source="ENSP00000308897" target="ENSP00000272418" />
+    <edge source="ENSP00000308897" target="ENSP00000288937" />
+    <edge source="ENSP00000308897" target="ENSP00000290208" />
+    <edge source="ENSP00000308897" target="ENSP00000295491" />
+    <edge source="ENSP00000308897" target="ENSP00000296102" />
+    <edge source="ENSP00000308897" target="ENSP00000300151" />
+    <edge source="ENSP00000308897" target="ENSP00000306548" />
+    <edge source="ENSP00000308897" target="ENSP00000317376" />
+    <edge source="ENSP00000308897" target="ENSP00000338057" />
+    <edge source="ENSP00000308897" target="ENSP00000357823" />
+    <edge source="ENSP00000308897" target="ENSP00000338389" />
+    <edge source="ENSP00000308897" target="ENSP00000420714" />
+    <edge source="ENSP00000308897" target="ENSP00000341082" />
+    <edge source="ENSP00000308897" target="ENSP00000362208" />
+    <edge source="ENSP00000308897" target="ENSP00000431040" />
+    <edge source="ENSP00000308897" target="ENSP00000361206" />
+    <edge source="ENSP00000308897" target="ENSP00000382250" />
+    <edge source="ENSP00000308897" target="ENSP00000333837" />
+    <edge source="ENSP00000308897" target="ENSP00000315017" />
+    <edge source="ENSP00000308897" target="ENSP00000354580" />
+    <edge source="ENSP00000308897" target="ENSP00000361084" />
+    <edge source="ENSP00000308897" target="ENSP00000354525" />
+    <edge source="ENSP00000308897" target="ENSP00000373404" />
+    <edge source="ENSP00000253099" target="ENSP00000199706" />
+    <edge source="ENSP00000253099" target="ENSP00000223324" />
+    <edge source="ENSP00000253099" target="ENSP00000245539" />
+    <edge source="ENSP00000253099" target="ENSP00000252602" />
+    <edge source="ENSP00000253099" target="ENSP00000362208" />
+    <edge source="ENSP00000253099" target="ENSP00000300151" />
+    <edge source="ENSP00000253099" target="ENSP00000296102" />
+    <edge source="ENSP00000253099" target="ENSP00000264995" />
+    <edge source="ENSP00000253099" target="ENSP00000341082" />
+    <edge source="ENSP00000253099" target="ENSP00000357823" />
+    <edge source="ENSP00000253099" target="ENSP00000420714" />
+    <edge source="ENSP00000253099" target="ENSP00000431040" />
+    <edge source="ENSP00000253099" target="ENSP00000361206" />
+    <edge source="ENSP00000253099" target="ENSP00000382250" />
+    <edge source="ENSP00000253099" target="ENSP00000315017" />
+    <edge source="ENSP00000253099" target="ENSP00000290208" />
+    <edge source="ENSP00000253099" target="ENSP00000354580" />
+    <edge source="ENSP00000253099" target="ENSP00000361084" />
+    <edge source="ENSP00000253099" target="ENSP00000354525" />
+    <edge source="ENSP00000253099" target="ENSP00000262584" />
+    <edge source="ENSP00000253099" target="ENSP00000295491" />
+    <edge source="ENSP00000253099" target="ENSP00000341885" />
+    <edge source="ENSP00000253099" target="ENSP00000393241" />
+    <edge source="ENSP00000253099" target="ENSP00000317376" />
+    <edge source="ENSP00000253099" target="ENSP00000338057" />
+    <edge source="ENSP00000253099" target="ENSP00000338389" />
+    <edge source="ENSP00000253099" target="ENSP00000288937" />
+    <edge source="ENSP00000253099" target="ENSP00000333837" />
+    <edge source="ENSP00000253099" target="ENSP00000306548" />
+    <edge source="ENSP00000253099" target="ENSP00000272418" />
+    <edge source="ENSP00000253099" target="ENSP00000373404" />
+    <edge source="ENSP00000253099" target="ENSP00000258455" />
+    <edge source="ENSP00000300151" target="ENSP00000199706" />
+    <edge source="ENSP00000300151" target="ENSP00000223324" />
+    <edge source="ENSP00000300151" target="ENSP00000245539" />
+    <edge source="ENSP00000300151" target="ENSP00000252602" />
+    <edge source="ENSP00000300151" target="ENSP00000258455" />
+    <edge source="ENSP00000300151" target="ENSP00000264995" />
+    <edge source="ENSP00000300151" target="ENSP00000272418" />
+    <edge source="ENSP00000300151" target="ENSP00000288937" />
+    <edge source="ENSP00000300151" target="ENSP00000290208" />
+    <edge source="ENSP00000300151" target="ENSP00000295491" />
+    <edge source="ENSP00000300151" target="ENSP00000296102" />
+    <edge source="ENSP00000300151" target="ENSP00000333837" />
+    <edge source="ENSP00000300151" target="ENSP00000315017" />
+    <edge source="ENSP00000300151" target="ENSP00000354580" />
+    <edge source="ENSP00000300151" target="ENSP00000318646" />
+    <edge source="ENSP00000300151" target="ENSP00000361084" />
+    <edge source="ENSP00000300151" target="ENSP00000354525" />
+    <edge source="ENSP00000300151" target="ENSP00000317376" />
+    <edge source="ENSP00000300151" target="ENSP00000338057" />
+    <edge source="ENSP00000300151" target="ENSP00000338389" />
+    <edge source="ENSP00000300151" target="ENSP00000307889" />
+    <edge source="ENSP00000300151" target="ENSP00000379888" />
+    <edge source="ENSP00000300151" target="ENSP00000389103" />
+    <edge source="ENSP00000300151" target="ENSP00000306548" />
+    <edge source="ENSP00000300151" target="ENSP00000373404" />
+    <edge source="ENSP00000300151" target="ENSP00000382250" />
+    <edge source="ENSP00000300151" target="ENSP00000341082" />
+    <edge source="ENSP00000300151" target="ENSP00000357823" />
+    <edge source="ENSP00000300151" target="ENSP00000420714" />
+    <edge source="ENSP00000300151" target="ENSP00000362208" />
+    <edge source="ENSP00000300151" target="ENSP00000431040" />
+    <edge source="ENSP00000300151" target="ENSP00000361206" />
+    <edge source="ENSP00000341885" target="ENSP00000222247" />
+    <edge source="ENSP00000341885" target="ENSP00000225430" />
+    <edge source="ENSP00000341885" target="ENSP00000230050" />
+    <edge source="ENSP00000341885" target="ENSP00000251453" />
+    <edge source="ENSP00000341885" target="ENSP00000259469" />
+    <edge source="ENSP00000341885" target="ENSP00000262584" />
+    <edge source="ENSP00000341885" target="ENSP00000268661" />
+    <edge source="ENSP00000341885" target="ENSP00000268802" />
+    <edge source="ENSP00000341885" target="ENSP00000270625" />
+    <edge source="ENSP00000341885" target="ENSP00000272317" />
+    <edge source="ENSP00000341885" target="ENSP00000274242" />
+    <edge source="ENSP00000341885" target="ENSP00000296674" />
+    <edge source="ENSP00000341885" target="ENSP00000297990" />
+    <edge source="ENSP00000341885" target="ENSP00000298283" />
+    <edge source="ENSP00000341885" target="ENSP00000302896" />
+    <edge source="ENSP00000341885" target="ENSP00000307889" />
+    <edge source="ENSP00000341885" target="ENSP00000309334" />
+    <edge source="ENSP00000341885" target="ENSP00000309830" />
+    <edge source="ENSP00000341885" target="ENSP00000311430" />
+    <edge source="ENSP00000341885" target="ENSP00000317376" />
+    <edge source="ENSP00000341885" target="ENSP00000318646" />
+    <edge source="ENSP00000341885" target="ENSP00000322419" />
+    <edge source="ENSP00000341885" target="ENSP00000331019" />
+    <edge source="ENSP00000341885" target="ENSP00000333837" />
+    <edge source="ENSP00000341885" target="ENSP00000339095" />
+    <edge source="ENSP00000341885" target="ENSP00000339795" />
+    <edge source="ENSP00000341885" target="ENSP00000346015" />
+    <edge source="ENSP00000341885" target="ENSP00000345957" />
+    <edge source="ENSP00000341885" target="ENSP00000362744" />
+    <edge source="ENSP00000341885" target="ENSP00000359345" />
+    <edge source="ENSP00000341885" target="ENSP00000472469" />
+    <edge source="ENSP00000341885" target="ENSP00000414321" />
+    <edge source="ENSP00000341885" target="ENSP00000355315" />
+    <edge source="ENSP00000341885" target="ENSP00000346080" />
+    <edge source="ENSP00000341885" target="ENSP00000354739" />
+    <edge source="ENSP00000341885" target="ENSP00000379888" />
+    <edge source="ENSP00000341885" target="ENSP00000344393" />
+    <edge source="ENSP00000341885" target="ENSP00000389103" />
+    <edge source="ENSP00000341885" target="ENSP00000435096" />
+    <edge source="ENSP00000341885" target="ENSP00000346027" />
+    <edge source="ENSP00000341885" target="ENSP00000363018" />
+    <edge source="ENSP00000341885" target="ENSP00000357555" />
+    <edge source="ENSP00000341885" target="ENSP00000377640" />
+    <edge source="ENSP00000341885" target="ENSP00000435777" />
+    <edge source="ENSP00000341885" target="ENSP00000346046" />
+    <edge source="ENSP00000341885" target="ENSP00000361076" />
+    <edge source="ENSP00000341885" target="ENSP00000379339" />
+    <edge source="ENSP00000341885" target="ENSP00000346001" />
+    <edge source="ENSP00000341885" target="ENSP00000388107" />
+    <edge source="ENSP00000341885" target="ENSP00000346012" />
+    <edge source="ENSP00000341885" target="ENSP00000393241" />
+    <edge source="ENSP00000341885" target="ENSP00000447001" />
+    <edge source="ENSP00000341885" target="ENSP00000348849" />
+    <edge source="ENSP00000341885" target="ENSP00000375730" />
+    <edge source="ENSP00000341885" target="ENSP00000404375" />
+    <edge source="ENSP00000341885" target="ENSP00000346050" />
+    <edge source="ENSP00000341885" target="ENSP00000346067" />
+    <edge source="ENSP00000341885" target="ENSP00000386717" />
+    <edge source="ENSP00000341885" target="ENSP00000420714" />
+    <edge source="ENSP00000341885" target="ENSP00000369757" />
+    <edge source="ENSP00000341885" target="ENSP00000431040" />
+    <edge source="ENSP00000341885" target="ENSP00000418082" />
+    <edge source="ENSP00000341885" target="ENSP00000346088" />
+    <edge source="ENSP00000341885" target="ENSP00000346037" />
+    <edge source="ENSP00000341885" target="ENSP00000429374" />
+    <edge source="ENSP00000317376" target="ENSP00000199706" />
+    <edge source="ENSP00000317376" target="ENSP00000223324" />
+    <edge source="ENSP00000317376" target="ENSP00000245539" />
+    <edge source="ENSP00000317376" target="ENSP00000252602" />
+    <edge source="ENSP00000317376" target="ENSP00000258455" />
+    <edge source="ENSP00000317376" target="ENSP00000264995" />
+    <edge source="ENSP00000317376" target="ENSP00000272418" />
+    <edge source="ENSP00000317376" target="ENSP00000288937" />
+    <edge source="ENSP00000317376" target="ENSP00000290208" />
+    <edge source="ENSP00000317376" target="ENSP00000295491" />
+    <edge source="ENSP00000317376" target="ENSP00000296102" />
+    <edge source="ENSP00000317376" target="ENSP00000296674" />
+    <edge source="ENSP00000317376" target="ENSP00000306548" />
+    <edge source="ENSP00000317376" target="ENSP00000315017" />
+    <edge source="ENSP00000317376" target="ENSP00000354580" />
+    <edge source="ENSP00000317376" target="ENSP00000361084" />
+    <edge source="ENSP00000317376" target="ENSP00000354525" />
+    <edge source="ENSP00000317376" target="ENSP00000373404" />
+    <edge source="ENSP00000317376" target="ENSP00000379888" />
+    <edge source="ENSP00000317376" target="ENSP00000348849" />
+    <edge source="ENSP00000317376" target="ENSP00000338389" />
+    <edge source="ENSP00000317376" target="ENSP00000357823" />
+    <edge source="ENSP00000317376" target="ENSP00000341082" />
+    <edge source="ENSP00000317376" target="ENSP00000420714" />
+    <edge source="ENSP00000317376" target="ENSP00000362208" />
+    <edge source="ENSP00000317376" target="ENSP00000431040" />
+    <edge source="ENSP00000317376" target="ENSP00000361206" />
+    <edge source="ENSP00000317376" target="ENSP00000382250" />
+    <edge source="ENSP00000317376" target="ENSP00000333837" />
+    <edge source="ENSP00000296102" target="ENSP00000199706" />
+    <edge source="ENSP00000296102" target="ENSP00000223324" />
+    <edge source="ENSP00000296102" target="ENSP00000245539" />
+    <edge source="ENSP00000296102" target="ENSP00000252602" />
+    <edge source="ENSP00000296102" target="ENSP00000258455" />
+    <edge source="ENSP00000296102" target="ENSP00000264995" />
+    <edge source="ENSP00000296102" target="ENSP00000272418" />
+    <edge source="ENSP00000296102" target="ENSP00000288937" />
+    <edge source="ENSP00000296102" target="ENSP00000290208" />
+    <edge source="ENSP00000296102" target="ENSP00000295491" />
+    <edge source="ENSP00000296102" target="ENSP00000382250" />
+    <edge source="ENSP00000296102" target="ENSP00000306548" />
+    <edge source="ENSP00000296102" target="ENSP00000354580" />
+    <edge source="ENSP00000296102" target="ENSP00000361084" />
+    <edge source="ENSP00000296102" target="ENSP00000354525" />
+    <edge source="ENSP00000296102" target="ENSP00000357823" />
+    <edge source="ENSP00000296102" target="ENSP00000338057" />
+    <edge source="ENSP00000296102" target="ENSP00000338389" />
+    <edge source="ENSP00000296102" target="ENSP00000373404" />
+    <edge source="ENSP00000296102" target="ENSP00000341082" />
+    <edge source="ENSP00000296102" target="ENSP00000420714" />
+    <edge source="ENSP00000296102" target="ENSP00000362208" />
+    <edge source="ENSP00000296102" target="ENSP00000431040" />
+    <edge source="ENSP00000296102" target="ENSP00000361206" />
+    <edge source="ENSP00000296102" target="ENSP00000333837" />
+    <edge source="ENSP00000296102" target="ENSP00000315017" />
+    <edge source="ENSP00000393241" target="ENSP00000222247" />
+    <edge source="ENSP00000393241" target="ENSP00000225430" />
+    <edge source="ENSP00000393241" target="ENSP00000230050" />
+    <edge source="ENSP00000393241" target="ENSP00000251453" />
+    <edge source="ENSP00000393241" target="ENSP00000258455" />
+    <edge source="ENSP00000393241" target="ENSP00000259469" />
+    <edge source="ENSP00000393241" target="ENSP00000262584" />
+    <edge source="ENSP00000393241" target="ENSP00000264995" />
+    <edge source="ENSP00000393241" target="ENSP00000268661" />
+    <edge source="ENSP00000393241" target="ENSP00000268802" />
+    <edge source="ENSP00000393241" target="ENSP00000270625" />
+    <edge source="ENSP00000393241" target="ENSP00000272317" />
+    <edge source="ENSP00000393241" target="ENSP00000274242" />
+    <edge source="ENSP00000393241" target="ENSP00000296674" />
+    <edge source="ENSP00000393241" target="ENSP00000297990" />
+    <edge source="ENSP00000393241" target="ENSP00000298283" />
+    <edge source="ENSP00000393241" target="ENSP00000302896" />
+    <edge source="ENSP00000393241" target="ENSP00000307889" />
+    <edge source="ENSP00000393241" target="ENSP00000309334" />
+    <edge source="ENSP00000393241" target="ENSP00000309830" />
+    <edge source="ENSP00000393241" target="ENSP00000311430" />
+    <edge source="ENSP00000393241" target="ENSP00000318646" />
+    <edge source="ENSP00000393241" target="ENSP00000322419" />
+    <edge source="ENSP00000393241" target="ENSP00000331019" />
+    <edge source="ENSP00000393241" target="ENSP00000339095" />
+    <edge source="ENSP00000393241" target="ENSP00000339795" />
+    <edge source="ENSP00000393241" target="ENSP00000344393" />
+    <edge source="ENSP00000393241" target="ENSP00000345957" />
+    <edge source="ENSP00000393241" target="ENSP00000346001" />
+    <edge source="ENSP00000393241" target="ENSP00000346012" />
+    <edge source="ENSP00000393241" target="ENSP00000346015" />
+    <edge source="ENSP00000393241" target="ENSP00000346027" />
+    <edge source="ENSP00000393241" target="ENSP00000346037" />
+    <edge source="ENSP00000393241" target="ENSP00000346050" />
+    <edge source="ENSP00000393241" target="ENSP00000346067" />
+    <edge source="ENSP00000393241" target="ENSP00000346080" />
+    <edge source="ENSP00000393241" target="ENSP00000346088" />
+    <edge source="ENSP00000393241" target="ENSP00000348849" />
+    <edge source="ENSP00000393241" target="ENSP00000354525" />
+    <edge source="ENSP00000393241" target="ENSP00000354739" />
+    <edge source="ENSP00000393241" target="ENSP00000355315" />
+    <edge source="ENSP00000393241" target="ENSP00000357555" />
+    <edge source="ENSP00000393241" target="ENSP00000359345" />
+    <edge source="ENSP00000393241" target="ENSP00000361076" />
+    <edge source="ENSP00000393241" target="ENSP00000362744" />
+    <edge source="ENSP00000393241" target="ENSP00000363018" />
+    <edge source="ENSP00000393241" target="ENSP00000369757" />
+    <edge source="ENSP00000393241" target="ENSP00000373404" />
+    <edge source="ENSP00000393241" target="ENSP00000375730" />
+    <edge source="ENSP00000393241" target="ENSP00000377640" />
+    <edge source="ENSP00000393241" target="ENSP00000379339" />
+    <edge source="ENSP00000393241" target="ENSP00000379888" />
+    <edge source="ENSP00000393241" target="ENSP00000386717" />
+    <edge source="ENSP00000393241" target="ENSP00000388107" />
+    <edge source="ENSP00000393241" target="ENSP00000389103" />
+    <edge source="ENSP00000393241" target="ENSP00000418082" />
+    <edge source="ENSP00000393241" target="ENSP00000429374" />
+    <edge source="ENSP00000393241" target="ENSP00000414321" />
+    <edge source="ENSP00000393241" target="ENSP00000472469" />
+    <edge source="ENSP00000393241" target="ENSP00000435096" />
+    <edge source="ENSP00000393241" target="ENSP00000447001" />
+    <edge source="ENSP00000393241" target="ENSP00000431040" />
+    <edge source="ENSP00000393241" target="ENSP00000435777" />
+    <edge source="ENSP00000393241" target="ENSP00000404375" />
+    <edge source="ENSP00000223324" target="ENSP00000199706" />
+    <edge source="ENSP00000223324" target="ENSP00000315017" />
+    <edge source="ENSP00000223324" target="ENSP00000382250" />
+    <edge source="ENSP00000223324" target="ENSP00000307889" />
+    <edge source="ENSP00000223324" target="ENSP00000245539" />
+    <edge source="ENSP00000223324" target="ENSP00000333837" />
+    <edge source="ENSP00000223324" target="ENSP00000290208" />
+    <edge source="ENSP00000223324" target="ENSP00000379888" />
+    <edge source="ENSP00000223324" target="ENSP00000306548" />
+    <edge source="ENSP00000223324" target="ENSP00000354580" />
+    <edge source="ENSP00000223324" target="ENSP00000264995" />
+    <edge source="ENSP00000223324" target="ENSP00000361084" />
+    <edge source="ENSP00000223324" target="ENSP00000272418" />
+    <edge source="ENSP00000223324" target="ENSP00000354525" />
+    <edge source="ENSP00000223324" target="ENSP00000338057" />
+    <edge source="ENSP00000223324" target="ENSP00000373404" />
+    <edge source="ENSP00000223324" target="ENSP00000338389" />
+    <edge source="ENSP00000223324" target="ENSP00000288937" />
+    <edge source="ENSP00000223324" target="ENSP00000357823" />
+    <edge source="ENSP00000223324" target="ENSP00000252602" />
+    <edge source="ENSP00000223324" target="ENSP00000420714" />
+    <edge source="ENSP00000223324" target="ENSP00000258455" />
+    <edge source="ENSP00000223324" target="ENSP00000362208" />
+    <edge source="ENSP00000223324" target="ENSP00000341082" />
+    <edge source="ENSP00000223324" target="ENSP00000431040" />
+    <edge source="ENSP00000223324" target="ENSP00000361206" />
+    <edge source="ENSP00000223324" target="ENSP00000295491" />
+    <edge source="ENSP00000264995" target="ENSP00000199706" />
+    <edge source="ENSP00000264995" target="ENSP00000245539" />
+    <edge source="ENSP00000264995" target="ENSP00000252602" />
+    <edge source="ENSP00000264995" target="ENSP00000258455" />
+    <edge source="ENSP00000264995" target="ENSP00000338057" />
+    <edge source="ENSP00000264995" target="ENSP00000338389" />
+    <edge source="ENSP00000264995" target="ENSP00000357823" />
+    <edge source="ENSP00000264995" target="ENSP00000288937" />
+    <edge source="ENSP00000264995" target="ENSP00000420714" />
+    <edge source="ENSP00000264995" target="ENSP00000341082" />
+    <edge source="ENSP00000264995" target="ENSP00000362208" />
+    <edge source="ENSP00000264995" target="ENSP00000431040" />
+    <edge source="ENSP00000264995" target="ENSP00000361206" />
+    <edge source="ENSP00000264995" target="ENSP00000382250" />
+    <edge source="ENSP00000264995" target="ENSP00000333837" />
+    <edge source="ENSP00000264995" target="ENSP00000315017" />
+    <edge source="ENSP00000264995" target="ENSP00000290208" />
+    <edge source="ENSP00000264995" target="ENSP00000379888" />
+    <edge source="ENSP00000264995" target="ENSP00000306548" />
+    <edge source="ENSP00000264995" target="ENSP00000354580" />
+    <edge source="ENSP00000264995" target="ENSP00000361084" />
+    <edge source="ENSP00000264995" target="ENSP00000373404" />
+    <edge source="ENSP00000264995" target="ENSP00000354525" />
+    <edge source="ENSP00000264995" target="ENSP00000272418" />
+    <edge source="ENSP00000264995" target="ENSP00000295491" />
+    <edge source="ENSP00000362208" target="ENSP00000199706" />
+    <edge source="ENSP00000362208" target="ENSP00000245539" />
+    <edge source="ENSP00000362208" target="ENSP00000252602" />
+    <edge source="ENSP00000362208" target="ENSP00000258455" />
+    <edge source="ENSP00000362208" target="ENSP00000272418" />
+    <edge source="ENSP00000362208" target="ENSP00000288937" />
+    <edge source="ENSP00000362208" target="ENSP00000290208" />
+    <edge source="ENSP00000362208" target="ENSP00000295491" />
+    <edge source="ENSP00000362208" target="ENSP00000306548" />
+    <edge source="ENSP00000362208" target="ENSP00000315017" />
+    <edge source="ENSP00000362208" target="ENSP00000333837" />
+    <edge source="ENSP00000362208" target="ENSP00000338389" />
+    <edge source="ENSP00000362208" target="ENSP00000341082" />
+    <edge source="ENSP00000362208" target="ENSP00000354525" />
+    <edge source="ENSP00000362208" target="ENSP00000354580" />
+    <edge source="ENSP00000362208" target="ENSP00000357823" />
+    <edge source="ENSP00000362208" target="ENSP00000361084" />
+    <edge source="ENSP00000362208" target="ENSP00000361206" />
+    <edge source="ENSP00000362208" target="ENSP00000420714" />
+    <edge source="ENSP00000362208" target="ENSP00000431040" />
+    <edge source="ENSP00000362208" target="ENSP00000382250" />
+    <edge source="ENSP00000362208" target="ENSP00000373404" />
+    <edge source="ENSP00000338389" target="ENSP00000199706" />
+    <edge source="ENSP00000338389" target="ENSP00000245539" />
+    <edge source="ENSP00000338389" target="ENSP00000252602" />
+    <edge source="ENSP00000338389" target="ENSP00000258455" />
+    <edge source="ENSP00000338389" target="ENSP00000272418" />
+    <edge source="ENSP00000338389" target="ENSP00000288937" />
+    <edge source="ENSP00000338389" target="ENSP00000290208" />
+    <edge source="ENSP00000338389" target="ENSP00000295491" />
+    <edge source="ENSP00000338389" target="ENSP00000306548" />
+    <edge source="ENSP00000338389" target="ENSP00000315017" />
+    <edge source="ENSP00000338389" target="ENSP00000333837" />
+    <edge source="ENSP00000338389" target="ENSP00000338057" />
+    <edge source="ENSP00000338389" target="ENSP00000361084" />
+    <edge source="ENSP00000338389" target="ENSP00000431040" />
+    <edge source="ENSP00000338389" target="ENSP00000382250" />
+    <edge source="ENSP00000338389" target="ENSP00000354580" />
+    <edge source="ENSP00000338389" target="ENSP00000341082" />
+    <edge source="ENSP00000338389" target="ENSP00000354525" />
+    <edge source="ENSP00000338389" target="ENSP00000420714" />
+    <edge source="ENSP00000338389" target="ENSP00000373404" />
+    <edge source="ENSP00000338389" target="ENSP00000357823" />
+    <edge source="ENSP00000338389" target="ENSP00000361206" />
+    <edge source="ENSP00000288937" target="ENSP00000199706" />
+    <edge source="ENSP00000288937" target="ENSP00000245539" />
+    <edge source="ENSP00000288937" target="ENSP00000252602" />
+    <edge source="ENSP00000288937" target="ENSP00000258455" />
+    <edge source="ENSP00000288937" target="ENSP00000272418" />
+    <edge source="ENSP00000288937" target="ENSP00000338057" />
+    <edge source="ENSP00000288937" target="ENSP00000357823" />
+    <edge source="ENSP00000288937" target="ENSP00000420714" />
+    <edge source="ENSP00000288937" target="ENSP00000341082" />
+    <edge source="ENSP00000288937" target="ENSP00000431040" />
+    <edge source="ENSP00000288937" target="ENSP00000361206" />
+    <edge source="ENSP00000288937" target="ENSP00000382250" />
+    <edge source="ENSP00000288937" target="ENSP00000307889" />
+    <edge source="ENSP00000288937" target="ENSP00000333837" />
+    <edge source="ENSP00000288937" target="ENSP00000315017" />
+    <edge source="ENSP00000288937" target="ENSP00000290208" />
+    <edge source="ENSP00000288937" target="ENSP00000379888" />
+    <edge source="ENSP00000288937" target="ENSP00000306548" />
+    <edge source="ENSP00000288937" target="ENSP00000296674" />
+    <edge source="ENSP00000288937" target="ENSP00000354580" />
+    <edge source="ENSP00000288937" target="ENSP00000361084" />
+    <edge source="ENSP00000288937" target="ENSP00000354525" />
+    <edge source="ENSP00000288937" target="ENSP00000373404" />
+    <edge source="ENSP00000288937" target="ENSP00000295491" />
+    <edge source="ENSP00000357823" target="ENSP00000199706" />
+    <edge source="ENSP00000357823" target="ENSP00000245539" />
+    <edge source="ENSP00000357823" target="ENSP00000252602" />
+    <edge source="ENSP00000357823" target="ENSP00000258455" />
+    <edge source="ENSP00000357823" target="ENSP00000272418" />
+    <edge source="ENSP00000357823" target="ENSP00000290208" />
+    <edge source="ENSP00000357823" target="ENSP00000295491" />
+    <edge source="ENSP00000357823" target="ENSP00000306548" />
+    <edge source="ENSP00000357823" target="ENSP00000307889" />
+    <edge source="ENSP00000357823" target="ENSP00000315017" />
+    <edge source="ENSP00000357823" target="ENSP00000333837" />
+    <edge source="ENSP00000357823" target="ENSP00000338057" />
+    <edge source="ENSP00000357823" target="ENSP00000341082" />
+    <edge source="ENSP00000357823" target="ENSP00000354525" />
+    <edge source="ENSP00000357823" target="ENSP00000354580" />
+    <edge source="ENSP00000357823" target="ENSP00000382250" />
+    <edge source="ENSP00000357823" target="ENSP00000379888" />
+    <edge source="ENSP00000357823" target="ENSP00000361084" />
+    <edge source="ENSP00000357823" target="ENSP00000373404" />
+    <edge source="ENSP00000357823" target="ENSP00000420714" />
+    <edge source="ENSP00000357823" target="ENSP00000431040" />
+    <edge source="ENSP00000357823" target="ENSP00000361206" />
+    <edge source="ENSP00000252602" target="ENSP00000199706" />
+    <edge source="ENSP00000252602" target="ENSP00000245539" />
+    <edge source="ENSP00000252602" target="ENSP00000306548" />
+    <edge source="ENSP00000252602" target="ENSP00000354580" />
+    <edge source="ENSP00000252602" target="ENSP00000361084" />
+    <edge source="ENSP00000252602" target="ENSP00000272418" />
+    <edge source="ENSP00000252602" target="ENSP00000354525" />
+    <edge source="ENSP00000252602" target="ENSP00000420714" />
+    <edge source="ENSP00000252602" target="ENSP00000338057" />
+    <edge source="ENSP00000252602" target="ENSP00000373404" />
+    <edge source="ENSP00000252602" target="ENSP00000258455" />
+    <edge source="ENSP00000252602" target="ENSP00000341082" />
+    <edge source="ENSP00000252602" target="ENSP00000431040" />
+    <edge source="ENSP00000252602" target="ENSP00000361206" />
+    <edge source="ENSP00000252602" target="ENSP00000295491" />
+    <edge source="ENSP00000252602" target="ENSP00000382250" />
+    <edge source="ENSP00000252602" target="ENSP00000333837" />
+    <edge source="ENSP00000252602" target="ENSP00000315017" />
+    <edge source="ENSP00000252602" target="ENSP00000290208" />
+    <edge source="ENSP00000341082" target="ENSP00000199706" />
+    <edge source="ENSP00000341082" target="ENSP00000245539" />
+    <edge source="ENSP00000341082" target="ENSP00000258455" />
+    <edge source="ENSP00000341082" target="ENSP00000272418" />
+    <edge source="ENSP00000341082" target="ENSP00000290208" />
+    <edge source="ENSP00000341082" target="ENSP00000295491" />
+    <edge source="ENSP00000341082" target="ENSP00000306548" />
+    <edge source="ENSP00000341082" target="ENSP00000307889" />
+    <edge source="ENSP00000341082" target="ENSP00000315017" />
+    <edge source="ENSP00000341082" target="ENSP00000333837" />
+    <edge source="ENSP00000341082" target="ENSP00000338057" />
+    <edge source="ENSP00000341082" target="ENSP00000431040" />
+    <edge source="ENSP00000341082" target="ENSP00000379888" />
+    <edge source="ENSP00000341082" target="ENSP00000420714" />
+    <edge source="ENSP00000341082" target="ENSP00000361206" />
+    <edge source="ENSP00000341082" target="ENSP00000382250" />
+    <edge source="ENSP00000341082" target="ENSP00000354580" />
+    <edge source="ENSP00000341082" target="ENSP00000361084" />
+    <edge source="ENSP00000341082" target="ENSP00000354525" />
+    <edge source="ENSP00000341082" target="ENSP00000373404" />
+    <edge source="ENSP00000420714" target="ENSP00000199706" />
+    <edge source="ENSP00000420714" target="ENSP00000245539" />
+    <edge source="ENSP00000420714" target="ENSP00000258455" />
+    <edge source="ENSP00000420714" target="ENSP00000272418" />
+    <edge source="ENSP00000420714" target="ENSP00000290208" />
+    <edge source="ENSP00000420714" target="ENSP00000295491" />
+    <edge source="ENSP00000420714" target="ENSP00000306548" />
+    <edge source="ENSP00000420714" target="ENSP00000315017" />
+    <edge source="ENSP00000420714" target="ENSP00000318646" />
+    <edge source="ENSP00000420714" target="ENSP00000333837" />
+    <edge source="ENSP00000420714" target="ENSP00000354525" />
+    <edge source="ENSP00000420714" target="ENSP00000354580" />
+    <edge source="ENSP00000420714" target="ENSP00000361084" />
+    <edge source="ENSP00000420714" target="ENSP00000361206" />
+    <edge source="ENSP00000420714" target="ENSP00000373404" />
+    <edge source="ENSP00000420714" target="ENSP00000379888" />
+    <edge source="ENSP00000420714" target="ENSP00000382250" />
+    <edge source="ENSP00000420714" target="ENSP00000431040" />
+    <edge source="ENSP00000431040" target="ENSP00000199706" />
+    <edge source="ENSP00000431040" target="ENSP00000245539" />
+    <edge source="ENSP00000431040" target="ENSP00000258455" />
+    <edge source="ENSP00000431040" target="ENSP00000272418" />
+    <edge source="ENSP00000431040" target="ENSP00000290208" />
+    <edge source="ENSP00000431040" target="ENSP00000295491" />
+    <edge source="ENSP00000431040" target="ENSP00000306548" />
+    <edge source="ENSP00000431040" target="ENSP00000315017" />
+    <edge source="ENSP00000431040" target="ENSP00000318646" />
+    <edge source="ENSP00000431040" target="ENSP00000333837" />
+    <edge source="ENSP00000431040" target="ENSP00000338057" />
+    <edge source="ENSP00000431040" target="ENSP00000354525" />
+    <edge source="ENSP00000431040" target="ENSP00000354580" />
+    <edge source="ENSP00000431040" target="ENSP00000354739" />
+    <edge source="ENSP00000431040" target="ENSP00000361084" />
+    <edge source="ENSP00000431040" target="ENSP00000361206" />
+    <edge source="ENSP00000431040" target="ENSP00000373404" />
+    <edge source="ENSP00000431040" target="ENSP00000379888" />
+    <edge source="ENSP00000431040" target="ENSP00000382250" />
+    <edge source="ENSP00000361206" target="ENSP00000199706" />
+    <edge source="ENSP00000361206" target="ENSP00000245539" />
+    <edge source="ENSP00000361206" target="ENSP00000258455" />
+    <edge source="ENSP00000361206" target="ENSP00000272418" />
+    <edge source="ENSP00000361206" target="ENSP00000290208" />
+    <edge source="ENSP00000361206" target="ENSP00000295491" />
+    <edge source="ENSP00000361206" target="ENSP00000306548" />
+    <edge source="ENSP00000361206" target="ENSP00000307889" />
+    <edge source="ENSP00000361206" target="ENSP00000315017" />
+    <edge source="ENSP00000361206" target="ENSP00000333837" />
+    <edge source="ENSP00000361206" target="ENSP00000338057" />
+    <edge source="ENSP00000361206" target="ENSP00000354525" />
+    <edge source="ENSP00000361206" target="ENSP00000354580" />
+    <edge source="ENSP00000361206" target="ENSP00000361084" />
+    <edge source="ENSP00000361206" target="ENSP00000382250" />
+    <edge source="ENSP00000361206" target="ENSP00000373404" />
+    <edge source="ENSP00000382250" target="ENSP00000199706" />
+    <edge source="ENSP00000382250" target="ENSP00000245539" />
+    <edge source="ENSP00000382250" target="ENSP00000258455" />
+    <edge source="ENSP00000382250" target="ENSP00000272418" />
+    <edge source="ENSP00000382250" target="ENSP00000290208" />
+    <edge source="ENSP00000382250" target="ENSP00000295491" />
+    <edge source="ENSP00000382250" target="ENSP00000306548" />
+    <edge source="ENSP00000382250" target="ENSP00000315017" />
+    <edge source="ENSP00000382250" target="ENSP00000333837" />
+    <edge source="ENSP00000382250" target="ENSP00000354525" />
+    <edge source="ENSP00000382250" target="ENSP00000354580" />
+    <edge source="ENSP00000382250" target="ENSP00000361084" />
+    <edge source="ENSP00000382250" target="ENSP00000373404" />
+    <edge source="ENSP00000245539" target="ENSP00000199706" />
+    <edge source="ENSP00000245539" target="ENSP00000272418" />
+    <edge source="ENSP00000245539" target="ENSP00000354525" />
+    <edge source="ENSP00000245539" target="ENSP00000373404" />
+    <edge source="ENSP00000245539" target="ENSP00000258455" />
+    <edge source="ENSP00000245539" target="ENSP00000318646" />
+    <edge source="ENSP00000245539" target="ENSP00000262584" />
+    <edge source="ENSP00000245539" target="ENSP00000295491" />
+    <edge source="ENSP00000245539" target="ENSP00000333837" />
+    <edge source="ENSP00000245539" target="ENSP00000315017" />
+    <edge source="ENSP00000245539" target="ENSP00000290208" />
+    <edge source="ENSP00000245539" target="ENSP00000379888" />
+    <edge source="ENSP00000245539" target="ENSP00000389103" />
+    <edge source="ENSP00000245539" target="ENSP00000306548" />
+    <edge source="ENSP00000245539" target="ENSP00000354580" />
+    <edge source="ENSP00000245539" target="ENSP00000361084" />
+    <edge source="ENSP00000333837" target="ENSP00000199706" />
+    <edge source="ENSP00000333837" target="ENSP00000225430" />
+    <edge source="ENSP00000333837" target="ENSP00000258455" />
+    <edge source="ENSP00000333837" target="ENSP00000272418" />
+    <edge source="ENSP00000333837" target="ENSP00000290208" />
+    <edge source="ENSP00000333837" target="ENSP00000295491" />
+    <edge source="ENSP00000333837" target="ENSP00000306548" />
+    <edge source="ENSP00000333837" target="ENSP00000315017" />
+    <edge source="ENSP00000333837" target="ENSP00000322419" />
+    <edge source="ENSP00000333837" target="ENSP00000361076" />
+    <edge source="ENSP00000333837" target="ENSP00000447001" />
+    <edge source="ENSP00000333837" target="ENSP00000354739" />
+    <edge source="ENSP00000333837" target="ENSP00000354580" />
+    <edge source="ENSP00000333837" target="ENSP00000361084" />
+    <edge source="ENSP00000333837" target="ENSP00000354525" />
+    <edge source="ENSP00000333837" target="ENSP00000373404" />
+    <edge source="ENSP00000315017" target="ENSP00000199706" />
+    <edge source="ENSP00000315017" target="ENSP00000258455" />
+    <edge source="ENSP00000315017" target="ENSP00000272418" />
+    <edge source="ENSP00000315017" target="ENSP00000290208" />
+    <edge source="ENSP00000315017" target="ENSP00000295491" />
+    <edge source="ENSP00000315017" target="ENSP00000306548" />
+    <edge source="ENSP00000315017" target="ENSP00000307889" />
+    <edge source="ENSP00000315017" target="ENSP00000361084" />
+    <edge source="ENSP00000315017" target="ENSP00000429374" />
+    <edge source="ENSP00000315017" target="ENSP00000354580" />
+    <edge source="ENSP00000315017" target="ENSP00000373404" />
+    <edge source="ENSP00000315017" target="ENSP00000354525" />
+    <edge source="ENSP00000315017" target="ENSP00000338057" />
+    <edge source="ENSP00000315017" target="ENSP00000354739" />
+    <edge source="ENSP00000315017" target="ENSP00000379888" />
+    <edge source="ENSP00000290208" target="ENSP00000199706" />
+    <edge source="ENSP00000290208" target="ENSP00000258455" />
+    <edge source="ENSP00000290208" target="ENSP00000272418" />
+    <edge source="ENSP00000290208" target="ENSP00000379888" />
+    <edge source="ENSP00000290208" target="ENSP00000306548" />
+    <edge source="ENSP00000290208" target="ENSP00000354580" />
+    <edge source="ENSP00000290208" target="ENSP00000361084" />
+    <edge source="ENSP00000290208" target="ENSP00000354525" />
+    <edge source="ENSP00000290208" target="ENSP00000373404" />
+    <edge source="ENSP00000290208" target="ENSP00000295491" />
+    <edge source="ENSP00000389103" target="ENSP00000222247" />
+    <edge source="ENSP00000389103" target="ENSP00000225430" />
+    <edge source="ENSP00000389103" target="ENSP00000230050" />
+    <edge source="ENSP00000389103" target="ENSP00000251453" />
+    <edge source="ENSP00000389103" target="ENSP00000259469" />
+    <edge source="ENSP00000389103" target="ENSP00000262584" />
+    <edge source="ENSP00000389103" target="ENSP00000268661" />
+    <edge source="ENSP00000389103" target="ENSP00000270625" />
+    <edge source="ENSP00000389103" target="ENSP00000272317" />
+    <edge source="ENSP00000389103" target="ENSP00000274242" />
+    <edge source="ENSP00000389103" target="ENSP00000296674" />
+    <edge source="ENSP00000389103" target="ENSP00000298283" />
+    <edge source="ENSP00000389103" target="ENSP00000302896" />
+    <edge source="ENSP00000389103" target="ENSP00000307889" />
+    <edge source="ENSP00000389103" target="ENSP00000309334" />
+    <edge source="ENSP00000389103" target="ENSP00000309830" />
+    <edge source="ENSP00000389103" target="ENSP00000311430" />
+    <edge source="ENSP00000389103" target="ENSP00000318646" />
+    <edge source="ENSP00000389103" target="ENSP00000322419" />
+    <edge source="ENSP00000389103" target="ENSP00000331019" />
+    <edge source="ENSP00000389103" target="ENSP00000339095" />
+    <edge source="ENSP00000389103" target="ENSP00000339795" />
+    <edge source="ENSP00000389103" target="ENSP00000345957" />
+    <edge source="ENSP00000389103" target="ENSP00000346001" />
+    <edge source="ENSP00000389103" target="ENSP00000346012" />
+    <edge source="ENSP00000389103" target="ENSP00000346015" />
+    <edge source="ENSP00000389103" target="ENSP00000346027" />
+    <edge source="ENSP00000389103" target="ENSP00000346037" />
+    <edge source="ENSP00000389103" target="ENSP00000346050" />
+    <edge source="ENSP00000389103" target="ENSP00000346067" />
+    <edge source="ENSP00000389103" target="ENSP00000346080" />
+    <edge source="ENSP00000389103" target="ENSP00000346088" />
+    <edge source="ENSP00000389103" target="ENSP00000348849" />
+    <edge source="ENSP00000389103" target="ENSP00000354739" />
+    <edge source="ENSP00000389103" target="ENSP00000355315" />
+    <edge source="ENSP00000389103" target="ENSP00000357555" />
+    <edge source="ENSP00000389103" target="ENSP00000359345" />
+    <edge source="ENSP00000389103" target="ENSP00000361076" />
+    <edge source="ENSP00000389103" target="ENSP00000362153" />
+    <edge source="ENSP00000389103" target="ENSP00000362744" />
+    <edge source="ENSP00000389103" target="ENSP00000363018" />
+    <edge source="ENSP00000389103" target="ENSP00000369757" />
+    <edge source="ENSP00000389103" target="ENSP00000375730" />
+    <edge source="ENSP00000389103" target="ENSP00000377640" />
+    <edge source="ENSP00000389103" target="ENSP00000379339" />
+    <edge source="ENSP00000389103" target="ENSP00000379888" />
+    <edge source="ENSP00000389103" target="ENSP00000386717" />
+    <edge source="ENSP00000389103" target="ENSP00000388107" />
+    <edge source="ENSP00000389103" target="ENSP00000447001" />
+    <edge source="ENSP00000389103" target="ENSP00000418082" />
+    <edge source="ENSP00000389103" target="ENSP00000429374" />
+    <edge source="ENSP00000389103" target="ENSP00000472469" />
+    <edge source="ENSP00000389103" target="ENSP00000414321" />
+    <edge source="ENSP00000389103" target="ENSP00000404375" />
+    <edge source="ENSP00000389103" target="ENSP00000435096" />
+    <edge source="ENSP00000389103" target="ENSP00000435777" />
+    <edge source="ENSP00000306548" target="ENSP00000199706" />
+    <edge source="ENSP00000306548" target="ENSP00000258455" />
+    <edge source="ENSP00000306548" target="ENSP00000272418" />
+    <edge source="ENSP00000306548" target="ENSP00000295491" />
+    <edge source="ENSP00000306548" target="ENSP00000373404" />
+    <edge source="ENSP00000306548" target="ENSP00000338057" />
+    <edge source="ENSP00000306548" target="ENSP00000379888" />
+    <edge source="ENSP00000306548" target="ENSP00000354580" />
+    <edge source="ENSP00000306548" target="ENSP00000361084" />
+    <edge source="ENSP00000306548" target="ENSP00000354525" />
+    <edge source="ENSP00000354580" target="ENSP00000199706" />
+    <edge source="ENSP00000354580" target="ENSP00000258455" />
+    <edge source="ENSP00000354580" target="ENSP00000272418" />
+    <edge source="ENSP00000354580" target="ENSP00000295491" />
+    <edge source="ENSP00000354580" target="ENSP00000338057" />
+    <edge source="ENSP00000354580" target="ENSP00000354525" />
+    <edge source="ENSP00000354580" target="ENSP00000361084" />
+    <edge source="ENSP00000354580" target="ENSP00000379888" />
+    <edge source="ENSP00000354580" target="ENSP00000373404" />
+    <edge source="ENSP00000361084" target="ENSP00000199706" />
+    <edge source="ENSP00000361084" target="ENSP00000258455" />
+    <edge source="ENSP00000361084" target="ENSP00000272418" />
+    <edge source="ENSP00000361084" target="ENSP00000295491" />
+    <edge source="ENSP00000361084" target="ENSP00000318646" />
+    <edge source="ENSP00000361084" target="ENSP00000354525" />
+    <edge source="ENSP00000361084" target="ENSP00000429374" />
+    <edge source="ENSP00000361084" target="ENSP00000373404" />
+    <edge source="ENSP00000199706" target="ENSP00000307889" />
+    <edge source="ENSP00000199706" target="ENSP00000379888" />
+    <edge source="ENSP00000199706" target="ENSP00000354525" />
+    <edge source="ENSP00000199706" target="ENSP00000272418" />
+    <edge source="ENSP00000199706" target="ENSP00000373404" />
+    <edge source="ENSP00000199706" target="ENSP00000338057" />
+    <edge source="ENSP00000199706" target="ENSP00000258455" />
+    <edge source="ENSP00000199706" target="ENSP00000295491" />
+    <edge source="ENSP00000272418" target="ENSP00000258455" />
+    <edge source="ENSP00000272418" target="ENSP00000307889" />
+    <edge source="ENSP00000272418" target="ENSP00000379888" />
+    <edge source="ENSP00000272418" target="ENSP00000354525" />
+    <edge source="ENSP00000272418" target="ENSP00000373404" />
+    <edge source="ENSP00000272418" target="ENSP00000295491" />
+    <edge source="ENSP00000354525" target="ENSP00000258455" />
+    <edge source="ENSP00000354525" target="ENSP00000262584" />
+    <edge source="ENSP00000354525" target="ENSP00000270625" />
+    <edge source="ENSP00000354525" target="ENSP00000295491" />
+    <edge source="ENSP00000354525" target="ENSP00000338057" />
+    <edge source="ENSP00000354525" target="ENSP00000379888" />
+    <edge source="ENSP00000354525" target="ENSP00000373404" />
+    <edge source="ENSP00000373404" target="ENSP00000258455" />
+    <edge source="ENSP00000373404" target="ENSP00000295491" />
+    <edge source="ENSP00000373404" target="ENSP00000338057" />
+    <edge source="ENSP00000373404" target="ENSP00000354040" />
+    <edge source="ENSP00000373404" target="ENSP00000379888" />
+    <edge source="ENSP00000258455" target="ENSP00000307889" />
+    <edge source="ENSP00000258455" target="ENSP00000379888" />
+    <edge source="ENSP00000258455" target="ENSP00000295491" />
+    <edge source="ENSP00000307889" target="ENSP00000222247" />
+    <edge source="ENSP00000307889" target="ENSP00000225430" />
+    <edge source="ENSP00000307889" target="ENSP00000230050" />
+    <edge source="ENSP00000307889" target="ENSP00000251453" />
+    <edge source="ENSP00000307889" target="ENSP00000259469" />
+    <edge source="ENSP00000307889" target="ENSP00000262584" />
+    <edge source="ENSP00000307889" target="ENSP00000268661" />
+    <edge source="ENSP00000307889" target="ENSP00000270625" />
+    <edge source="ENSP00000307889" target="ENSP00000272317" />
+    <edge source="ENSP00000307889" target="ENSP00000274242" />
+    <edge source="ENSP00000307889" target="ENSP00000296674" />
+    <edge source="ENSP00000307889" target="ENSP00000298283" />
+    <edge source="ENSP00000307889" target="ENSP00000302896" />
+    <edge source="ENSP00000307889" target="ENSP00000359345" />
+    <edge source="ENSP00000307889" target="ENSP00000339795" />
+    <edge source="ENSP00000307889" target="ENSP00000362744" />
+    <edge source="ENSP00000307889" target="ENSP00000346015" />
+    <edge source="ENSP00000307889" target="ENSP00000345957" />
+    <edge source="ENSP00000307889" target="ENSP00000322419" />
+    <edge source="ENSP00000307889" target="ENSP00000379339" />
+    <edge source="ENSP00000307889" target="ENSP00000346001" />
+    <edge source="ENSP00000307889" target="ENSP00000361076" />
+    <edge source="ENSP00000307889" target="ENSP00000311430" />
+    <edge source="ENSP00000307889" target="ENSP00000388107" />
+    <edge source="ENSP00000307889" target="ENSP00000447001" />
+    <edge source="ENSP00000307889" target="ENSP00000346012" />
+    <edge source="ENSP00000307889" target="ENSP00000348849" />
+    <edge source="ENSP00000307889" target="ENSP00000375730" />
+    <edge source="ENSP00000307889" target="ENSP00000309334" />
+    <edge source="ENSP00000307889" target="ENSP00000346067" />
+    <edge source="ENSP00000307889" target="ENSP00000338057" />
+    <edge source="ENSP00000307889" target="ENSP00000386717" />
+    <edge source="ENSP00000307889" target="ENSP00000369757" />
+    <edge source="ENSP00000307889" target="ENSP00000418082" />
+    <edge source="ENSP00000307889" target="ENSP00000346088" />
+    <edge source="ENSP00000307889" target="ENSP00000429374" />
+    <edge source="ENSP00000307889" target="ENSP00000346037" />
+    <edge source="ENSP00000307889" target="ENSP00000414321" />
+    <edge source="ENSP00000307889" target="ENSP00000472469" />
+    <edge source="ENSP00000307889" target="ENSP00000355315" />
+    <edge source="ENSP00000307889" target="ENSP00000346080" />
+    <edge source="ENSP00000307889" target="ENSP00000339095" />
+    <edge source="ENSP00000307889" target="ENSP00000354739" />
+    <edge source="ENSP00000307889" target="ENSP00000379888" />
+    <edge source="ENSP00000307889" target="ENSP00000363018" />
+    <edge source="ENSP00000307889" target="ENSP00000309830" />
+    <edge source="ENSP00000307889" target="ENSP00000435096" />
+    <edge source="ENSP00000307889" target="ENSP00000346027" />
+    <edge source="ENSP00000307889" target="ENSP00000331019" />
+    <edge source="ENSP00000307889" target="ENSP00000377640" />
+    <edge source="ENSP00000307889" target="ENSP00000357555" />
+    <edge source="ENSP00000307889" target="ENSP00000435777" />
+    <edge source="ENSP00000307889" target="ENSP00000318646" />
+    <edge source="ENSP00000307889" target="ENSP00000404375" />
+    <edge source="ENSP00000307889" target="ENSP00000346050" />
+    <edge source="ENSP00000379888" target="ENSP00000222247" />
+    <edge source="ENSP00000379888" target="ENSP00000225430" />
+    <edge source="ENSP00000379888" target="ENSP00000230050" />
+    <edge source="ENSP00000379888" target="ENSP00000251453" />
+    <edge source="ENSP00000379888" target="ENSP00000259469" />
+    <edge source="ENSP00000379888" target="ENSP00000262584" />
+    <edge source="ENSP00000379888" target="ENSP00000268661" />
+    <edge source="ENSP00000379888" target="ENSP00000268802" />
+    <edge source="ENSP00000379888" target="ENSP00000270625" />
+    <edge source="ENSP00000379888" target="ENSP00000272317" />
+    <edge source="ENSP00000379888" target="ENSP00000274242" />
+    <edge source="ENSP00000379888" target="ENSP00000296674" />
+    <edge source="ENSP00000379888" target="ENSP00000297990" />
+    <edge source="ENSP00000379888" target="ENSP00000298283" />
+    <edge source="ENSP00000379888" target="ENSP00000302896" />
+    <edge source="ENSP00000379888" target="ENSP00000309334" />
+    <edge source="ENSP00000379888" target="ENSP00000309830" />
+    <edge source="ENSP00000379888" target="ENSP00000311430" />
+    <edge source="ENSP00000379888" target="ENSP00000318646" />
+    <edge source="ENSP00000379888" target="ENSP00000322419" />
+    <edge source="ENSP00000379888" target="ENSP00000331019" />
+    <edge source="ENSP00000379888" target="ENSP00000338057" />
+    <edge source="ENSP00000379888" target="ENSP00000339095" />
+    <edge source="ENSP00000379888" target="ENSP00000339795" />
+    <edge source="ENSP00000379888" target="ENSP00000344393" />
+    <edge source="ENSP00000379888" target="ENSP00000345957" />
+    <edge source="ENSP00000379888" target="ENSP00000346001" />
+    <edge source="ENSP00000379888" target="ENSP00000346012" />
+    <edge source="ENSP00000379888" target="ENSP00000346015" />
+    <edge source="ENSP00000379888" target="ENSP00000346027" />
+    <edge source="ENSP00000379888" target="ENSP00000346037" />
+    <edge source="ENSP00000379888" target="ENSP00000346050" />
+    <edge source="ENSP00000379888" target="ENSP00000346067" />
+    <edge source="ENSP00000379888" target="ENSP00000346080" />
+    <edge source="ENSP00000379888" target="ENSP00000346088" />
+    <edge source="ENSP00000379888" target="ENSP00000348849" />
+    <edge source="ENSP00000379888" target="ENSP00000354739" />
+    <edge source="ENSP00000379888" target="ENSP00000355315" />
+    <edge source="ENSP00000379888" target="ENSP00000357555" />
+    <edge source="ENSP00000379888" target="ENSP00000359345" />
+    <edge source="ENSP00000379888" target="ENSP00000361076" />
+    <edge source="ENSP00000379888" target="ENSP00000362744" />
+    <edge source="ENSP00000379888" target="ENSP00000363018" />
+    <edge source="ENSP00000379888" target="ENSP00000369757" />
+    <edge source="ENSP00000379888" target="ENSP00000375730" />
+    <edge source="ENSP00000379888" target="ENSP00000377640" />
+    <edge source="ENSP00000379888" target="ENSP00000379339" />
+    <edge source="ENSP00000379888" target="ENSP00000386717" />
+    <edge source="ENSP00000379888" target="ENSP00000418082" />
+    <edge source="ENSP00000379888" target="ENSP00000429374" />
+    <edge source="ENSP00000379888" target="ENSP00000414321" />
+    <edge source="ENSP00000379888" target="ENSP00000472469" />
+    <edge source="ENSP00000379888" target="ENSP00000435096" />
+    <edge source="ENSP00000379888" target="ENSP00000435777" />
+    <edge source="ENSP00000379888" target="ENSP00000404375" />
+    <edge source="ENSP00000379888" target="ENSP00000388107" />
+    <edge source="ENSP00000379888" target="ENSP00000395772" />
+    <edge source="ENSP00000379888" target="ENSP00000447001" />
+    <edge source="ENSP00000222247" target="ENSP00000447001" />
+    <edge source="ENSP00000222247" target="ENSP00000362744" />
+    <edge source="ENSP00000222247" target="ENSP00000359345" />
+    <edge source="ENSP00000222247" target="ENSP00000339795" />
+    <edge source="ENSP00000222247" target="ENSP00000345957" />
+    <edge source="ENSP00000222247" target="ENSP00000346015" />
+    <edge source="ENSP00000222247" target="ENSP00000272317" />
+    <edge source="ENSP00000222247" target="ENSP00000322419" />
+    <edge source="ENSP00000222247" target="ENSP00000395772" />
+    <edge source="ENSP00000222247" target="ENSP00000302896" />
+    <edge source="ENSP00000222247" target="ENSP00000379339" />
+    <edge source="ENSP00000222247" target="ENSP00000361076" />
+    <edge source="ENSP00000222247" target="ENSP00000346001" />
+    <edge source="ENSP00000222247" target="ENSP00000388107" />
+    <edge source="ENSP00000222247" target="ENSP00000311430" />
+    <edge source="ENSP00000222247" target="ENSP00000346012" />
+    <edge source="ENSP00000222247" target="ENSP00000348849" />
+    <edge source="ENSP00000222247" target="ENSP00000298283" />
+    <edge source="ENSP00000222247" target="ENSP00000309334" />
+    <edge source="ENSP00000222247" target="ENSP00000375730" />
+    <edge source="ENSP00000222247" target="ENSP00000346067" />
+    <edge source="ENSP00000222247" target="ENSP00000386717" />
+    <edge source="ENSP00000222247" target="ENSP00000369757" />
+    <edge source="ENSP00000222247" target="ENSP00000346037" />
+    <edge source="ENSP00000222247" target="ENSP00000268661" />
+    <edge source="ENSP00000222247" target="ENSP00000274242" />
+    <edge source="ENSP00000222247" target="ENSP00000418082" />
+    <edge source="ENSP00000222247" target="ENSP00000346088" />
+    <edge source="ENSP00000222247" target="ENSP00000270625" />
+    <edge source="ENSP00000222247" target="ENSP00000429374" />
+    <edge source="ENSP00000222247" target="ENSP00000339095" />
+    <edge source="ENSP00000222247" target="ENSP00000414321" />
+    <edge source="ENSP00000222247" target="ENSP00000472469" />
+    <edge source="ENSP00000222247" target="ENSP00000355315" />
+    <edge source="ENSP00000222247" target="ENSP00000346080" />
+    <edge source="ENSP00000222247" target="ENSP00000354739" />
+    <edge source="ENSP00000222247" target="ENSP00000296674" />
+    <edge source="ENSP00000222247" target="ENSP00000230050" />
+    <edge source="ENSP00000222247" target="ENSP00000259469" />
+    <edge source="ENSP00000222247" target="ENSP00000309830" />
+    <edge source="ENSP00000222247" target="ENSP00000346027" />
+    <edge source="ENSP00000222247" target="ENSP00000435096" />
+    <edge source="ENSP00000222247" target="ENSP00000363018" />
+    <edge source="ENSP00000222247" target="ENSP00000357555" />
+    <edge source="ENSP00000222247" target="ENSP00000251453" />
+    <edge source="ENSP00000222247" target="ENSP00000331019" />
+    <edge source="ENSP00000222247" target="ENSP00000377640" />
+    <edge source="ENSP00000222247" target="ENSP00000435777" />
+    <edge source="ENSP00000222247" target="ENSP00000225430" />
+    <edge source="ENSP00000222247" target="ENSP00000318646" />
+    <edge source="ENSP00000222247" target="ENSP00000262584" />
+    <edge source="ENSP00000222247" target="ENSP00000404375" />
+    <edge source="ENSP00000222247" target="ENSP00000346050" />
+    <edge source="ENSP00000447001" target="ENSP00000225430" />
+    <edge source="ENSP00000447001" target="ENSP00000230050" />
+    <edge source="ENSP00000447001" target="ENSP00000251453" />
+    <edge source="ENSP00000447001" target="ENSP00000259469" />
+    <edge source="ENSP00000447001" target="ENSP00000262584" />
+    <edge source="ENSP00000447001" target="ENSP00000268661" />
+    <edge source="ENSP00000447001" target="ENSP00000270625" />
+    <edge source="ENSP00000447001" target="ENSP00000272317" />
+    <edge source="ENSP00000447001" target="ENSP00000274242" />
+    <edge source="ENSP00000447001" target="ENSP00000296674" />
+    <edge source="ENSP00000447001" target="ENSP00000298283" />
+    <edge source="ENSP00000447001" target="ENSP00000302896" />
+    <edge source="ENSP00000447001" target="ENSP00000309334" />
+    <edge source="ENSP00000447001" target="ENSP00000309830" />
+    <edge source="ENSP00000447001" target="ENSP00000311430" />
+    <edge source="ENSP00000447001" target="ENSP00000318646" />
+    <edge source="ENSP00000447001" target="ENSP00000322419" />
+    <edge source="ENSP00000447001" target="ENSP00000331019" />
+    <edge source="ENSP00000447001" target="ENSP00000339095" />
+    <edge source="ENSP00000447001" target="ENSP00000339795" />
+    <edge source="ENSP00000447001" target="ENSP00000345957" />
+    <edge source="ENSP00000447001" target="ENSP00000346001" />
+    <edge source="ENSP00000447001" target="ENSP00000346012" />
+    <edge source="ENSP00000447001" target="ENSP00000346015" />
+    <edge source="ENSP00000447001" target="ENSP00000346027" />
+    <edge source="ENSP00000447001" target="ENSP00000346037" />
+    <edge source="ENSP00000447001" target="ENSP00000346050" />
+    <edge source="ENSP00000447001" target="ENSP00000346067" />
+    <edge source="ENSP00000447001" target="ENSP00000346080" />
+    <edge source="ENSP00000447001" target="ENSP00000346088" />
+    <edge source="ENSP00000447001" target="ENSP00000348849" />
+    <edge source="ENSP00000447001" target="ENSP00000354739" />
+    <edge source="ENSP00000447001" target="ENSP00000355315" />
+    <edge source="ENSP00000447001" target="ENSP00000357555" />
+    <edge source="ENSP00000447001" target="ENSP00000359345" />
+    <edge source="ENSP00000447001" target="ENSP00000361076" />
+    <edge source="ENSP00000447001" target="ENSP00000362744" />
+    <edge source="ENSP00000447001" target="ENSP00000363018" />
+    <edge source="ENSP00000447001" target="ENSP00000369757" />
+    <edge source="ENSP00000447001" target="ENSP00000375730" />
+    <edge source="ENSP00000447001" target="ENSP00000377640" />
+    <edge source="ENSP00000447001" target="ENSP00000379339" />
+    <edge source="ENSP00000447001" target="ENSP00000386717" />
+    <edge source="ENSP00000447001" target="ENSP00000388107" />
+    <edge source="ENSP00000447001" target="ENSP00000404375" />
+    <edge source="ENSP00000447001" target="ENSP00000414321" />
+    <edge source="ENSP00000447001" target="ENSP00000418082" />
+    <edge source="ENSP00000447001" target="ENSP00000429374" />
+    <edge source="ENSP00000447001" target="ENSP00000435096" />
+    <edge source="ENSP00000447001" target="ENSP00000435777" />
+    <edge source="ENSP00000447001" target="ENSP00000472469" />
+    <edge source="ENSP00000362744" target="ENSP00000225430" />
+    <edge source="ENSP00000362744" target="ENSP00000230050" />
+    <edge source="ENSP00000362744" target="ENSP00000251453" />
+    <edge source="ENSP00000362744" target="ENSP00000259469" />
+    <edge source="ENSP00000362744" target="ENSP00000262584" />
+    <edge source="ENSP00000362744" target="ENSP00000268661" />
+    <edge source="ENSP00000362744" target="ENSP00000268802" />
+    <edge source="ENSP00000362744" target="ENSP00000270625" />
+    <edge source="ENSP00000362744" target="ENSP00000272317" />
+    <edge source="ENSP00000362744" target="ENSP00000274242" />
+    <edge source="ENSP00000362744" target="ENSP00000296674" />
+    <edge source="ENSP00000362744" target="ENSP00000297990" />
+    <edge source="ENSP00000362744" target="ENSP00000298283" />
+    <edge source="ENSP00000362744" target="ENSP00000302896" />
+    <edge source="ENSP00000362744" target="ENSP00000309334" />
+    <edge source="ENSP00000362744" target="ENSP00000309830" />
+    <edge source="ENSP00000362744" target="ENSP00000311430" />
+    <edge source="ENSP00000362744" target="ENSP00000318646" />
+    <edge source="ENSP00000362744" target="ENSP00000322419" />
+    <edge source="ENSP00000362744" target="ENSP00000331019" />
+    <edge source="ENSP00000362744" target="ENSP00000339095" />
+    <edge source="ENSP00000362744" target="ENSP00000339795" />
+    <edge source="ENSP00000362744" target="ENSP00000344393" />
+    <edge source="ENSP00000362744" target="ENSP00000345957" />
+    <edge source="ENSP00000362744" target="ENSP00000346001" />
+    <edge source="ENSP00000362744" target="ENSP00000346012" />
+    <edge source="ENSP00000362744" target="ENSP00000346015" />
+    <edge source="ENSP00000362744" target="ENSP00000346027" />
+    <edge source="ENSP00000362744" target="ENSP00000346037" />
+    <edge source="ENSP00000362744" target="ENSP00000346046" />
+    <edge source="ENSP00000362744" target="ENSP00000346050" />
+    <edge source="ENSP00000362744" target="ENSP00000346067" />
+    <edge source="ENSP00000362744" target="ENSP00000346080" />
+    <edge source="ENSP00000362744" target="ENSP00000346088" />
+    <edge source="ENSP00000362744" target="ENSP00000348849" />
+    <edge source="ENSP00000362744" target="ENSP00000354739" />
+    <edge source="ENSP00000362744" target="ENSP00000355315" />
+    <edge source="ENSP00000362744" target="ENSP00000357555" />
+    <edge source="ENSP00000362744" target="ENSP00000359345" />
+    <edge source="ENSP00000362744" target="ENSP00000361076" />
+    <edge source="ENSP00000362744" target="ENSP00000395772" />
+    <edge source="ENSP00000362744" target="ENSP00000379339" />
+    <edge source="ENSP00000362744" target="ENSP00000388107" />
+    <edge source="ENSP00000362744" target="ENSP00000429374" />
+    <edge source="ENSP00000362744" target="ENSP00000375730" />
+    <edge source="ENSP00000362744" target="ENSP00000386717" />
+    <edge source="ENSP00000362744" target="ENSP00000369757" />
+    <edge source="ENSP00000362744" target="ENSP00000418082" />
+    <edge source="ENSP00000362744" target="ENSP00000472469" />
+    <edge source="ENSP00000362744" target="ENSP00000414321" />
+    <edge source="ENSP00000362744" target="ENSP00000435096" />
+    <edge source="ENSP00000362744" target="ENSP00000363018" />
+    <edge source="ENSP00000362744" target="ENSP00000377640" />
+    <edge source="ENSP00000362744" target="ENSP00000435777" />
+    <edge source="ENSP00000362744" target="ENSP00000404375" />
+    <edge source="ENSP00000359345" target="ENSP00000223073" />
+    <edge source="ENSP00000359345" target="ENSP00000225430" />
+    <edge source="ENSP00000359345" target="ENSP00000230050" />
+    <edge source="ENSP00000359345" target="ENSP00000251453" />
+    <edge source="ENSP00000359345" target="ENSP00000259469" />
+    <edge source="ENSP00000359345" target="ENSP00000262584" />
+    <edge source="ENSP00000359345" target="ENSP00000268661" />
+    <edge source="ENSP00000359345" target="ENSP00000270625" />
+    <edge source="ENSP00000359345" target="ENSP00000272317" />
+    <edge source="ENSP00000359345" target="ENSP00000274242" />
+    <edge source="ENSP00000359345" target="ENSP00000296674" />
+    <edge source="ENSP00000359345" target="ENSP00000298283" />
+    <edge source="ENSP00000359345" target="ENSP00000302896" />
+    <edge source="ENSP00000359345" target="ENSP00000309334" />
+    <edge source="ENSP00000359345" target="ENSP00000309830" />
+    <edge source="ENSP00000359345" target="ENSP00000311430" />
+    <edge source="ENSP00000359345" target="ENSP00000318646" />
+    <edge source="ENSP00000359345" target="ENSP00000322419" />
+    <edge source="ENSP00000359345" target="ENSP00000331019" />
+    <edge source="ENSP00000359345" target="ENSP00000339095" />
+    <edge source="ENSP00000359345" target="ENSP00000339795" />
+    <edge source="ENSP00000359345" target="ENSP00000345957" />
+    <edge source="ENSP00000359345" target="ENSP00000346001" />
+    <edge source="ENSP00000359345" target="ENSP00000346012" />
+    <edge source="ENSP00000359345" target="ENSP00000346015" />
+    <edge source="ENSP00000359345" target="ENSP00000346027" />
+    <edge source="ENSP00000359345" target="ENSP00000346037" />
+    <edge source="ENSP00000359345" target="ENSP00000346050" />
+    <edge source="ENSP00000359345" target="ENSP00000346067" />
+    <edge source="ENSP00000359345" target="ENSP00000346080" />
+    <edge source="ENSP00000359345" target="ENSP00000346088" />
+    <edge source="ENSP00000359345" target="ENSP00000348849" />
+    <edge source="ENSP00000359345" target="ENSP00000354739" />
+    <edge source="ENSP00000359345" target="ENSP00000355315" />
+    <edge source="ENSP00000359345" target="ENSP00000357555" />
+    <edge source="ENSP00000359345" target="ENSP00000395772" />
+    <edge source="ENSP00000359345" target="ENSP00000379339" />
+    <edge source="ENSP00000359345" target="ENSP00000361076" />
+    <edge source="ENSP00000359345" target="ENSP00000388107" />
+    <edge source="ENSP00000359345" target="ENSP00000375730" />
+    <edge source="ENSP00000359345" target="ENSP00000386717" />
+    <edge source="ENSP00000359345" target="ENSP00000369757" />
+    <edge source="ENSP00000359345" target="ENSP00000418082" />
+    <edge source="ENSP00000359345" target="ENSP00000429374" />
+    <edge source="ENSP00000359345" target="ENSP00000472469" />
+    <edge source="ENSP00000359345" target="ENSP00000414321" />
+    <edge source="ENSP00000359345" target="ENSP00000435096" />
+    <edge source="ENSP00000359345" target="ENSP00000363018" />
+    <edge source="ENSP00000359345" target="ENSP00000377640" />
+    <edge source="ENSP00000359345" target="ENSP00000435777" />
+    <edge source="ENSP00000359345" target="ENSP00000404375" />
+    <edge source="ENSP00000339795" target="ENSP00000225430" />
+    <edge source="ENSP00000339795" target="ENSP00000230050" />
+    <edge source="ENSP00000339795" target="ENSP00000251453" />
+    <edge source="ENSP00000339795" target="ENSP00000259469" />
+    <edge source="ENSP00000339795" target="ENSP00000262584" />
+    <edge source="ENSP00000339795" target="ENSP00000268661" />
+    <edge source="ENSP00000339795" target="ENSP00000270625" />
+    <edge source="ENSP00000339795" target="ENSP00000272317" />
+    <edge source="ENSP00000339795" target="ENSP00000274242" />
+    <edge source="ENSP00000339795" target="ENSP00000296674" />
+    <edge source="ENSP00000339795" target="ENSP00000298283" />
+    <edge source="ENSP00000339795" target="ENSP00000302896" />
+    <edge source="ENSP00000339795" target="ENSP00000309334" />
+    <edge source="ENSP00000339795" target="ENSP00000309830" />
+    <edge source="ENSP00000339795" target="ENSP00000311430" />
+    <edge source="ENSP00000339795" target="ENSP00000318646" />
+    <edge source="ENSP00000339795" target="ENSP00000322419" />
+    <edge source="ENSP00000339795" target="ENSP00000331019" />
+    <edge source="ENSP00000339795" target="ENSP00000339095" />
+    <edge source="ENSP00000339795" target="ENSP00000345957" />
+    <edge source="ENSP00000339795" target="ENSP00000346015" />
+    <edge source="ENSP00000339795" target="ENSP00000395772" />
+    <edge source="ENSP00000339795" target="ENSP00000379339" />
+    <edge source="ENSP00000339795" target="ENSP00000346001" />
+    <edge source="ENSP00000339795" target="ENSP00000361076" />
+    <edge source="ENSP00000339795" target="ENSP00000388107" />
+    <edge source="ENSP00000339795" target="ENSP00000346012" />
+    <edge source="ENSP00000339795" target="ENSP00000348849" />
+    <edge source="ENSP00000339795" target="ENSP00000375730" />
+    <edge source="ENSP00000339795" target="ENSP00000346067" />
+    <edge source="ENSP00000339795" target="ENSP00000386717" />
+    <edge source="ENSP00000339795" target="ENSP00000369757" />
+    <edge source="ENSP00000339795" target="ENSP00000418082" />
+    <edge source="ENSP00000339795" target="ENSP00000346088" />
+    <edge source="ENSP00000339795" target="ENSP00000429374" />
+    <edge source="ENSP00000339795" target="ENSP00000346037" />
+    <edge source="ENSP00000339795" target="ENSP00000472469" />
+    <edge source="ENSP00000339795" target="ENSP00000414321" />
+    <edge source="ENSP00000339795" target="ENSP00000355315" />
+    <edge source="ENSP00000339795" target="ENSP00000346080" />
+    <edge source="ENSP00000339795" target="ENSP00000354739" />
+    <edge source="ENSP00000339795" target="ENSP00000435096" />
+    <edge source="ENSP00000339795" target="ENSP00000346027" />
+    <edge source="ENSP00000339795" target="ENSP00000363018" />
+    <edge source="ENSP00000339795" target="ENSP00000377640" />
+    <edge source="ENSP00000339795" target="ENSP00000357555" />
+    <edge source="ENSP00000339795" target="ENSP00000435777" />
+    <edge source="ENSP00000339795" target="ENSP00000346050" />
+    <edge source="ENSP00000339795" target="ENSP00000404375" />
+    <edge source="ENSP00000345957" target="ENSP00000225430" />
+    <edge source="ENSP00000345957" target="ENSP00000230050" />
+    <edge source="ENSP00000345957" target="ENSP00000251453" />
+    <edge source="ENSP00000345957" target="ENSP00000259469" />
+    <edge source="ENSP00000345957" target="ENSP00000262584" />
+    <edge source="ENSP00000345957" target="ENSP00000268661" />
+    <edge source="ENSP00000345957" target="ENSP00000268802" />
+    <edge source="ENSP00000345957" target="ENSP00000270625" />
+    <edge source="ENSP00000345957" target="ENSP00000272317" />
+    <edge source="ENSP00000345957" target="ENSP00000274242" />
+    <edge source="ENSP00000345957" target="ENSP00000296674" />
+    <edge source="ENSP00000345957" target="ENSP00000297990" />
+    <edge source="ENSP00000345957" target="ENSP00000298283" />
+    <edge source="ENSP00000345957" target="ENSP00000302896" />
+    <edge source="ENSP00000345957" target="ENSP00000309334" />
+    <edge source="ENSP00000345957" target="ENSP00000309830" />
+    <edge source="ENSP00000345957" target="ENSP00000311430" />
+    <edge source="ENSP00000345957" target="ENSP00000318646" />
+    <edge source="ENSP00000345957" target="ENSP00000322419" />
+    <edge source="ENSP00000345957" target="ENSP00000331019" />
+    <edge source="ENSP00000345957" target="ENSP00000339095" />
+    <edge source="ENSP00000345957" target="ENSP00000344393" />
+    <edge source="ENSP00000345957" target="ENSP00000346015" />
+    <edge source="ENSP00000345957" target="ENSP00000346046" />
+    <edge source="ENSP00000345957" target="ENSP00000346037" />
+    <edge source="ENSP00000345957" target="ENSP00000346001" />
+    <edge source="ENSP00000345957" target="ENSP00000429374" />
+    <edge source="ENSP00000345957" target="ENSP00000379339" />
+    <edge source="ENSP00000345957" target="ENSP00000361076" />
+    <edge source="ENSP00000345957" target="ENSP00000388107" />
+    <edge source="ENSP00000345957" target="ENSP00000346012" />
+    <edge source="ENSP00000345957" target="ENSP00000348849" />
+    <edge source="ENSP00000345957" target="ENSP00000375730" />
+    <edge source="ENSP00000345957" target="ENSP00000346067" />
+    <edge source="ENSP00000345957" target="ENSP00000386717" />
+    <edge source="ENSP00000345957" target="ENSP00000369757" />
+    <edge source="ENSP00000345957" target="ENSP00000418082" />
+    <edge source="ENSP00000345957" target="ENSP00000346088" />
+    <edge source="ENSP00000345957" target="ENSP00000414321" />
+    <edge source="ENSP00000345957" target="ENSP00000355315" />
+    <edge source="ENSP00000345957" target="ENSP00000472469" />
+    <edge source="ENSP00000345957" target="ENSP00000346080" />
+    <edge source="ENSP00000345957" target="ENSP00000354739" />
+    <edge source="ENSP00000345957" target="ENSP00000346027" />
+    <edge source="ENSP00000345957" target="ENSP00000435096" />
+    <edge source="ENSP00000345957" target="ENSP00000363018" />
+    <edge source="ENSP00000345957" target="ENSP00000377640" />
+    <edge source="ENSP00000345957" target="ENSP00000357555" />
+    <edge source="ENSP00000345957" target="ENSP00000435777" />
+    <edge source="ENSP00000345957" target="ENSP00000404375" />
+    <edge source="ENSP00000345957" target="ENSP00000346050" />
+    <edge source="ENSP00000346015" target="ENSP00000225430" />
+    <edge source="ENSP00000346015" target="ENSP00000230050" />
+    <edge source="ENSP00000346015" target="ENSP00000251453" />
+    <edge source="ENSP00000346015" target="ENSP00000259469" />
+    <edge source="ENSP00000346015" target="ENSP00000262584" />
+    <edge source="ENSP00000346015" target="ENSP00000268661" />
+    <edge source="ENSP00000346015" target="ENSP00000270625" />
+    <edge source="ENSP00000346015" target="ENSP00000272317" />
+    <edge source="ENSP00000346015" target="ENSP00000274242" />
+    <edge source="ENSP00000346015" target="ENSP00000296674" />
+    <edge source="ENSP00000346015" target="ENSP00000298283" />
+    <edge source="ENSP00000346015" target="ENSP00000302896" />
+    <edge source="ENSP00000346015" target="ENSP00000309334" />
+    <edge source="ENSP00000346015" target="ENSP00000309830" />
+    <edge source="ENSP00000346015" target="ENSP00000311430" />
+    <edge source="ENSP00000346015" target="ENSP00000318646" />
+    <edge source="ENSP00000346015" target="ENSP00000322419" />
+    <edge source="ENSP00000346015" target="ENSP00000331019" />
+    <edge source="ENSP00000346015" target="ENSP00000339095" />
+    <edge source="ENSP00000346015" target="ENSP00000346001" />
+    <edge source="ENSP00000346015" target="ENSP00000346012" />
+    <edge source="ENSP00000346015" target="ENSP00000379339" />
+    <edge source="ENSP00000346015" target="ENSP00000361076" />
+    <edge source="ENSP00000346015" target="ENSP00000388107" />
+    <edge source="ENSP00000346015" target="ENSP00000348849" />
+    <edge source="ENSP00000346015" target="ENSP00000375730" />
+    <edge source="ENSP00000346015" target="ENSP00000346067" />
+    <edge source="ENSP00000346015" target="ENSP00000386717" />
+    <edge source="ENSP00000346015" target="ENSP00000369757" />
+    <edge source="ENSP00000346015" target="ENSP00000346088" />
+    <edge source="ENSP00000346015" target="ENSP00000418082" />
+    <edge source="ENSP00000346015" target="ENSP00000346037" />
+    <edge source="ENSP00000346015" target="ENSP00000429374" />
+    <edge source="ENSP00000346015" target="ENSP00000355315" />
+    <edge source="ENSP00000346015" target="ENSP00000414321" />
+    <edge source="ENSP00000346015" target="ENSP00000472469" />
+    <edge source="ENSP00000346015" target="ENSP00000346080" />
+    <edge source="ENSP00000346015" target="ENSP00000354739" />
+    <edge source="ENSP00000346015" target="ENSP00000363018" />
+    <edge source="ENSP00000346015" target="ENSP00000435096" />
+    <edge source="ENSP00000346015" target="ENSP00000346027" />
+    <edge source="ENSP00000346015" target="ENSP00000357555" />
+    <edge source="ENSP00000346015" target="ENSP00000377640" />
+    <edge source="ENSP00000346015" target="ENSP00000435777" />
+    <edge source="ENSP00000346015" target="ENSP00000404375" />
+    <edge source="ENSP00000346015" target="ENSP00000346050" />
+    <edge source="ENSP00000272317" target="ENSP00000225430" />
+    <edge source="ENSP00000272317" target="ENSP00000230050" />
+    <edge source="ENSP00000272317" target="ENSP00000251453" />
+    <edge source="ENSP00000272317" target="ENSP00000259469" />
+    <edge source="ENSP00000272317" target="ENSP00000262584" />
+    <edge source="ENSP00000272317" target="ENSP00000268661" />
+    <edge source="ENSP00000272317" target="ENSP00000268802" />
+    <edge source="ENSP00000272317" target="ENSP00000270625" />
+    <edge source="ENSP00000272317" target="ENSP00000346027" />
+    <edge source="ENSP00000272317" target="ENSP00000357555" />
+    <edge source="ENSP00000272317" target="ENSP00000435777" />
+    <edge source="ENSP00000272317" target="ENSP00000318646" />
+    <edge source="ENSP00000272317" target="ENSP00000302896" />
+    <edge source="ENSP00000272317" target="ENSP00000346001" />
+    <edge source="ENSP00000272317" target="ENSP00000346012" />
+    <edge source="ENSP00000272317" target="ENSP00000361076" />
+    <edge source="ENSP00000272317" target="ENSP00000311430" />
+    <edge source="ENSP00000272317" target="ENSP00000354739" />
+    <edge source="ENSP00000272317" target="ENSP00000297990" />
+    <edge source="ENSP00000272317" target="ENSP00000309830" />
+    <edge source="ENSP00000272317" target="ENSP00000435096" />
+    <edge source="ENSP00000272317" target="ENSP00000363018" />
+    <edge source="ENSP00000272317" target="ENSP00000331019" />
+    <edge source="ENSP00000272317" target="ENSP00000377640" />
+    <edge source="ENSP00000272317" target="ENSP00000404375" />
+    <edge source="ENSP00000272317" target="ENSP00000322419" />
+    <edge source="ENSP00000272317" target="ENSP00000379339" />
+    <edge source="ENSP00000272317" target="ENSP00000388107" />
+    <edge source="ENSP00000272317" target="ENSP00000375730" />
+    <edge source="ENSP00000272317" target="ENSP00000309334" />
+    <edge source="ENSP00000272317" target="ENSP00000346067" />
+    <edge source="ENSP00000272317" target="ENSP00000414321" />
+    <edge source="ENSP00000272317" target="ENSP00000472469" />
+    <edge source="ENSP00000272317" target="ENSP00000386717" />
+    <edge source="ENSP00000272317" target="ENSP00000344393" />
+    <edge source="ENSP00000272317" target="ENSP00000369757" />
+    <edge source="ENSP00000272317" target="ENSP00000418082" />
+    <edge source="ENSP00000272317" target="ENSP00000346088" />
+    <edge source="ENSP00000272317" target="ENSP00000429374" />
+    <edge source="ENSP00000272317" target="ENSP00000346037" />
+    <edge source="ENSP00000272317" target="ENSP00000296674" />
+    <edge source="ENSP00000272317" target="ENSP00000348849" />
+    <edge source="ENSP00000272317" target="ENSP00000298283" />
+    <edge source="ENSP00000272317" target="ENSP00000274242" />
+    <edge source="ENSP00000272317" target="ENSP00000346050" />
+    <edge source="ENSP00000272317" target="ENSP00000355315" />
+    <edge source="ENSP00000272317" target="ENSP00000339095" />
+    <edge source="ENSP00000272317" target="ENSP00000346080" />
+    <edge source="ENSP00000322419" target="ENSP00000225430" />
+    <edge source="ENSP00000322419" target="ENSP00000230050" />
+    <edge source="ENSP00000322419" target="ENSP00000251453" />
+    <edge source="ENSP00000322419" target="ENSP00000259469" />
+    <edge source="ENSP00000322419" target="ENSP00000262584" />
+    <edge source="ENSP00000322419" target="ENSP00000268661" />
+    <edge source="ENSP00000322419" target="ENSP00000270625" />
+    <edge source="ENSP00000322419" target="ENSP00000274242" />
+    <edge source="ENSP00000322419" target="ENSP00000296674" />
+    <edge source="ENSP00000322419" target="ENSP00000298283" />
+    <edge source="ENSP00000322419" target="ENSP00000302896" />
+    <edge source="ENSP00000322419" target="ENSP00000309334" />
+    <edge source="ENSP00000322419" target="ENSP00000309830" />
+    <edge source="ENSP00000322419" target="ENSP00000311430" />
+    <edge source="ENSP00000322419" target="ENSP00000318646" />
+    <edge source="ENSP00000322419" target="ENSP00000404375" />
+    <edge source="ENSP00000322419" target="ENSP00000346050" />
+    <edge source="ENSP00000322419" target="ENSP00000379339" />
+    <edge source="ENSP00000322419" target="ENSP00000361076" />
+    <edge source="ENSP00000322419" target="ENSP00000346001" />
+    <edge source="ENSP00000322419" target="ENSP00000375730" />
+    <edge source="ENSP00000322419" target="ENSP00000346067" />
+    <edge source="ENSP00000322419" target="ENSP00000386717" />
+    <edge source="ENSP00000322419" target="ENSP00000369757" />
+    <edge source="ENSP00000322419" target="ENSP00000418082" />
+    <edge source="ENSP00000322419" target="ENSP00000346037" />
+    <edge source="ENSP00000322419" target="ENSP00000346088" />
+    <edge source="ENSP00000322419" target="ENSP00000429374" />
+    <edge source="ENSP00000322419" target="ENSP00000472469" />
+    <edge source="ENSP00000322419" target="ENSP00000414321" />
+    <edge source="ENSP00000322419" target="ENSP00000355315" />
+    <edge source="ENSP00000322419" target="ENSP00000339095" />
+    <edge source="ENSP00000322419" target="ENSP00000346080" />
+    <edge source="ENSP00000322419" target="ENSP00000354739" />
+    <edge source="ENSP00000322419" target="ENSP00000388107" />
+    <edge source="ENSP00000322419" target="ENSP00000346012" />
+    <edge source="ENSP00000322419" target="ENSP00000348849" />
+    <edge source="ENSP00000322419" target="ENSP00000435096" />
+    <edge source="ENSP00000322419" target="ENSP00000346027" />
+    <edge source="ENSP00000322419" target="ENSP00000331019" />
+    <edge source="ENSP00000322419" target="ENSP00000363018" />
+    <edge source="ENSP00000322419" target="ENSP00000357555" />
+    <edge source="ENSP00000322419" target="ENSP00000377640" />
+    <edge source="ENSP00000322419" target="ENSP00000435777" />
+    <edge source="ENSP00000395772" target="ENSP00000225430" />
+    <edge source="ENSP00000395772" target="ENSP00000309334" />
+    <edge source="ENSP00000395772" target="ENSP00000311430" />
+    <edge source="ENSP00000395772" target="ENSP00000318646" />
+    <edge source="ENSP00000395772" target="ENSP00000338573" />
+    <edge source="ENSP00000395772" target="ENSP00000339095" />
+    <edge source="ENSP00000395772" target="ENSP00000362153" />
+    <edge source="ENSP00000395772" target="ENSP00000369757" />
+    <edge source="ENSP00000395772" target="ENSP00000379339" />
+    <edge source="ENSP00000395772" target="ENSP00000418082" />
+    <edge source="ENSP00000395772" target="ENSP00000414321" />
+    <edge source="ENSP00000302896" target="ENSP00000225430" />
+    <edge source="ENSP00000302896" target="ENSP00000230050" />
+    <edge source="ENSP00000302896" target="ENSP00000251453" />
+    <edge source="ENSP00000302896" target="ENSP00000259469" />
+    <edge source="ENSP00000302896" target="ENSP00000262584" />
+    <edge source="ENSP00000302896" target="ENSP00000268661" />
+    <edge source="ENSP00000302896" target="ENSP00000268802" />
+    <edge source="ENSP00000302896" target="ENSP00000270625" />
+    <edge source="ENSP00000302896" target="ENSP00000274242" />
+    <edge source="ENSP00000302896" target="ENSP00000296674" />
+    <edge source="ENSP00000302896" target="ENSP00000297990" />
+    <edge source="ENSP00000302896" target="ENSP00000298283" />
+    <edge source="ENSP00000302896" target="ENSP00000346001" />
+    <edge source="ENSP00000302896" target="ENSP00000346046" />
+    <edge source="ENSP00000302896" target="ENSP00000379339" />
+    <edge source="ENSP00000302896" target="ENSP00000361076" />
+    <edge source="ENSP00000302896" target="ENSP00000311430" />
+    <edge source="ENSP00000302896" target="ENSP00000388107" />
+    <edge source="ENSP00000302896" target="ENSP00000346012" />
+    <edge source="ENSP00000302896" target="ENSP00000348849" />
+    <edge source="ENSP00000302896" target="ENSP00000309334" />
+    <edge source="ENSP00000302896" target="ENSP00000375730" />
+    <edge source="ENSP00000302896" target="ENSP00000346067" />
+    <edge source="ENSP00000302896" target="ENSP00000386717" />
+    <edge source="ENSP00000302896" target="ENSP00000369757" />
+    <edge source="ENSP00000302896" target="ENSP00000418082" />
+    <edge source="ENSP00000302896" target="ENSP00000346088" />
+    <edge source="ENSP00000302896" target="ENSP00000429374" />
+    <edge source="ENSP00000302896" target="ENSP00000346037" />
+    <edge source="ENSP00000302896" target="ENSP00000414321" />
+    <edge source="ENSP00000302896" target="ENSP00000472469" />
+    <edge source="ENSP00000302896" target="ENSP00000355315" />
+    <edge source="ENSP00000302896" target="ENSP00000339095" />
+    <edge source="ENSP00000302896" target="ENSP00000346080" />
+    <edge source="ENSP00000302896" target="ENSP00000354739" />
+    <edge source="ENSP00000302896" target="ENSP00000344393" />
+    <edge source="ENSP00000302896" target="ENSP00000346027" />
+    <edge source="ENSP00000302896" target="ENSP00000309830" />
+    <edge source="ENSP00000302896" target="ENSP00000435096" />
+    <edge source="ENSP00000302896" target="ENSP00000363018" />
+    <edge source="ENSP00000302896" target="ENSP00000357555" />
+    <edge source="ENSP00000302896" target="ENSP00000331019" />
+    <edge source="ENSP00000302896" target="ENSP00000377640" />
+    <edge source="ENSP00000302896" target="ENSP00000435777" />
+    <edge source="ENSP00000302896" target="ENSP00000318646" />
+    <edge source="ENSP00000302896" target="ENSP00000404375" />
+    <edge source="ENSP00000302896" target="ENSP00000346050" />
+    <edge source="ENSP00000379339" target="ENSP00000225430" />
+    <edge source="ENSP00000379339" target="ENSP00000230050" />
+    <edge source="ENSP00000379339" target="ENSP00000251453" />
+    <edge source="ENSP00000379339" target="ENSP00000259469" />
+    <edge source="ENSP00000379339" target="ENSP00000262584" />
+    <edge source="ENSP00000379339" target="ENSP00000268661" />
+    <edge source="ENSP00000379339" target="ENSP00000268802" />
+    <edge source="ENSP00000379339" target="ENSP00000270625" />
+    <edge source="ENSP00000379339" target="ENSP00000274242" />
+    <edge source="ENSP00000379339" target="ENSP00000296674" />
+    <edge source="ENSP00000379339" target="ENSP00000297990" />
+    <edge source="ENSP00000379339" target="ENSP00000298283" />
+    <edge source="ENSP00000379339" target="ENSP00000309334" />
+    <edge source="ENSP00000379339" target="ENSP00000309830" />
+    <edge source="ENSP00000379339" target="ENSP00000311430" />
+    <edge source="ENSP00000379339" target="ENSP00000318646" />
+    <edge source="ENSP00000379339" target="ENSP00000331019" />
+    <edge source="ENSP00000379339" target="ENSP00000339095" />
+    <edge source="ENSP00000379339" target="ENSP00000344393" />
+    <edge source="ENSP00000379339" target="ENSP00000346001" />
+    <edge source="ENSP00000379339" target="ENSP00000346012" />
+    <edge source="ENSP00000379339" target="ENSP00000346027" />
+    <edge source="ENSP00000379339" target="ENSP00000346037" />
+    <edge source="ENSP00000379339" target="ENSP00000346050" />
+    <edge source="ENSP00000379339" target="ENSP00000346067" />
+    <edge source="ENSP00000379339" target="ENSP00000346080" />
+    <edge source="ENSP00000379339" target="ENSP00000346088" />
+    <edge source="ENSP00000379339" target="ENSP00000348849" />
+    <edge source="ENSP00000379339" target="ENSP00000354739" />
+    <edge source="ENSP00000379339" target="ENSP00000355315" />
+    <edge source="ENSP00000379339" target="ENSP00000357555" />
+    <edge source="ENSP00000379339" target="ENSP00000361076" />
+    <edge source="ENSP00000379339" target="ENSP00000363018" />
+    <edge source="ENSP00000379339" target="ENSP00000369757" />
+    <edge source="ENSP00000379339" target="ENSP00000375730" />
+    <edge source="ENSP00000379339" target="ENSP00000377640" />
+    <edge source="ENSP00000379339" target="ENSP00000388107" />
+    <edge source="ENSP00000379339" target="ENSP00000386717" />
+    <edge source="ENSP00000379339" target="ENSP00000418082" />
+    <edge source="ENSP00000379339" target="ENSP00000429374" />
+    <edge source="ENSP00000379339" target="ENSP00000414321" />
+    <edge source="ENSP00000379339" target="ENSP00000472469" />
+    <edge source="ENSP00000379339" target="ENSP00000435096" />
+    <edge source="ENSP00000379339" target="ENSP00000435777" />
+    <edge source="ENSP00000379339" target="ENSP00000404375" />
+    <edge source="ENSP00000361076" target="ENSP00000225430" />
+    <edge source="ENSP00000361076" target="ENSP00000230050" />
+    <edge source="ENSP00000361076" target="ENSP00000251453" />
+    <edge source="ENSP00000361076" target="ENSP00000259469" />
+    <edge source="ENSP00000361076" target="ENSP00000262584" />
+    <edge source="ENSP00000361076" target="ENSP00000268661" />
+    <edge source="ENSP00000361076" target="ENSP00000270625" />
+    <edge source="ENSP00000361076" target="ENSP00000274242" />
+    <edge source="ENSP00000361076" target="ENSP00000296674" />
+    <edge source="ENSP00000361076" target="ENSP00000298283" />
+    <edge source="ENSP00000361076" target="ENSP00000309334" />
+    <edge source="ENSP00000361076" target="ENSP00000309830" />
+    <edge source="ENSP00000361076" target="ENSP00000311430" />
+    <edge source="ENSP00000361076" target="ENSP00000318646" />
+    <edge source="ENSP00000361076" target="ENSP00000331019" />
+    <edge source="ENSP00000361076" target="ENSP00000339095" />
+    <edge source="ENSP00000361076" target="ENSP00000346001" />
+    <edge source="ENSP00000361076" target="ENSP00000346012" />
+    <edge source="ENSP00000361076" target="ENSP00000346027" />
+    <edge source="ENSP00000361076" target="ENSP00000346037" />
+    <edge source="ENSP00000361076" target="ENSP00000346050" />
+    <edge source="ENSP00000361076" target="ENSP00000346067" />
+    <edge source="ENSP00000361076" target="ENSP00000346080" />
+    <edge source="ENSP00000361076" target="ENSP00000346088" />
+    <edge source="ENSP00000361076" target="ENSP00000348849" />
+    <edge source="ENSP00000361076" target="ENSP00000354739" />
+    <edge source="ENSP00000361076" target="ENSP00000355315" />
+    <edge source="ENSP00000361076" target="ENSP00000357555" />
+    <edge source="ENSP00000361076" target="ENSP00000388107" />
+    <edge source="ENSP00000361076" target="ENSP00000375730" />
+    <edge source="ENSP00000361076" target="ENSP00000386717" />
+    <edge source="ENSP00000361076" target="ENSP00000369757" />
+    <edge source="ENSP00000361076" target="ENSP00000418082" />
+    <edge source="ENSP00000361076" target="ENSP00000429374" />
+    <edge source="ENSP00000361076" target="ENSP00000435777" />
+    <edge source="ENSP00000361076" target="ENSP00000472469" />
+    <edge source="ENSP00000361076" target="ENSP00000414321" />
+    <edge source="ENSP00000361076" target="ENSP00000363018" />
+    <edge source="ENSP00000361076" target="ENSP00000435096" />
+    <edge source="ENSP00000361076" target="ENSP00000377640" />
+    <edge source="ENSP00000361076" target="ENSP00000404375" />
+    <edge source="ENSP00000346001" target="ENSP00000225430" />
+    <edge source="ENSP00000346001" target="ENSP00000230050" />
+    <edge source="ENSP00000346001" target="ENSP00000251453" />
+    <edge source="ENSP00000346001" target="ENSP00000259469" />
+    <edge source="ENSP00000346001" target="ENSP00000262584" />
+    <edge source="ENSP00000346001" target="ENSP00000268661" />
+    <edge source="ENSP00000346001" target="ENSP00000270625" />
+    <edge source="ENSP00000346001" target="ENSP00000274242" />
+    <edge source="ENSP00000346001" target="ENSP00000296674" />
+    <edge source="ENSP00000346001" target="ENSP00000298283" />
+    <edge source="ENSP00000346001" target="ENSP00000309334" />
+    <edge source="ENSP00000346001" target="ENSP00000309830" />
+    <edge source="ENSP00000346001" target="ENSP00000311430" />
+    <edge source="ENSP00000346001" target="ENSP00000318646" />
+    <edge source="ENSP00000346001" target="ENSP00000331019" />
+    <edge source="ENSP00000346001" target="ENSP00000339095" />
+    <edge source="ENSP00000346001" target="ENSP00000388107" />
+    <edge source="ENSP00000346001" target="ENSP00000375730" />
+    <edge source="ENSP00000346001" target="ENSP00000346067" />
+    <edge source="ENSP00000346001" target="ENSP00000386717" />
+    <edge source="ENSP00000346001" target="ENSP00000369757" />
+    <edge source="ENSP00000346001" target="ENSP00000418082" />
+    <edge source="ENSP00000346001" target="ENSP00000346088" />
+    <edge source="ENSP00000346001" target="ENSP00000429374" />
+    <edge source="ENSP00000346001" target="ENSP00000346037" />
+    <edge source="ENSP00000346001" target="ENSP00000346027" />
+    <edge source="ENSP00000346001" target="ENSP00000357555" />
+    <edge source="ENSP00000346001" target="ENSP00000435777" />
+    <edge source="ENSP00000346001" target="ENSP00000346012" />
+    <edge source="ENSP00000346001" target="ENSP00000348849" />
+    <edge source="ENSP00000346001" target="ENSP00000414321" />
+    <edge source="ENSP00000346001" target="ENSP00000472469" />
+    <edge source="ENSP00000346001" target="ENSP00000355315" />
+    <edge source="ENSP00000346001" target="ENSP00000346080" />
+    <edge source="ENSP00000346001" target="ENSP00000354739" />
+    <edge source="ENSP00000346001" target="ENSP00000435096" />
+    <edge source="ENSP00000346001" target="ENSP00000363018" />
+    <edge source="ENSP00000346001" target="ENSP00000377640" />
+    <edge source="ENSP00000346001" target="ENSP00000404375" />
+    <edge source="ENSP00000346001" target="ENSP00000346050" />
+    <edge source="ENSP00000388107" target="ENSP00000225430" />
+    <edge source="ENSP00000388107" target="ENSP00000230050" />
+    <edge source="ENSP00000388107" target="ENSP00000251453" />
+    <edge source="ENSP00000388107" target="ENSP00000259469" />
+    <edge source="ENSP00000388107" target="ENSP00000262584" />
+    <edge source="ENSP00000388107" target="ENSP00000268661" />
+    <edge source="ENSP00000388107" target="ENSP00000270625" />
+    <edge source="ENSP00000388107" target="ENSP00000274242" />
+    <edge source="ENSP00000388107" target="ENSP00000296674" />
+    <edge source="ENSP00000388107" target="ENSP00000298283" />
+    <edge source="ENSP00000388107" target="ENSP00000309334" />
+    <edge source="ENSP00000388107" target="ENSP00000309830" />
+    <edge source="ENSP00000388107" target="ENSP00000311430" />
+    <edge source="ENSP00000388107" target="ENSP00000318646" />
+    <edge source="ENSP00000388107" target="ENSP00000331019" />
+    <edge source="ENSP00000388107" target="ENSP00000339095" />
+    <edge source="ENSP00000388107" target="ENSP00000346012" />
+    <edge source="ENSP00000388107" target="ENSP00000346027" />
+    <edge source="ENSP00000388107" target="ENSP00000346037" />
+    <edge source="ENSP00000388107" target="ENSP00000346050" />
+    <edge source="ENSP00000388107" target="ENSP00000346067" />
+    <edge source="ENSP00000388107" target="ENSP00000346080" />
+    <edge source="ENSP00000388107" target="ENSP00000346088" />
+    <edge source="ENSP00000388107" target="ENSP00000348849" />
+    <edge source="ENSP00000388107" target="ENSP00000354739" />
+    <edge source="ENSP00000388107" target="ENSP00000355315" />
+    <edge source="ENSP00000388107" target="ENSP00000357555" />
+    <edge source="ENSP00000388107" target="ENSP00000363018" />
+    <edge source="ENSP00000388107" target="ENSP00000369757" />
+    <edge source="ENSP00000388107" target="ENSP00000375730" />
+    <edge source="ENSP00000388107" target="ENSP00000377640" />
+    <edge source="ENSP00000388107" target="ENSP00000386717" />
+    <edge source="ENSP00000388107" target="ENSP00000418082" />
+    <edge source="ENSP00000388107" target="ENSP00000429374" />
+    <edge source="ENSP00000388107" target="ENSP00000435777" />
+    <edge source="ENSP00000388107" target="ENSP00000414321" />
+    <edge source="ENSP00000388107" target="ENSP00000472469" />
+    <edge source="ENSP00000388107" target="ENSP00000435096" />
+    <edge source="ENSP00000388107" target="ENSP00000404375" />
+    <edge source="ENSP00000311430" target="ENSP00000225430" />
+    <edge source="ENSP00000311430" target="ENSP00000230050" />
+    <edge source="ENSP00000311430" target="ENSP00000251453" />
+    <edge source="ENSP00000311430" target="ENSP00000259469" />
+    <edge source="ENSP00000311430" target="ENSP00000262584" />
+    <edge source="ENSP00000311430" target="ENSP00000268661" />
+    <edge source="ENSP00000311430" target="ENSP00000270625" />
+    <edge source="ENSP00000311430" target="ENSP00000274242" />
+    <edge source="ENSP00000311430" target="ENSP00000296674" />
+    <edge source="ENSP00000311430" target="ENSP00000298283" />
+    <edge source="ENSP00000311430" target="ENSP00000309334" />
+    <edge source="ENSP00000311430" target="ENSP00000309830" />
+    <edge source="ENSP00000311430" target="ENSP00000375730" />
+    <edge source="ENSP00000311430" target="ENSP00000386717" />
+    <edge source="ENSP00000311430" target="ENSP00000346067" />
+    <edge source="ENSP00000311430" target="ENSP00000369757" />
+    <edge source="ENSP00000311430" target="ENSP00000418082" />
+    <edge source="ENSP00000311430" target="ENSP00000346088" />
+    <edge source="ENSP00000311430" target="ENSP00000429374" />
+    <edge source="ENSP00000311430" target="ENSP00000346037" />
+    <edge source="ENSP00000311430" target="ENSP00000346027" />
+    <edge source="ENSP00000311430" target="ENSP00000357555" />
+    <edge source="ENSP00000311430" target="ENSP00000435777" />
+    <edge source="ENSP00000311430" target="ENSP00000318646" />
+    <edge source="ENSP00000311430" target="ENSP00000348849" />
+    <edge source="ENSP00000311430" target="ENSP00000346012" />
+    <edge source="ENSP00000311430" target="ENSP00000354040" />
+    <edge source="ENSP00000311430" target="ENSP00000472469" />
+    <edge source="ENSP00000311430" target="ENSP00000414321" />
+    <edge source="ENSP00000311430" target="ENSP00000355315" />
+    <edge source="ENSP00000311430" target="ENSP00000339095" />
+    <edge source="ENSP00000311430" target="ENSP00000346080" />
+    <edge source="ENSP00000311430" target="ENSP00000354739" />
+    <edge source="ENSP00000311430" target="ENSP00000435096" />
+    <edge source="ENSP00000311430" target="ENSP00000363018" />
+    <edge source="ENSP00000311430" target="ENSP00000331019" />
+    <edge source="ENSP00000311430" target="ENSP00000377640" />
+    <edge source="ENSP00000311430" target="ENSP00000404375" />
+    <edge source="ENSP00000311430" target="ENSP00000346050" />
+    <edge source="ENSP00000346012" target="ENSP00000225430" />
+    <edge source="ENSP00000346012" target="ENSP00000230050" />
+    <edge source="ENSP00000346012" target="ENSP00000251453" />
+    <edge source="ENSP00000346012" target="ENSP00000259469" />
+    <edge source="ENSP00000346012" target="ENSP00000262584" />
+    <edge source="ENSP00000346012" target="ENSP00000268661" />
+    <edge source="ENSP00000346012" target="ENSP00000270625" />
+    <edge source="ENSP00000346012" target="ENSP00000274242" />
+    <edge source="ENSP00000346012" target="ENSP00000296674" />
+    <edge source="ENSP00000346012" target="ENSP00000298283" />
+    <edge source="ENSP00000346012" target="ENSP00000309334" />
+    <edge source="ENSP00000346012" target="ENSP00000309830" />
+    <edge source="ENSP00000346012" target="ENSP00000318646" />
+    <edge source="ENSP00000346012" target="ENSP00000331019" />
+    <edge source="ENSP00000346012" target="ENSP00000339095" />
+    <edge source="ENSP00000346012" target="ENSP00000348849" />
+    <edge source="ENSP00000346012" target="ENSP00000386717" />
+    <edge source="ENSP00000346012" target="ENSP00000375730" />
+    <edge source="ENSP00000346012" target="ENSP00000346067" />
+    <edge source="ENSP00000346012" target="ENSP00000369757" />
+    <edge source="ENSP00000346012" target="ENSP00000418082" />
+    <edge source="ENSP00000346012" target="ENSP00000346088" />
+    <edge source="ENSP00000346012" target="ENSP00000429374" />
+    <edge source="ENSP00000346012" target="ENSP00000346037" />
+    <edge source="ENSP00000346012" target="ENSP00000414321" />
+    <edge source="ENSP00000346012" target="ENSP00000472469" />
+    <edge source="ENSP00000346012" target="ENSP00000355315" />
+    <edge source="ENSP00000346012" target="ENSP00000346080" />
+    <edge source="ENSP00000346012" target="ENSP00000354739" />
+    <edge source="ENSP00000346012" target="ENSP00000363018" />
+    <edge source="ENSP00000346012" target="ENSP00000435096" />
+    <edge source="ENSP00000346012" target="ENSP00000346027" />
+    <edge source="ENSP00000346012" target="ENSP00000357555" />
+    <edge source="ENSP00000346012" target="ENSP00000435777" />
+    <edge source="ENSP00000346012" target="ENSP00000377640" />
+    <edge source="ENSP00000346012" target="ENSP00000404375" />
+    <edge source="ENSP00000346012" target="ENSP00000346050" />
+    <edge source="ENSP00000348849" target="ENSP00000225430" />
+    <edge source="ENSP00000348849" target="ENSP00000230050" />
+    <edge source="ENSP00000348849" target="ENSP00000251453" />
+    <edge source="ENSP00000348849" target="ENSP00000259469" />
+    <edge source="ENSP00000348849" target="ENSP00000262584" />
+    <edge source="ENSP00000348849" target="ENSP00000268661" />
+    <edge source="ENSP00000348849" target="ENSP00000268802" />
+    <edge source="ENSP00000348849" target="ENSP00000270625" />
+    <edge source="ENSP00000348849" target="ENSP00000274242" />
+    <edge source="ENSP00000348849" target="ENSP00000296674" />
+    <edge source="ENSP00000348849" target="ENSP00000297990" />
+    <edge source="ENSP00000348849" target="ENSP00000298283" />
+    <edge source="ENSP00000348849" target="ENSP00000309334" />
+    <edge source="ENSP00000348849" target="ENSP00000309830" />
+    <edge source="ENSP00000348849" target="ENSP00000318646" />
+    <edge source="ENSP00000348849" target="ENSP00000331019" />
+    <edge source="ENSP00000348849" target="ENSP00000339095" />
+    <edge source="ENSP00000348849" target="ENSP00000344393" />
+    <edge source="ENSP00000348849" target="ENSP00000346027" />
+    <edge source="ENSP00000348849" target="ENSP00000346037" />
+    <edge source="ENSP00000348849" target="ENSP00000346046" />
+    <edge source="ENSP00000348849" target="ENSP00000346050" />
+    <edge source="ENSP00000348849" target="ENSP00000346067" />
+    <edge source="ENSP00000348849" target="ENSP00000346080" />
+    <edge source="ENSP00000348849" target="ENSP00000346088" />
+    <edge source="ENSP00000348849" target="ENSP00000386717" />
+    <edge source="ENSP00000348849" target="ENSP00000375730" />
+    <edge source="ENSP00000348849" target="ENSP00000369757" />
+    <edge source="ENSP00000348849" target="ENSP00000418082" />
+    <edge source="ENSP00000348849" target="ENSP00000429374" />
+    <edge source="ENSP00000348849" target="ENSP00000414321" />
+    <edge source="ENSP00000348849" target="ENSP00000472469" />
+    <edge source="ENSP00000348849" target="ENSP00000355315" />
+    <edge source="ENSP00000348849" target="ENSP00000354739" />
+    <edge source="ENSP00000348849" target="ENSP00000435096" />
+    <edge source="ENSP00000348849" target="ENSP00000363018" />
+    <edge source="ENSP00000348849" target="ENSP00000435777" />
+    <edge source="ENSP00000348849" target="ENSP00000357555" />
+    <edge source="ENSP00000348849" target="ENSP00000377640" />
+    <edge source="ENSP00000348849" target="ENSP00000404375" />
+    <edge source="ENSP00000298283" target="ENSP00000225430" />
+    <edge source="ENSP00000298283" target="ENSP00000230050" />
+    <edge source="ENSP00000298283" target="ENSP00000251453" />
+    <edge source="ENSP00000298283" target="ENSP00000259469" />
+    <edge source="ENSP00000298283" target="ENSP00000262584" />
+    <edge source="ENSP00000298283" target="ENSP00000268661" />
+    <edge source="ENSP00000298283" target="ENSP00000270625" />
+    <edge source="ENSP00000298283" target="ENSP00000274242" />
+    <edge source="ENSP00000298283" target="ENSP00000296674" />
+    <edge source="ENSP00000298283" target="ENSP00000309334" />
+    <edge source="ENSP00000298283" target="ENSP00000375730" />
+    <edge source="ENSP00000298283" target="ENSP00000346067" />
+    <edge source="ENSP00000298283" target="ENSP00000386717" />
+    <edge source="ENSP00000298283" target="ENSP00000429374" />
+    <edge source="ENSP00000298283" target="ENSP00000369757" />
+    <edge source="ENSP00000298283" target="ENSP00000418082" />
+    <edge source="ENSP00000298283" target="ENSP00000346088" />
+    <edge source="ENSP00000298283" target="ENSP00000414321" />
+    <edge source="ENSP00000298283" target="ENSP00000472469" />
+    <edge source="ENSP00000298283" target="ENSP00000355315" />
+    <edge source="ENSP00000298283" target="ENSP00000339095" />
+    <edge source="ENSP00000298283" target="ENSP00000346080" />
+    <edge source="ENSP00000298283" target="ENSP00000354739" />
+    <edge source="ENSP00000298283" target="ENSP00000309830" />
+    <edge source="ENSP00000298283" target="ENSP00000435096" />
+    <edge source="ENSP00000298283" target="ENSP00000363018" />
+    <edge source="ENSP00000298283" target="ENSP00000331019" />
+    <edge source="ENSP00000298283" target="ENSP00000377640" />
+    <edge source="ENSP00000298283" target="ENSP00000346050" />
+    <edge source="ENSP00000298283" target="ENSP00000404375" />
+    <edge source="ENSP00000298283" target="ENSP00000346037" />
+    <edge source="ENSP00000298283" target="ENSP00000346027" />
+    <edge source="ENSP00000298283" target="ENSP00000357555" />
+    <edge source="ENSP00000298283" target="ENSP00000435777" />
+    <edge source="ENSP00000298283" target="ENSP00000318646" />
+    <edge source="ENSP00000309334" target="ENSP00000225430" />
+    <edge source="ENSP00000309334" target="ENSP00000230050" />
+    <edge source="ENSP00000309334" target="ENSP00000251453" />
+    <edge source="ENSP00000309334" target="ENSP00000259469" />
+    <edge source="ENSP00000309334" target="ENSP00000262584" />
+    <edge source="ENSP00000309334" target="ENSP00000268661" />
+    <edge source="ENSP00000309334" target="ENSP00000270625" />
+    <edge source="ENSP00000309334" target="ENSP00000274242" />
+    <edge source="ENSP00000309334" target="ENSP00000296674" />
+    <edge source="ENSP00000309334" target="ENSP00000369757" />
+    <edge source="ENSP00000309334" target="ENSP00000418082" />
+    <edge source="ENSP00000309334" target="ENSP00000346088" />
+    <edge source="ENSP00000309334" target="ENSP00000414321" />
+    <edge source="ENSP00000309334" target="ENSP00000429374" />
+    <edge source="ENSP00000309334" target="ENSP00000346037" />
+    <edge source="ENSP00000309334" target="ENSP00000472469" />
+    <edge source="ENSP00000309334" target="ENSP00000355315" />
+    <edge source="ENSP00000309334" target="ENSP00000339095" />
+    <edge source="ENSP00000309334" target="ENSP00000346080" />
+    <edge source="ENSP00000309334" target="ENSP00000354739" />
+    <edge source="ENSP00000309334" target="ENSP00000363018" />
+    <edge source="ENSP00000309334" target="ENSP00000346027" />
+    <edge source="ENSP00000309334" target="ENSP00000309830" />
+    <edge source="ENSP00000309334" target="ENSP00000435096" />
+    <edge source="ENSP00000309334" target="ENSP00000435777" />
+    <edge source="ENSP00000309334" target="ENSP00000331019" />
+    <edge source="ENSP00000309334" target="ENSP00000357555" />
+    <edge source="ENSP00000309334" target="ENSP00000377640" />
+    <edge source="ENSP00000309334" target="ENSP00000404375" />
+    <edge source="ENSP00000309334" target="ENSP00000318646" />
+    <edge source="ENSP00000309334" target="ENSP00000346050" />
+    <edge source="ENSP00000309334" target="ENSP00000375730" />
+    <edge source="ENSP00000309334" target="ENSP00000346067" />
+    <edge source="ENSP00000309334" target="ENSP00000386717" />
+    <edge source="ENSP00000375730" target="ENSP00000225430" />
+    <edge source="ENSP00000375730" target="ENSP00000230050" />
+    <edge source="ENSP00000375730" target="ENSP00000251453" />
+    <edge source="ENSP00000375730" target="ENSP00000259469" />
+    <edge source="ENSP00000375730" target="ENSP00000262584" />
+    <edge source="ENSP00000375730" target="ENSP00000268661" />
+    <edge source="ENSP00000375730" target="ENSP00000270625" />
+    <edge source="ENSP00000375730" target="ENSP00000274242" />
+    <edge source="ENSP00000375730" target="ENSP00000296674" />
+    <edge source="ENSP00000375730" target="ENSP00000309830" />
+    <edge source="ENSP00000375730" target="ENSP00000318646" />
+    <edge source="ENSP00000375730" target="ENSP00000331019" />
+    <edge source="ENSP00000375730" target="ENSP00000339095" />
+    <edge source="ENSP00000375730" target="ENSP00000346027" />
+    <edge source="ENSP00000375730" target="ENSP00000346037" />
+    <edge source="ENSP00000375730" target="ENSP00000346050" />
+    <edge source="ENSP00000375730" target="ENSP00000346067" />
+    <edge source="ENSP00000375730" target="ENSP00000346080" />
+    <edge source="ENSP00000375730" target="ENSP00000346088" />
+    <edge source="ENSP00000375730" target="ENSP00000354739" />
+    <edge source="ENSP00000375730" target="ENSP00000355315" />
+    <edge source="ENSP00000375730" target="ENSP00000357555" />
+    <edge source="ENSP00000375730" target="ENSP00000363018" />
+    <edge source="ENSP00000375730" target="ENSP00000369757" />
+    <edge source="ENSP00000375730" target="ENSP00000472469" />
+    <edge source="ENSP00000375730" target="ENSP00000386717" />
+    <edge source="ENSP00000375730" target="ENSP00000418082" />
+    <edge source="ENSP00000375730" target="ENSP00000429374" />
+    <edge source="ENSP00000375730" target="ENSP00000414321" />
+    <edge source="ENSP00000375730" target="ENSP00000435096" />
+    <edge source="ENSP00000375730" target="ENSP00000377640" />
+    <edge source="ENSP00000375730" target="ENSP00000435777" />
+    <edge source="ENSP00000375730" target="ENSP00000404375" />
+    <edge source="ENSP00000346067" target="ENSP00000225430" />
+    <edge source="ENSP00000346067" target="ENSP00000230050" />
+    <edge source="ENSP00000346067" target="ENSP00000251453" />
+    <edge source="ENSP00000346067" target="ENSP00000259469" />
+    <edge source="ENSP00000346067" target="ENSP00000262584" />
+    <edge source="ENSP00000346067" target="ENSP00000268661" />
+    <edge source="ENSP00000346067" target="ENSP00000268802" />
+    <edge source="ENSP00000346067" target="ENSP00000270625" />
+    <edge source="ENSP00000346067" target="ENSP00000274242" />
+    <edge source="ENSP00000346067" target="ENSP00000296674" />
+    <edge source="ENSP00000346067" target="ENSP00000297990" />
+    <edge source="ENSP00000346067" target="ENSP00000309830" />
+    <edge source="ENSP00000346067" target="ENSP00000318646" />
+    <edge source="ENSP00000346067" target="ENSP00000331019" />
+    <edge source="ENSP00000346067" target="ENSP00000339095" />
+    <edge source="ENSP00000346067" target="ENSP00000344393" />
+    <edge source="ENSP00000346067" target="ENSP00000346027" />
+    <edge source="ENSP00000346067" target="ENSP00000346037" />
+    <edge source="ENSP00000346067" target="ENSP00000346050" />
+    <edge source="ENSP00000346067" target="ENSP00000386717" />
+    <edge source="ENSP00000346067" target="ENSP00000369757" />
+    <edge source="ENSP00000346067" target="ENSP00000346088" />
+    <edge source="ENSP00000346067" target="ENSP00000418082" />
+    <edge source="ENSP00000346067" target="ENSP00000429374" />
+    <edge source="ENSP00000346067" target="ENSP00000435777" />
+    <edge source="ENSP00000346067" target="ENSP00000357555" />
+    <edge source="ENSP00000346067" target="ENSP00000404375" />
+    <edge source="ENSP00000346067" target="ENSP00000472469" />
+    <edge source="ENSP00000346067" target="ENSP00000414321" />
+    <edge source="ENSP00000346067" target="ENSP00000355315" />
+    <edge source="ENSP00000346067" target="ENSP00000346080" />
+    <edge source="ENSP00000346067" target="ENSP00000354739" />
+    <edge source="ENSP00000346067" target="ENSP00000435096" />
+    <edge source="ENSP00000346067" target="ENSP00000363018" />
+    <edge source="ENSP00000346067" target="ENSP00000377640" />
+    <edge source="ENSP00000386717" target="ENSP00000225430" />
+    <edge source="ENSP00000386717" target="ENSP00000230050" />
+    <edge source="ENSP00000386717" target="ENSP00000251453" />
+    <edge source="ENSP00000386717" target="ENSP00000259469" />
+    <edge source="ENSP00000386717" target="ENSP00000262584" />
+    <edge source="ENSP00000386717" target="ENSP00000268661" />
+    <edge source="ENSP00000386717" target="ENSP00000270625" />
+    <edge source="ENSP00000386717" target="ENSP00000274242" />
+    <edge source="ENSP00000386717" target="ENSP00000296674" />
+    <edge source="ENSP00000386717" target="ENSP00000309830" />
+    <edge source="ENSP00000386717" target="ENSP00000318646" />
+    <edge source="ENSP00000386717" target="ENSP00000331019" />
+    <edge source="ENSP00000386717" target="ENSP00000339095" />
+    <edge source="ENSP00000386717" target="ENSP00000346027" />
+    <edge source="ENSP00000386717" target="ENSP00000346037" />
+    <edge source="ENSP00000386717" target="ENSP00000346050" />
+    <edge source="ENSP00000386717" target="ENSP00000346080" />
+    <edge source="ENSP00000386717" target="ENSP00000346088" />
+    <edge source="ENSP00000386717" target="ENSP00000354739" />
+    <edge source="ENSP00000386717" target="ENSP00000355315" />
+    <edge source="ENSP00000386717" target="ENSP00000357555" />
+    <edge source="ENSP00000386717" target="ENSP00000363018" />
+    <edge source="ENSP00000386717" target="ENSP00000369757" />
+    <edge source="ENSP00000386717" target="ENSP00000377640" />
+    <edge source="ENSP00000386717" target="ENSP00000418082" />
+    <edge source="ENSP00000386717" target="ENSP00000429374" />
+    <edge source="ENSP00000386717" target="ENSP00000414321" />
+    <edge source="ENSP00000386717" target="ENSP00000472469" />
+    <edge source="ENSP00000386717" target="ENSP00000435096" />
+    <edge source="ENSP00000386717" target="ENSP00000435777" />
+    <edge source="ENSP00000386717" target="ENSP00000404375" />
+    <edge source="ENSP00000369757" target="ENSP00000225430" />
+    <edge source="ENSP00000369757" target="ENSP00000230050" />
+    <edge source="ENSP00000369757" target="ENSP00000251453" />
+    <edge source="ENSP00000369757" target="ENSP00000259469" />
+    <edge source="ENSP00000369757" target="ENSP00000262584" />
+    <edge source="ENSP00000369757" target="ENSP00000268661" />
+    <edge source="ENSP00000369757" target="ENSP00000268802" />
+    <edge source="ENSP00000369757" target="ENSP00000270625" />
+    <edge source="ENSP00000369757" target="ENSP00000274242" />
+    <edge source="ENSP00000369757" target="ENSP00000296674" />
+    <edge source="ENSP00000369757" target="ENSP00000297990" />
+    <edge source="ENSP00000369757" target="ENSP00000309830" />
+    <edge source="ENSP00000369757" target="ENSP00000318646" />
+    <edge source="ENSP00000369757" target="ENSP00000331019" />
+    <edge source="ENSP00000369757" target="ENSP00000339095" />
+    <edge source="ENSP00000369757" target="ENSP00000344393" />
+    <edge source="ENSP00000369757" target="ENSP00000346027" />
+    <edge source="ENSP00000369757" target="ENSP00000346037" />
+    <edge source="ENSP00000369757" target="ENSP00000346046" />
+    <edge source="ENSP00000369757" target="ENSP00000346050" />
+    <edge source="ENSP00000369757" target="ENSP00000346080" />
+    <edge source="ENSP00000369757" target="ENSP00000346088" />
+    <edge source="ENSP00000369757" target="ENSP00000354739" />
+    <edge source="ENSP00000369757" target="ENSP00000355315" />
+    <edge source="ENSP00000369757" target="ENSP00000357555" />
+    <edge source="ENSP00000369757" target="ENSP00000363018" />
+    <edge source="ENSP00000369757" target="ENSP00000418082" />
+    <edge source="ENSP00000369757" target="ENSP00000429374" />
+    <edge source="ENSP00000369757" target="ENSP00000472469" />
+    <edge source="ENSP00000369757" target="ENSP00000414321" />
+    <edge source="ENSP00000369757" target="ENSP00000435096" />
+    <edge source="ENSP00000369757" target="ENSP00000377640" />
+    <edge source="ENSP00000369757" target="ENSP00000435777" />
+    <edge source="ENSP00000369757" target="ENSP00000404375" />
+    <edge source="ENSP00000346037" target="ENSP00000225430" />
+    <edge source="ENSP00000346037" target="ENSP00000230050" />
+    <edge source="ENSP00000346037" target="ENSP00000251453" />
+    <edge source="ENSP00000346037" target="ENSP00000259469" />
+    <edge source="ENSP00000346037" target="ENSP00000262584" />
+    <edge source="ENSP00000346037" target="ENSP00000268661" />
+    <edge source="ENSP00000346037" target="ENSP00000270625" />
+    <edge source="ENSP00000346037" target="ENSP00000274242" />
+    <edge source="ENSP00000346037" target="ENSP00000296674" />
+    <edge source="ENSP00000346037" target="ENSP00000309830" />
+    <edge source="ENSP00000346037" target="ENSP00000318646" />
+    <edge source="ENSP00000346037" target="ENSP00000331019" />
+    <edge source="ENSP00000346037" target="ENSP00000339095" />
+    <edge source="ENSP00000346037" target="ENSP00000346027" />
+    <edge source="ENSP00000346037" target="ENSP00000418082" />
+    <edge source="ENSP00000346037" target="ENSP00000429374" />
+    <edge source="ENSP00000346037" target="ENSP00000346088" />
+    <edge source="ENSP00000346037" target="ENSP00000414321" />
+    <edge source="ENSP00000346037" target="ENSP00000472469" />
+    <edge source="ENSP00000346037" target="ENSP00000355315" />
+    <edge source="ENSP00000346037" target="ENSP00000346080" />
+    <edge source="ENSP00000346037" target="ENSP00000354739" />
+    <edge source="ENSP00000346037" target="ENSP00000435096" />
+    <edge source="ENSP00000346037" target="ENSP00000363018" />
+    <edge source="ENSP00000346037" target="ENSP00000357555" />
+    <edge source="ENSP00000346037" target="ENSP00000377640" />
+    <edge source="ENSP00000346037" target="ENSP00000435777" />
+    <edge source="ENSP00000346037" target="ENSP00000404375" />
+    <edge source="ENSP00000346037" target="ENSP00000346050" />
+    <edge source="ENSP00000268661" target="ENSP00000225430" />
+    <edge source="ENSP00000268661" target="ENSP00000230050" />
+    <edge source="ENSP00000268661" target="ENSP00000251453" />
+    <edge source="ENSP00000268661" target="ENSP00000259469" />
+    <edge source="ENSP00000268661" target="ENSP00000262584" />
+    <edge source="ENSP00000268661" target="ENSP00000418082" />
+    <edge source="ENSP00000268661" target="ENSP00000270625" />
+    <edge source="ENSP00000268661" target="ENSP00000346088" />
+    <edge source="ENSP00000268661" target="ENSP00000429374" />
+    <edge source="ENSP00000268661" target="ENSP00000296674" />
+    <edge source="ENSP00000268661" target="ENSP00000346027" />
+    <edge source="ENSP00000268661" target="ENSP00000357555" />
+    <edge source="ENSP00000268661" target="ENSP00000404375" />
+    <edge source="ENSP00000268661" target="ENSP00000435777" />
+    <edge source="ENSP00000268661" target="ENSP00000318646" />
+    <edge source="ENSP00000268661" target="ENSP00000274242" />
+    <edge source="ENSP00000268661" target="ENSP00000414321" />
+    <edge source="ENSP00000268661" target="ENSP00000472469" />
+    <edge source="ENSP00000268661" target="ENSP00000355315" />
+    <edge source="ENSP00000268661" target="ENSP00000339095" />
+    <edge source="ENSP00000268661" target="ENSP00000346080" />
+    <edge source="ENSP00000268661" target="ENSP00000354739" />
+    <edge source="ENSP00000268661" target="ENSP00000363018" />
+    <edge source="ENSP00000268661" target="ENSP00000309830" />
+    <edge source="ENSP00000268661" target="ENSP00000435096" />
+    <edge source="ENSP00000268661" target="ENSP00000331019" />
+    <edge source="ENSP00000268661" target="ENSP00000377640" />
+    <edge source="ENSP00000268661" target="ENSP00000346050" />
+    <edge source="ENSP00000274242" target="ENSP00000225430" />
+    <edge source="ENSP00000274242" target="ENSP00000230050" />
+    <edge source="ENSP00000274242" target="ENSP00000251453" />
+    <edge source="ENSP00000274242" target="ENSP00000259469" />
+    <edge source="ENSP00000274242" target="ENSP00000262584" />
+    <edge source="ENSP00000274242" target="ENSP00000270625" />
+    <edge source="ENSP00000274242" target="ENSP00000418082" />
+    <edge source="ENSP00000274242" target="ENSP00000346088" />
+    <edge source="ENSP00000274242" target="ENSP00000429374" />
+    <edge source="ENSP00000274242" target="ENSP00000355315" />
+    <edge source="ENSP00000274242" target="ENSP00000414321" />
+    <edge source="ENSP00000274242" target="ENSP00000472469" />
+    <edge source="ENSP00000274242" target="ENSP00000339095" />
+    <edge source="ENSP00000274242" target="ENSP00000346080" />
+    <edge source="ENSP00000274242" target="ENSP00000354739" />
+    <edge source="ENSP00000274242" target="ENSP00000296674" />
+    <edge source="ENSP00000274242" target="ENSP00000309830" />
+    <edge source="ENSP00000274242" target="ENSP00000346027" />
+    <edge source="ENSP00000274242" target="ENSP00000435096" />
+    <edge source="ENSP00000274242" target="ENSP00000363018" />
+    <edge source="ENSP00000274242" target="ENSP00000331019" />
+    <edge source="ENSP00000274242" target="ENSP00000377640" />
+    <edge source="ENSP00000274242" target="ENSP00000357555" />
+    <edge source="ENSP00000274242" target="ENSP00000435777" />
+    <edge source="ENSP00000274242" target="ENSP00000318646" />
+    <edge source="ENSP00000274242" target="ENSP00000404375" />
+    <edge source="ENSP00000274242" target="ENSP00000346050" />
+    <edge source="ENSP00000418082" target="ENSP00000225430" />
+    <edge source="ENSP00000418082" target="ENSP00000230050" />
+    <edge source="ENSP00000418082" target="ENSP00000251453" />
+    <edge source="ENSP00000418082" target="ENSP00000259469" />
+    <edge source="ENSP00000418082" target="ENSP00000262584" />
+    <edge source="ENSP00000418082" target="ENSP00000270625" />
+    <edge source="ENSP00000418082" target="ENSP00000296674" />
+    <edge source="ENSP00000418082" target="ENSP00000309830" />
+    <edge source="ENSP00000418082" target="ENSP00000318646" />
+    <edge source="ENSP00000418082" target="ENSP00000331019" />
+    <edge source="ENSP00000418082" target="ENSP00000339095" />
+    <edge source="ENSP00000418082" target="ENSP00000346027" />
+    <edge source="ENSP00000418082" target="ENSP00000346050" />
+    <edge source="ENSP00000418082" target="ENSP00000346080" />
+    <edge source="ENSP00000418082" target="ENSP00000346088" />
+    <edge source="ENSP00000418082" target="ENSP00000354739" />
+    <edge source="ENSP00000418082" target="ENSP00000355315" />
+    <edge source="ENSP00000418082" target="ENSP00000357555" />
+    <edge source="ENSP00000418082" target="ENSP00000363018" />
+    <edge source="ENSP00000418082" target="ENSP00000377640" />
+    <edge source="ENSP00000418082" target="ENSP00000404375" />
+    <edge source="ENSP00000418082" target="ENSP00000414321" />
+    <edge source="ENSP00000418082" target="ENSP00000435096" />
+    <edge source="ENSP00000418082" target="ENSP00000435777" />
+    <edge source="ENSP00000418082" target="ENSP00000472469" />
+    <edge source="ENSP00000418082" target="ENSP00000429374" />
+    <edge source="ENSP00000346088" target="ENSP00000225430" />
+    <edge source="ENSP00000346088" target="ENSP00000230050" />
+    <edge source="ENSP00000346088" target="ENSP00000251453" />
+    <edge source="ENSP00000346088" target="ENSP00000259469" />
+    <edge source="ENSP00000346088" target="ENSP00000262584" />
+    <edge source="ENSP00000346088" target="ENSP00000270625" />
+    <edge source="ENSP00000346088" target="ENSP00000296674" />
+    <edge source="ENSP00000346088" target="ENSP00000309830" />
+    <edge source="ENSP00000346088" target="ENSP00000318646" />
+    <edge source="ENSP00000346088" target="ENSP00000331019" />
+    <edge source="ENSP00000346088" target="ENSP00000339095" />
+    <edge source="ENSP00000346088" target="ENSP00000346027" />
+    <edge source="ENSP00000346088" target="ENSP00000346050" />
+    <edge source="ENSP00000346088" target="ENSP00000346080" />
+    <edge source="ENSP00000346088" target="ENSP00000429374" />
+    <edge source="ENSP00000346088" target="ENSP00000414321" />
+    <edge source="ENSP00000346088" target="ENSP00000472469" />
+    <edge source="ENSP00000346088" target="ENSP00000355315" />
+    <edge source="ENSP00000346088" target="ENSP00000354739" />
+    <edge source="ENSP00000346088" target="ENSP00000435096" />
+    <edge source="ENSP00000346088" target="ENSP00000363018" />
+    <edge source="ENSP00000346088" target="ENSP00000357555" />
+    <edge source="ENSP00000346088" target="ENSP00000377640" />
+    <edge source="ENSP00000346088" target="ENSP00000435777" />
+    <edge source="ENSP00000346088" target="ENSP00000404375" />
+    <edge source="ENSP00000270625" target="ENSP00000225430" />
+    <edge source="ENSP00000270625" target="ENSP00000230050" />
+    <edge source="ENSP00000270625" target="ENSP00000251453" />
+    <edge source="ENSP00000270625" target="ENSP00000259469" />
+    <edge source="ENSP00000270625" target="ENSP00000262584" />
+    <edge source="ENSP00000270625" target="ENSP00000268802" />
+    <edge source="ENSP00000270625" target="ENSP00000346046" />
+    <edge source="ENSP00000270625" target="ENSP00000429374" />
+    <edge source="ENSP00000270625" target="ENSP00000355315" />
+    <edge source="ENSP00000270625" target="ENSP00000472469" />
+    <edge source="ENSP00000270625" target="ENSP00000414321" />
+    <edge source="ENSP00000270625" target="ENSP00000339095" />
+    <edge source="ENSP00000270625" target="ENSP00000346080" />
+    <edge source="ENSP00000270625" target="ENSP00000354739" />
+    <edge source="ENSP00000270625" target="ENSP00000297990" />
+    <edge source="ENSP00000270625" target="ENSP00000344393" />
+    <edge source="ENSP00000270625" target="ENSP00000296674" />
+    <edge source="ENSP00000270625" target="ENSP00000363018" />
+    <edge source="ENSP00000270625" target="ENSP00000435096" />
+    <edge source="ENSP00000270625" target="ENSP00000346027" />
+    <edge source="ENSP00000270625" target="ENSP00000309830" />
+    <edge source="ENSP00000270625" target="ENSP00000357555" />
+    <edge source="ENSP00000270625" target="ENSP00000331019" />
+    <edge source="ENSP00000270625" target="ENSP00000377640" />
+    <edge source="ENSP00000270625" target="ENSP00000435777" />
+    <edge source="ENSP00000270625" target="ENSP00000318646" />
+    <edge source="ENSP00000270625" target="ENSP00000404375" />
+    <edge source="ENSP00000270625" target="ENSP00000346050" />
+    <edge source="ENSP00000429374" target="ENSP00000225430" />
+    <edge source="ENSP00000429374" target="ENSP00000230050" />
+    <edge source="ENSP00000429374" target="ENSP00000251453" />
+    <edge source="ENSP00000429374" target="ENSP00000259469" />
+    <edge source="ENSP00000429374" target="ENSP00000262584" />
+    <edge source="ENSP00000429374" target="ENSP00000268802" />
+    <edge source="ENSP00000429374" target="ENSP00000296674" />
+    <edge source="ENSP00000429374" target="ENSP00000297990" />
+    <edge source="ENSP00000429374" target="ENSP00000309830" />
+    <edge source="ENSP00000429374" target="ENSP00000318646" />
+    <edge source="ENSP00000429374" target="ENSP00000331019" />
+    <edge source="ENSP00000429374" target="ENSP00000339095" />
+    <edge source="ENSP00000429374" target="ENSP00000344393" />
+    <edge source="ENSP00000429374" target="ENSP00000346027" />
+    <edge source="ENSP00000429374" target="ENSP00000346050" />
+    <edge source="ENSP00000429374" target="ENSP00000346080" />
+    <edge source="ENSP00000429374" target="ENSP00000354739" />
+    <edge source="ENSP00000429374" target="ENSP00000355315" />
+    <edge source="ENSP00000429374" target="ENSP00000357555" />
+    <edge source="ENSP00000429374" target="ENSP00000363018" />
+    <edge source="ENSP00000429374" target="ENSP00000377640" />
+    <edge source="ENSP00000429374" target="ENSP00000404375" />
+    <edge source="ENSP00000429374" target="ENSP00000414321" />
+    <edge source="ENSP00000429374" target="ENSP00000472469" />
+    <edge source="ENSP00000429374" target="ENSP00000435096" />
+    <edge source="ENSP00000429374" target="ENSP00000435777" />
+    <edge source="ENSP00000339095" target="ENSP00000225430" />
+    <edge source="ENSP00000339095" target="ENSP00000230050" />
+    <edge source="ENSP00000339095" target="ENSP00000251453" />
+    <edge source="ENSP00000339095" target="ENSP00000259469" />
+    <edge source="ENSP00000339095" target="ENSP00000262584" />
+    <edge source="ENSP00000339095" target="ENSP00000268802" />
+    <edge source="ENSP00000339095" target="ENSP00000296674" />
+    <edge source="ENSP00000339095" target="ENSP00000297990" />
+    <edge source="ENSP00000339095" target="ENSP00000309830" />
+    <edge source="ENSP00000339095" target="ENSP00000318646" />
+    <edge source="ENSP00000339095" target="ENSP00000331019" />
+    <edge source="ENSP00000339095" target="ENSP00000472469" />
+    <edge source="ENSP00000339095" target="ENSP00000414321" />
+    <edge source="ENSP00000339095" target="ENSP00000355315" />
+    <edge source="ENSP00000339095" target="ENSP00000346080" />
+    <edge source="ENSP00000339095" target="ENSP00000354739" />
+    <edge source="ENSP00000339095" target="ENSP00000344393" />
+    <edge source="ENSP00000339095" target="ENSP00000363018" />
+    <edge source="ENSP00000339095" target="ENSP00000346027" />
+    <edge source="ENSP00000339095" target="ENSP00000435096" />
+    <edge source="ENSP00000339095" target="ENSP00000377640" />
+    <edge source="ENSP00000339095" target="ENSP00000357555" />
+    <edge source="ENSP00000339095" target="ENSP00000435777" />
+    <edge source="ENSP00000339095" target="ENSP00000404375" />
+    <edge source="ENSP00000339095" target="ENSP00000346050" />
+    <edge source="ENSP00000339095" target="ENSP00000346046" />
+    <edge source="ENSP00000414321" target="ENSP00000225430" />
+    <edge source="ENSP00000414321" target="ENSP00000230050" />
+    <edge source="ENSP00000414321" target="ENSP00000251453" />
+    <edge source="ENSP00000414321" target="ENSP00000259469" />
+    <edge source="ENSP00000414321" target="ENSP00000262584" />
+    <edge source="ENSP00000414321" target="ENSP00000268802" />
+    <edge source="ENSP00000414321" target="ENSP00000296674" />
+    <edge source="ENSP00000414321" target="ENSP00000297990" />
+    <edge source="ENSP00000414321" target="ENSP00000309830" />
+    <edge source="ENSP00000414321" target="ENSP00000318646" />
+    <edge source="ENSP00000414321" target="ENSP00000331019" />
+    <edge source="ENSP00000414321" target="ENSP00000344393" />
+    <edge source="ENSP00000414321" target="ENSP00000346027" />
+    <edge source="ENSP00000414321" target="ENSP00000346050" />
+    <edge source="ENSP00000414321" target="ENSP00000346080" />
+    <edge source="ENSP00000414321" target="ENSP00000354739" />
+    <edge source="ENSP00000414321" target="ENSP00000355315" />
+    <edge source="ENSP00000414321" target="ENSP00000357555" />
+    <edge source="ENSP00000414321" target="ENSP00000363018" />
+    <edge source="ENSP00000414321" target="ENSP00000377640" />
+    <edge source="ENSP00000414321" target="ENSP00000404375" />
+    <edge source="ENSP00000414321" target="ENSP00000435096" />
+    <edge source="ENSP00000414321" target="ENSP00000435777" />
+    <edge source="ENSP00000414321" target="ENSP00000472469" />
+    <edge source="ENSP00000472469" target="ENSP00000225430" />
+    <edge source="ENSP00000472469" target="ENSP00000230050" />
+    <edge source="ENSP00000472469" target="ENSP00000251453" />
+    <edge source="ENSP00000472469" target="ENSP00000259469" />
+    <edge source="ENSP00000472469" target="ENSP00000262584" />
+    <edge source="ENSP00000472469" target="ENSP00000268802" />
+    <edge source="ENSP00000472469" target="ENSP00000296674" />
+    <edge source="ENSP00000472469" target="ENSP00000297990" />
+    <edge source="ENSP00000472469" target="ENSP00000309830" />
+    <edge source="ENSP00000472469" target="ENSP00000318646" />
+    <edge source="ENSP00000472469" target="ENSP00000331019" />
+    <edge source="ENSP00000472469" target="ENSP00000344393" />
+    <edge source="ENSP00000472469" target="ENSP00000346027" />
+    <edge source="ENSP00000472469" target="ENSP00000346046" />
+    <edge source="ENSP00000472469" target="ENSP00000346050" />
+    <edge source="ENSP00000472469" target="ENSP00000346080" />
+    <edge source="ENSP00000472469" target="ENSP00000354739" />
+    <edge source="ENSP00000472469" target="ENSP00000355315" />
+    <edge source="ENSP00000472469" target="ENSP00000357555" />
+    <edge source="ENSP00000472469" target="ENSP00000363018" />
+    <edge source="ENSP00000472469" target="ENSP00000377640" />
+    <edge source="ENSP00000472469" target="ENSP00000404375" />
+    <edge source="ENSP00000472469" target="ENSP00000435096" />
+    <edge source="ENSP00000472469" target="ENSP00000435777" />
+    <edge source="ENSP00000355315" target="ENSP00000225430" />
+    <edge source="ENSP00000355315" target="ENSP00000230050" />
+    <edge source="ENSP00000355315" target="ENSP00000251453" />
+    <edge source="ENSP00000355315" target="ENSP00000259469" />
+    <edge source="ENSP00000355315" target="ENSP00000262584" />
+    <edge source="ENSP00000355315" target="ENSP00000296674" />
+    <edge source="ENSP00000355315" target="ENSP00000309830" />
+    <edge source="ENSP00000355315" target="ENSP00000318646" />
+    <edge source="ENSP00000355315" target="ENSP00000331019" />
+    <edge source="ENSP00000355315" target="ENSP00000346027" />
+    <edge source="ENSP00000355315" target="ENSP00000346050" />
+    <edge source="ENSP00000355315" target="ENSP00000346080" />
+    <edge source="ENSP00000355315" target="ENSP00000354739" />
+    <edge source="ENSP00000355315" target="ENSP00000435096" />
+    <edge source="ENSP00000355315" target="ENSP00000363018" />
+    <edge source="ENSP00000355315" target="ENSP00000357555" />
+    <edge source="ENSP00000355315" target="ENSP00000377640" />
+    <edge source="ENSP00000355315" target="ENSP00000435777" />
+    <edge source="ENSP00000355315" target="ENSP00000404375" />
+    <edge source="ENSP00000346080" target="ENSP00000225430" />
+    <edge source="ENSP00000346080" target="ENSP00000230050" />
+    <edge source="ENSP00000346080" target="ENSP00000251453" />
+    <edge source="ENSP00000346080" target="ENSP00000259469" />
+    <edge source="ENSP00000346080" target="ENSP00000262584" />
+    <edge source="ENSP00000346080" target="ENSP00000296674" />
+    <edge source="ENSP00000346080" target="ENSP00000309830" />
+    <edge source="ENSP00000346080" target="ENSP00000318646" />
+    <edge source="ENSP00000346080" target="ENSP00000331019" />
+    <edge source="ENSP00000346080" target="ENSP00000346027" />
+    <edge source="ENSP00000346080" target="ENSP00000346050" />
+    <edge source="ENSP00000346080" target="ENSP00000354739" />
+    <edge source="ENSP00000346080" target="ENSP00000363018" />
+    <edge source="ENSP00000346080" target="ENSP00000435096" />
+    <edge source="ENSP00000346080" target="ENSP00000357555" />
+    <edge source="ENSP00000346080" target="ENSP00000377640" />
+    <edge source="ENSP00000346080" target="ENSP00000435777" />
+    <edge source="ENSP00000346080" target="ENSP00000404375" />
+    <edge source="ENSP00000354739" target="ENSP00000225430" />
+    <edge source="ENSP00000354739" target="ENSP00000230050" />
+    <edge source="ENSP00000354739" target="ENSP00000251453" />
+    <edge source="ENSP00000354739" target="ENSP00000259469" />
+    <edge source="ENSP00000354739" target="ENSP00000262584" />
+    <edge source="ENSP00000354739" target="ENSP00000296674" />
+    <edge source="ENSP00000354739" target="ENSP00000309830" />
+    <edge source="ENSP00000354739" target="ENSP00000318646" />
+    <edge source="ENSP00000354739" target="ENSP00000331019" />
+    <edge source="ENSP00000354739" target="ENSP00000346027" />
+    <edge source="ENSP00000354739" target="ENSP00000346050" />
+    <edge source="ENSP00000354739" target="ENSP00000377640" />
+    <edge source="ENSP00000354739" target="ENSP00000435096" />
+    <edge source="ENSP00000354739" target="ENSP00000363018" />
+    <edge source="ENSP00000354739" target="ENSP00000357555" />
+    <edge source="ENSP00000354739" target="ENSP00000435777" />
+    <edge source="ENSP00000354739" target="ENSP00000404375" />
+    <edge source="ENSP00000296674" target="ENSP00000225430" />
+    <edge source="ENSP00000296674" target="ENSP00000230050" />
+    <edge source="ENSP00000296674" target="ENSP00000251453" />
+    <edge source="ENSP00000296674" target="ENSP00000259469" />
+    <edge source="ENSP00000296674" target="ENSP00000262584" />
+    <edge source="ENSP00000296674" target="ENSP00000268802" />
+    <edge source="ENSP00000296674" target="ENSP00000297990" />
+    <edge source="ENSP00000296674" target="ENSP00000344393" />
+    <edge source="ENSP00000296674" target="ENSP00000435096" />
+    <edge source="ENSP00000296674" target="ENSP00000346027" />
+    <edge source="ENSP00000296674" target="ENSP00000309830" />
+    <edge source="ENSP00000296674" target="ENSP00000363018" />
+    <edge source="ENSP00000296674" target="ENSP00000331019" />
+    <edge source="ENSP00000296674" target="ENSP00000357555" />
+    <edge source="ENSP00000296674" target="ENSP00000377640" />
+    <edge source="ENSP00000296674" target="ENSP00000435777" />
+    <edge source="ENSP00000296674" target="ENSP00000318646" />
+    <edge source="ENSP00000296674" target="ENSP00000404375" />
+    <edge source="ENSP00000296674" target="ENSP00000346050" />
+    <edge source="ENSP00000230050" target="ENSP00000225430" />
+    <edge source="ENSP00000230050" target="ENSP00000331019" />
+    <edge source="ENSP00000230050" target="ENSP00000268802" />
+    <edge source="ENSP00000230050" target="ENSP00000297990" />
+    <edge source="ENSP00000230050" target="ENSP00000344393" />
+    <edge source="ENSP00000230050" target="ENSP00000259469" />
+    <edge source="ENSP00000230050" target="ENSP00000435096" />
+    <edge source="ENSP00000230050" target="ENSP00000346027" />
+    <edge source="ENSP00000230050" target="ENSP00000309830" />
+    <edge source="ENSP00000230050" target="ENSP00000363018" />
+    <edge source="ENSP00000230050" target="ENSP00000251453" />
+    <edge source="ENSP00000230050" target="ENSP00000357555" />
+    <edge source="ENSP00000230050" target="ENSP00000377640" />
+    <edge source="ENSP00000230050" target="ENSP00000435777" />
+    <edge source="ENSP00000230050" target="ENSP00000318646" />
+    <edge source="ENSP00000230050" target="ENSP00000262584" />
+    <edge source="ENSP00000230050" target="ENSP00000404375" />
+    <edge source="ENSP00000230050" target="ENSP00000346050" />
+    <edge source="ENSP00000259469" target="ENSP00000225430" />
+    <edge source="ENSP00000259469" target="ENSP00000251453" />
+    <edge source="ENSP00000259469" target="ENSP00000435096" />
+    <edge source="ENSP00000259469" target="ENSP00000346027" />
+    <edge source="ENSP00000259469" target="ENSP00000309830" />
+    <edge source="ENSP00000259469" target="ENSP00000363018" />
+    <edge source="ENSP00000259469" target="ENSP00000331019" />
+    <edge source="ENSP00000259469" target="ENSP00000357555" />
+    <edge source="ENSP00000259469" target="ENSP00000377640" />
+    <edge source="ENSP00000259469" target="ENSP00000435777" />
+    <edge source="ENSP00000259469" target="ENSP00000262584" />
+    <edge source="ENSP00000259469" target="ENSP00000318646" />
+    <edge source="ENSP00000259469" target="ENSP00000404375" />
+    <edge source="ENSP00000259469" target="ENSP00000346050" />
+    <edge source="ENSP00000309830" target="ENSP00000225430" />
+    <edge source="ENSP00000309830" target="ENSP00000251453" />
+    <edge source="ENSP00000309830" target="ENSP00000262584" />
+    <edge source="ENSP00000309830" target="ENSP00000363018" />
+    <edge source="ENSP00000309830" target="ENSP00000435096" />
+    <edge source="ENSP00000309830" target="ENSP00000346027" />
+    <edge source="ENSP00000309830" target="ENSP00000357555" />
+    <edge source="ENSP00000309830" target="ENSP00000331019" />
+    <edge source="ENSP00000309830" target="ENSP00000377640" />
+    <edge source="ENSP00000309830" target="ENSP00000435777" />
+    <edge source="ENSP00000309830" target="ENSP00000318646" />
+    <edge source="ENSP00000309830" target="ENSP00000404375" />
+    <edge source="ENSP00000309830" target="ENSP00000346050" />
+    <edge source="ENSP00000346027" target="ENSP00000225430" />
+    <edge source="ENSP00000346027" target="ENSP00000251453" />
+    <edge source="ENSP00000346027" target="ENSP00000262584" />
+    <edge source="ENSP00000346027" target="ENSP00000318646" />
+    <edge source="ENSP00000346027" target="ENSP00000331019" />
+    <edge source="ENSP00000346027" target="ENSP00000435096" />
+    <edge source="ENSP00000346027" target="ENSP00000363018" />
+    <edge source="ENSP00000346027" target="ENSP00000377640" />
+    <edge source="ENSP00000346027" target="ENSP00000357555" />
+    <edge source="ENSP00000346027" target="ENSP00000435777" />
+    <edge source="ENSP00000346027" target="ENSP00000404375" />
+    <edge source="ENSP00000346027" target="ENSP00000346050" />
+    <edge source="ENSP00000435096" target="ENSP00000225430" />
+    <edge source="ENSP00000435096" target="ENSP00000251453" />
+    <edge source="ENSP00000435096" target="ENSP00000262584" />
+    <edge source="ENSP00000435096" target="ENSP00000268802" />
+    <edge source="ENSP00000435096" target="ENSP00000297990" />
+    <edge source="ENSP00000435096" target="ENSP00000318646" />
+    <edge source="ENSP00000435096" target="ENSP00000331019" />
+    <edge source="ENSP00000435096" target="ENSP00000344393" />
+    <edge source="ENSP00000435096" target="ENSP00000346046" />
+    <edge source="ENSP00000435096" target="ENSP00000346050" />
+    <edge source="ENSP00000435096" target="ENSP00000357555" />
+    <edge source="ENSP00000435096" target="ENSP00000363018" />
+    <edge source="ENSP00000435096" target="ENSP00000377640" />
+    <edge source="ENSP00000435096" target="ENSP00000404375" />
+    <edge source="ENSP00000435096" target="ENSP00000435777" />
+    <edge source="ENSP00000363018" target="ENSP00000225430" />
+    <edge source="ENSP00000363018" target="ENSP00000251453" />
+    <edge source="ENSP00000363018" target="ENSP00000262584" />
+    <edge source="ENSP00000363018" target="ENSP00000318646" />
+    <edge source="ENSP00000363018" target="ENSP00000331019" />
+    <edge source="ENSP00000363018" target="ENSP00000346050" />
+    <edge source="ENSP00000363018" target="ENSP00000354040" />
+    <edge source="ENSP00000363018" target="ENSP00000357555" />
+    <edge source="ENSP00000363018" target="ENSP00000435777" />
+    <edge source="ENSP00000363018" target="ENSP00000377640" />
+    <edge source="ENSP00000363018" target="ENSP00000404375" />
+    <edge source="ENSP00000357555" target="ENSP00000225430" />
+    <edge source="ENSP00000357555" target="ENSP00000251453" />
+    <edge source="ENSP00000357555" target="ENSP00000262584" />
+    <edge source="ENSP00000357555" target="ENSP00000268802" />
+    <edge source="ENSP00000357555" target="ENSP00000297990" />
+    <edge source="ENSP00000357555" target="ENSP00000318646" />
+    <edge source="ENSP00000357555" target="ENSP00000331019" />
+    <edge source="ENSP00000357555" target="ENSP00000344393" />
+    <edge source="ENSP00000357555" target="ENSP00000346046" />
+    <edge source="ENSP00000357555" target="ENSP00000346050" />
+    <edge source="ENSP00000357555" target="ENSP00000435777" />
+    <edge source="ENSP00000357555" target="ENSP00000377640" />
+    <edge source="ENSP00000357555" target="ENSP00000404375" />
+    <edge source="ENSP00000251453" target="ENSP00000225430" />
+    <edge source="ENSP00000251453" target="ENSP00000346046" />
+    <edge source="ENSP00000251453" target="ENSP00000268802" />
+    <edge source="ENSP00000251453" target="ENSP00000297990" />
+    <edge source="ENSP00000251453" target="ENSP00000344393" />
+    <edge source="ENSP00000251453" target="ENSP00000377640" />
+    <edge source="ENSP00000251453" target="ENSP00000331019" />
+    <edge source="ENSP00000251453" target="ENSP00000435777" />
+    <edge source="ENSP00000251453" target="ENSP00000318646" />
+    <edge source="ENSP00000251453" target="ENSP00000262584" />
+    <edge source="ENSP00000251453" target="ENSP00000404375" />
+    <edge source="ENSP00000251453" target="ENSP00000346050" />
+    <edge source="ENSP00000331019" target="ENSP00000225430" />
+    <edge source="ENSP00000331019" target="ENSP00000262584" />
+    <edge source="ENSP00000331019" target="ENSP00000268802" />
+    <edge source="ENSP00000331019" target="ENSP00000297990" />
+    <edge source="ENSP00000331019" target="ENSP00000318646" />
+    <edge source="ENSP00000331019" target="ENSP00000404375" />
+    <edge source="ENSP00000331019" target="ENSP00000346050" />
+    <edge source="ENSP00000331019" target="ENSP00000344393" />
+    <edge source="ENSP00000331019" target="ENSP00000435777" />
+    <edge source="ENSP00000331019" target="ENSP00000377640" />
+    <edge source="ENSP00000377640" target="ENSP00000225430" />
+    <edge source="ENSP00000377640" target="ENSP00000262584" />
+    <edge source="ENSP00000377640" target="ENSP00000318646" />
+    <edge source="ENSP00000377640" target="ENSP00000346050" />
+    <edge source="ENSP00000377640" target="ENSP00000435777" />
+    <edge source="ENSP00000377640" target="ENSP00000404375" />
+    <edge source="ENSP00000435777" target="ENSP00000225430" />
+    <edge source="ENSP00000435777" target="ENSP00000262584" />
+    <edge source="ENSP00000435777" target="ENSP00000268802" />
+    <edge source="ENSP00000435777" target="ENSP00000297990" />
+    <edge source="ENSP00000435777" target="ENSP00000318646" />
+    <edge source="ENSP00000435777" target="ENSP00000344393" />
+    <edge source="ENSP00000435777" target="ENSP00000346046" />
+    <edge source="ENSP00000435777" target="ENSP00000346050" />
+    <edge source="ENSP00000435777" target="ENSP00000404375" />
+    <edge source="ENSP00000225430" target="ENSP00000404375" />
+    <edge source="ENSP00000225430" target="ENSP00000318646" />
+    <edge source="ENSP00000225430" target="ENSP00000262584" />
+    <edge source="ENSP00000225430" target="ENSP00000346050" />
+    <edge source="ENSP00000225430" target="ENSP00000346046" />
+    <edge source="ENSP00000318646" target="ENSP00000262584" />
+    <edge source="ENSP00000318646" target="ENSP00000268802" />
+    <edge source="ENSP00000318646" target="ENSP00000297990" />
+    <edge source="ENSP00000318646" target="ENSP00000344393" />
+    <edge source="ENSP00000318646" target="ENSP00000404375" />
+    <edge source="ENSP00000318646" target="ENSP00000346050" />
+    <edge source="ENSP00000262584" target="ENSP00000362153" />
+    <edge source="ENSP00000262584" target="ENSP00000404375" />
+    <edge source="ENSP00000262584" target="ENSP00000346050" />
+    <edge source="ENSP00000404375" target="ENSP00000346050" />
+    <edge source="ENSP00000346050" target="ENSP00000268802" />
+    <edge source="ENSP00000346050" target="ENSP00000297990" />
+    <edge source="ENSP00000346050" target="ENSP00000344393" />
+    <edge source="ENSP00000346050" target="ENSP00000346046" />
+    <edge source="ENSP00000268802" target="ENSP00000362153" />
+    <edge source="ENSP00000268802" target="ENSP00000297990" />
+    <edge source="ENSP00000268802" target="ENSP00000344393" />
+    <edge source="ENSP00000297990" target="ENSP00000344393" />
+    <edge source="ENSP00000362153" target="ENSP00000338573" />
+    <edge source="ENSP00000362153" target="ENSP00000354040" />
+    <edge source="ENSP00000354040" target="ENSP00000338573" />
+  </graph>
+</graphml>
