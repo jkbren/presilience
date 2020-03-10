@@ -22,6 +22,7 @@ email: brennanjamesklein@gmail.com
 import networkx as nx
 import numpy as np
 import warnings
+import community
 
 
 def modified_shannon_entropy(G, f, removal='random',
@@ -60,6 +61,7 @@ def modified_shannon_entropy(G, f, removal='random',
         this function also returns H_msh_stdv.
 
     """
+
     H_msh_mean = []
     for _ in range(niter):
         out_H = []
@@ -197,6 +199,7 @@ def add_node(G, m, n, method='random', alpha=1.0):
         the graph with nodes added.
 
     """
+
     nodes = list(G.nodes())
     N = len(nodes)
 
@@ -238,3 +241,299 @@ def add_node(G, m, n, method='random', alpha=1.0):
         nx.set_node_attributes(G, gene_exp_dict, 'gene_expression')
 
         return G
+
+
+def presilience(G, t=4, m=2, method='random', rate=100,
+                ntimes=10, output_list=True, printt=True):
+    """
+    The 'presilience' is defined as the change in resilience (as calculated
+    in Zitnik et al. (2019) using a modified Shannon entropy of the
+    cluster size distribution in a network following uniform node removal)
+    following the addition of a new node into the network. This new node
+    may be added randomly, preferentially based on degree, or using
+    insights about empirical distributions of protein-specific interaction
+    patterns (named 'bio_smart', 'random', and 'degree').
+
+    Parameters
+    ----------
+    G (nx.Graph):
+        the protein-protein interaction network in question.
+
+    t (int):
+        the number of new nodes added (aka the number of timesteps) in the
+        future that the presilience will be calculated.
+
+    m (int):
+        the number of edges that each new node brings to the network.
+
+    method (str):
+        the method of node-addition in question (can be either 'random'--adds
+        node's edges randomly, 'degree'--adds edges preferentially based on
+        degree, and 'bio_smart'-- which adds edges based on biological data).
+
+    rate (int):
+        the number of intervals between 0 and 1, which correspond to fractions
+        of the network that are removed at each step.
+
+    n_times (int):
+        the number of runs that the algorithm goes through in order to arrive
+        at the final (averaged) entropy value.
+
+    output_list (bool):
+        if True, returns list of resilience values. else return single number.
+
+    Returns
+    -------
+    G (nx.Graph):
+        the new graph with nodes added
+
+    presilience (list or float):
+        a list of resilience values or final resilience
+
+    """
+
+    Gx = G.copy()
+    presilience = [resilience(Gx, ntimes, rate, output_list=False)]
+
+    for new_node in range(t):
+        if printt:
+            print("\t Presilience t =", new_node)
+
+        Gx = add_node(Gx, m, new_node, method)
+        presilience.append(resilience(Gx, ntimes, rate, output_list=False))
+
+    if output_list:
+        return Gx, presilience
+    else:
+        return Gx, presilience[-1]
+
+
+def presilience_mean(G, t=4, m=2, method='random', rate=40,
+                     ntimes=10, output_list=True, n_iter=20, printt=True):
+    """
+    Runs the presilience algorithm several (n_iter) times.
+
+    Parameters
+    ----------
+    G (nx.Graph):
+        the protein-protein interaction network in question.
+
+    t (int):
+        the number of new nodes added (aka the number of timesteps) in the
+        future that the presilience will be calculated.
+
+    m (int):
+        the number of edges that each new node brings to the network.
+
+    method (str):
+        the method of node-addition in question (can be either 'random'--adds
+        node's edges randomly, 'degree'--adds edges preferentially based on
+        degree, and 'bio_smart'-- which adds edges based on biological data).
+
+    rate (int):
+        the number of intervals between 0 and 1, which correspond to fractions
+        of the network that are removed at each step.
+
+    n_times (int):
+        the number of runs that the algorithm goes through in order to arrive
+        at the final (averaged) entropy value.
+
+    output_list (bool):
+        if True, returns list of resilience values. else, return single number.
+
+    n_iter (int):
+        number of iterations that go into creating the mean presilience.
+
+    Returns
+    -------
+    presilience_mean (np.array):
+        vector of resilience values of length t, averaged over n_iter times.
+
+    """
+
+    if output_list:
+        pres = []
+        for i in range(n_iter):
+            if printt:
+                print('Presilience run: %02i' % (i))
+
+            _, pres_i = presilience(G, t, m, method, rate, ntimes, output_list)
+            pres.append(pres_i)
+
+        pres = np.array(pres)
+        presilience_mean = pres.mean(axis=0)
+
+    else:
+        pres = []
+        for i in range(n_iter):
+            if printt:
+                print('Presilience run: %02i' % (i))
+
+            _, pres_i = presilience(G, t, m, method, rate, ntimes, output_list)
+            pres.append(pres_i)
+
+        pres = np.array(pres)
+        presilience_mean = sum(pres) / len(pres)
+
+    return presilience_mean
+
+
+def modularience(G, t=4, m=2, method='random', output_list=True, printt=True):
+    """
+    The 'modularience' is defined as the change in modularity of the
+    community-detected partition following the following the
+    addition of a new node into the network. This new node may be
+    added randomly, preferentially based on degree, or using insights
+    about empirical distributions of protein-specific interaction
+    patterns (named 'bio_smart', 'random', and 'degree').
+
+    Parameters
+    ----------
+    G (nx.Graph):
+        the protein-protein interaction network in question.
+
+    t (int):
+        the number of new nodes added (aka the number of timesteps) in the
+        future that the presilience will be calculated.
+
+    m (int):
+        the number of edges that each new node brings to the network.
+
+    method (str):
+        the method of node-addition in question (can be either 'random'--adds
+        node's edges randomly, 'degree'--adds edges preferentially based on
+        degree, and 'bio_smart'-- which adds edges based on biological data).
+
+    output_list (bool):
+        if True, returns list of resilience values. else return single number.
+
+    Returns
+    -------
+    G (nx.Graph):
+        the new graph with nodes added.
+
+    modularience (list or float):
+        a list of modularity values or final modularity.
+
+    """
+
+    Gx = G.copy()
+    partition = community.best_partition(Gx)
+    modularit = [community.modularity(partition, Gx)]
+
+    for new_node in range(t):
+        if printt:
+            print("\t Modularience t =", new_node)
+
+        Gx = add_node(Gx, m, str(new_node), method)
+        partition = community.best_partition(Gx)
+        modularit.append(community.modularity(partition, Gx))
+
+    if output_list:
+        return Gx, modularit
+    else:
+        return Gx, modularit[-1]
+
+
+def modularience_mean(G, t=4, m=2, method='random',
+                      output_list=True, n_iter=20, printt=True):
+    """
+    Runs the modularience algorithm several (n_iter) times.
+
+    Parameters
+    ----------
+    G (nx.Graph):
+        the protein-protein interaction network in question.
+
+    t (int):
+        the number of new nodes added (aka the number of timesteps) in the
+        future that the presilience will be calculated.
+
+    m (int):
+        the number of edges that each new node brings to the network.
+
+    method (str):
+        the method of node-addition in question (can be either 'random'--adds
+        node's edges randomly, 'degree'--adds edges preferentially based on
+        degree, and 'bio_smart'-- which adds edges based on biological data).
+
+    output_list (bool):
+        if True, returns list of resilience values. else return single number.
+
+    Returns
+    -------
+    comm_mean (np.array):
+        vector of modularity values of length t, averaged over n_iter times.
+
+    """
+
+    if output_list:
+        comm = []
+        for i in range(n_iter):
+            if printt:
+                print('Modularience run: %02i' % (i))
+
+            _, comm_i = modularience(G, t, m, method, output_list)
+            comm.append(comm_i)
+
+        comm = np.array(comm)
+        comm_mean = comm.mean(axis=0)
+
+    else:
+        comm = []
+        for i in range(n_iter):
+            if printt:
+                print('Modularience run: %02i' % (i))
+
+            _, comm_i = modularience(G, t, m, method, output_list)
+            comm.append(comm_i)
+
+        comm = np.array(comm)
+        comm_mean = sum(comm) / len(comm)
+
+    return comm_mean
+
+
+def gene_expression_shuffle(G, p_permute):
+    """
+    Shuffles p_permute of the gene expression values. Each node in G
+    should have a node attribute that corresponds to the gene expression
+    of that protein. If we want to ask what the effect of *mere* values
+    associated with each node (or the distribution of those values),
+    this function becomes especially useful.
+
+    Parameters
+    ----------
+    G (nx.Graph):
+        the protein-protein interaction network in question.
+
+    p_permute (float):
+        the fraction of nodes in the network whose gene expression values
+        will be shuffled among one another.
+
+    Returns
+    -------
+    H (nx.Graph):
+        the modified graph with new (shuffled) gene expression values.
+
+    """
+
+    gene_expression = nx.get_node_attributes(G, 'gene_expression')
+
+    # permute the gene expression values among n nodes
+    n_permute = int(p_permute * G.number_of_nodes())
+    permutate_nodes = np.random.choice(list(G.nodes()), replace=False,
+                                       size=n_permute)
+
+    gene_expression_values = [gene_expression.get(i) for i in permutate_nodes]
+
+    gene_expression_out = gene_expression.copy()
+    np.random.shuffle(gene_expression_values)
+
+    for p_i, perm in enumerate(permutate_nodes):
+        gene_expression_out[perm] = gene_expression_values[p_i]
+
+    H = G.copy()
+    nx.set_node_attributes(H, gene_expression_out, 'gene_expression')
+
+    return H
