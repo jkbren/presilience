@@ -96,3 +96,42 @@ def average_every_n(xvec, yvec, n=2):
 
     return out_x, out_y
 
+
+def get_nodesizes(G, attach_type, ns=30):
+    """
+    Simple function that returns a vector of node sizes, based on some
+    attribute, for pretty plotting.
+
+    Parameters
+    ----------
+    G (nx.Graph):
+        the network to be plotted.
+
+    attach_type (str):
+        string corresponding to attribute that should be used for sizing nodes.
+
+    ns (float):
+        baseline size of nodes, initialized to ns=30.
+
+    Returns
+    -------
+    (np.ndarray):
+        array of node sizes, indexed the same way as G.nodes() is.
+
+    """
+
+    if attach_type == 'none':
+        return np.array([ns]*G.number_of_nodes())
+
+    if attach_type == 'random':
+        return np.random.uniform(0.5*ns, 1.5*ns, G.number_of_nodes())
+
+    if attach_type == 'gene-expression':
+        return ns * np.random.lognormal(0, 0.85, G.number_of_nodes())
+
+    degs = np.array(list(dict(G.degree()).values()))
+    if attach_type == 'degree':
+        return 2 + np.array(list(dict(G.degree()).values()))**1.75
+
+    if attach_type == 'inverse-degree':
+        return (-degs-min(-degs)+1)**1.5
