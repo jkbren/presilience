@@ -19,13 +19,13 @@ Swain, Laura Stolp, Ashley I. Teufel, and April S. Kleppe. (2020).
 <img src="figs/pngs/erdos_renyi_p_resilience.png" alt="Resilience of E.R. networks" width="95%"/>
 </p>
 
-**<p align="center">Fig. 2: The effect of network density on resilience.**</center>**
+**<p align="center">Fig. 2: The effect of network density on resilience.</center>**
 
 <p align="center">
 <img src="figs/pngs/attachment_mechanisms.png" alt="Attachment mechanisms" width="95%"/>
 </p>
 
-**<p align="center">Fig. 3: Different node attachment mechanisms for prospective resilience.**</center>**
+**<p align="center">Fig. 3: Different node attachment mechanisms for prospective resilience.</center>**
 
 - - - -
 
