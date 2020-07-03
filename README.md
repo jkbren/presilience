@@ -31,8 +31,8 @@ Swain, Laura Stolp, Ashley I. Teufel, and April S. Kleppe. (2020)](https://www.b
 
 ## Analysis Notebooks
 1. [01_Intro_Network_Resilience](https://nbviewer.jupyter.org/github/jkbren/presilience/blob/master/code/01_Intro_Network_Resilience.ipynb)
-2. [02_Protein_Network_Resilience](https://nbviewer.jupyter.org/github/jkbren/presilience/blob/master/code/01_Intro_Network_Resilience.ipynb)
-3. [03_Prospective_Resilience](https://nbviewer.jupyter.org/github/jkbren/presilience/blob/master/code/01_Intro_Network_Resilience.ipynb)
+2. [02_Protein_Network_Resilience](https://nbviewer.jupyter.org/github/jkbren/presilience/blob/master/code/02_Protein_Network_Resilience.ipynb)
+3. [03_Prospective_Resilience](https://nbviewer.jupyter.org/github/jkbren/presilience/blob/master/code/03_Prospective_Resilience.ipynb)
 
 
 ## Installation and Usage
