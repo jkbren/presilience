@@ -37,8 +37,7 @@ Swain, Laura Stolp, Ashley I. Teufel, and April S. Kleppe. (2020)](https://www.b
 
 ## Installation and Usage
 
-In order to use this code, first clone/download the repository. 
-Below is a simple example usage. Please feel free to reach 
+In order to use this code, first clone/download the repository. Please feel free to reach 
 out if you find any bugs, have any questions, or if for some reason
 the code does not run. 
 
