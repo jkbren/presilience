@@ -3,9 +3,9 @@
 Python code for calculating the resilience and the *prospective resilience*
 in networks. This code accompanies the recent paper: 
 
-**Resilience and evolvability of protein-protein interaction networks**. by
+[**Resilience and evolvability of protein-protein interaction networks**. by
 Brennan Klein, Ludvig Holmér, Keith M. Smith, Mackenzie M. Johnson, Anshuman
-Swain, Laura Stolp, Ashley I. Teufel, and April S. Kleppe. (2020).
+Swain, Laura Stolp, Ashley I. Teufel, and April S. Kleppe. (2020)](https://www.biorxiv.org/content/10.1101/2020.07.02.184325v1).
 
 - - - -
 
@@ -63,8 +63,7 @@ If you use these methods and this code in your own research, please cite our pap
 
 Klein, B., Holmér, L., Smith, K., Johnson, M., Swain, A., Stolp, L.,
 Teufel, A., and Kleppe, A. (2020).
-**Capturing the evolutionary capacity to innovate via novel interactions
-in protein-protein interaction networks.**
+**Resilience and evolvability of protein-protein interaction networks.**
 
 
 Bibtex: 
@@ -73,7 +72,7 @@ Bibtex:
   title = {Resilience and evolvability of protein-protein interaction networks},
   author = {Klein, Brennan and Holmér, Ludvig and Smith, Keith M. and Johnson, Mackenzie M.
             and Swain, Anshuman and Stolp, Laura and Teufel, Ashley I. and Kleppe, April S.},
-  journal = {arXiv preprint XXX},
+  journal = {bioRxiv preprint 10.1101/2020.07.02.184325v1},
   year = {2020}
 }
 ```
