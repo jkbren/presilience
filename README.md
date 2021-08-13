@@ -3,9 +3,9 @@
 Python code for calculating the resilience and the *prospective resilience*
 in networks. This code accompanies the recent paper: 
 
-**Resilience and evolvability of protein-protein interaction networks**. by
+[**Resilience and evolvability of protein-protein interaction networks**. by
 Brennan Klein, Ludvig Holmér, Keith M. Smith, Mackenzie M. Johnson, Anshuman
-Swain, Laura Stolp, Ashley I. Teufel, and April S. Kleppe. (2020).
+Swain, Laura Stolp, Ashley I. Teufel, and April S. Kleppe. (2020)](https://www.biorxiv.org/content/10.1101/2020.07.02.184325v1).
 
 - - - -
 
@@ -31,14 +31,13 @@ Swain, Laura Stolp, Ashley I. Teufel, and April S. Kleppe. (2020).
 
 ## Analysis Notebooks
 1. [01_Intro_Network_Resilience](https://nbviewer.jupyter.org/github/jkbren/presilience/blob/master/code/01_Intro_Network_Resilience.ipynb)
-2. [02_Protein_Network_Resilience](https://nbviewer.jupyter.org/github/jkbren/presilience/blob/master/code/01_Intro_Network_Resilience.ipynb)
-3. [03_Prospective_Resilience](https://nbviewer.jupyter.org/github/jkbren/presilience/blob/master/code/01_Intro_Network_Resilience.ipynb)
+2. [02_Protein_Network_Resilience](https://nbviewer.jupyter.org/github/jkbren/presilience/blob/master/code/02_Protein_Network_Resilience.ipynb)
+3. [03_Prospective_Resilience](https://nbviewer.jupyter.org/github/jkbren/presilience/blob/master/code/03_Prospective_Resilience.ipynb)
 
 
 ## Installation and Usage
 
-In order to use this code, first clone/download the repository. 
-Below is a simple example usage. Please feel free to reach 
+In order to use this code, first clone/download the repository. Please feel free to reach 
 out if you find any bugs, have any questions, or if for some reason
 the code does not run. 
 
@@ -63,8 +62,7 @@ If you use these methods and this code in your own research, please cite our pap
 
 Klein, B., Holmér, L., Smith, K., Johnson, M., Swain, A., Stolp, L.,
 Teufel, A., and Kleppe, A. (2020).
-**Capturing the evolutionary capacity to innovate via novel interactions
-in protein-protein interaction networks.**
+**Resilience and evolvability of protein-protein interaction networks.**
 
 
 Bibtex: 
@@ -73,7 +71,7 @@ Bibtex:
   title = {Resilience and evolvability of protein-protein interaction networks},
   author = {Klein, Brennan and Holmér, Ludvig and Smith, Keith M. and Johnson, Mackenzie M.
             and Swain, Anshuman and Stolp, Laura and Teufel, Ashley I. and Kleppe, April S.},
-  journal = {arXiv preprint XXX},
+  journal = {bioRxiv preprint 10.1101/2020.07.02.184325v1},
   year = {2020}
 }
 ```
