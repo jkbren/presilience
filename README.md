@@ -1,5 +1,7 @@
 # The prospective resilience of (protein) networks
 
+[![DOI](https://zenodo.org/badge/238232290.svg)](https://zenodo.org/badge/latestdoi/238232290)
+
 Python code for calculating the resilience and the *prospective resilience*
 in networks. This code accompanies the recent paper: 
 
